@@ -1,4 +1,4 @@
-# NeptUNO Plus FPGA report
+# NeptUNO Plus FPGA Report
 
 **📄 Description:** This report provides an overview of the arcade cores available for the **NeptUNO Plus** FPGA.
 
