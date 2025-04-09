@@ -1,6 +1,6 @@
-# Neptuno Plus FPGA Report
+# NeptUNO Plus FPGA report
 
-**📄 Description:** This report provides an overview of the cores available for the **neptuno_plus** FPGA.
+**📄 Description:** This report provides an overview of the arcade cores missing for the **NeptUNO Plus** FPGA.
 
 ## 📊 Summary:
 - **Total Cores in database:** 227
@@ -11,7 +11,7 @@
 
 ### 🗂️ Core Details
 
-| 🏷️ **Core Name** | 📝 **Description** | 🗒️ **Global Notes** | 🔗 **Source Links** | 🗂️ **Source** |
+| 🏷️ **Core Name** | 📝 **Description** | 🗒️ **Global Notes** | 🔗 **Source Code** | 🗂️ **Database** |
 |-------------------|---------------------|----------------------|---------------------|---------------|
 | **asteroids** | Atari Vector |  | Mister - [MiSTer-devel/Arcade-Asteroids_MiSTer](https://github.com/MiSTer-devel/Arcade-Asteroids_MiSTer)</br>Mist - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Atari%20Vector) | Distribution_MiSTer |
 | **asteroidsdeluxe** |  |  | Mister - [MiSTer-devel/Arcade-AsteroidsDeluxe_MiSTer](https://github.com/MiSTer-devel/Arcade-AsteroidsDeluxe_MiSTer) | Distribution_MiSTer |

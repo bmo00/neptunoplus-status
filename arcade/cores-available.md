@@ -1,6 +1,6 @@
-# Neptuno Plus FPGA Report
+# NeptUNO Plus FPGA report
 
-**📄 Description:** This report provides an overview of the cores available for the **neptuno_plus** FPGA.
+**📄 Description:** This report provides an overview of the arcade cores available for the **NeptUNO Plus** FPGA.
 
 ## 📊 Summary:
 - **Total Cores in database:** 227
@@ -11,7 +11,7 @@
 
 ### 🗂️ Core Details
 
-| 🏷️ **Core Name** | 📝 **Description** | 🗒️ **Global Notes** | 🔗 **Source Links** | 🗂️ **Source** |
+| 🏷️ **Core Name** | 📝 **Description** | 🗒️ **Global Notes** | 🔗 **Source Code** | 🗂️ **Database** |
 |-------------------|---------------------|----------------------|---------------------|---------------|
 | **alpha68k** | Alpha Densi M68000 Hardware | From schematics | Mister - [va7deo/alpha68k](https://github.com/va7deo/alpha68k)</br>Mist - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Alpha%20Densi%20M68000%20Hardware)</br>Sidi128 - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Alpha%20Densi%20M68000%20Hardware) | Coin-OpCollection |
 | **arkanoid** | Taito Arkanoid |  | Mister - [MiSTer-devel/Arcade-Arkanoid_MISTer](https://github.com/MiSTer-devel/Arcade-Arkanoid_MISTer)</br>Mist - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Taito%20Arkanoid)</br>Sidi128 - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Taito%20Arkanoid) | Distribution_MiSTer |
