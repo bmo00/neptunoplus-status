@@ -2,6 +2,7 @@
 
 > [!NOTE]
 > Core database used is primarily based on those available for MiSTer.
+
 > Reports are generated automatically.
 
 ## Arcade
