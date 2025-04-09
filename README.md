@@ -1,5 +1,8 @@
 # Neptuno Plus status
 
+> [!WARNING]
+> This is a work in progress. Content is subject to change and updates are ongoing.
+
 > [!NOTE]
 > Core database used is primarily based on those available for *MiSTer*.
 >
