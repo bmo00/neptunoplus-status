@@ -9,8 +9,8 @@
 
 ### Arcade
 
-- [Available cores](./arcade/available-cores.md)
-- [Missing cores](./arcade/missing-cores.md)
+- [Available cores](./arcade/cores-available.md)
+- [Missing cores](./arcade/cores-missing.md)
 - [Games per available core](./arcade/games-available.md)
 - [Games per missing core](./arcade/games-missing.md)
 
