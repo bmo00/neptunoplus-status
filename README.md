@@ -1,10 +1,10 @@
 > [!WARNING]
-> This is a work in progress. Content is subject to change and updates are ongoing.
+> Please note: This is a work in progress. Content is subject to change, and updates are ongoing.
 
-# Neptuno Plus status
+# neptUNO+ status
 
 > [!NOTE]
-> Core database used is primarily based on those available for *MiSTer*.
+> The core database used is primarily based on those available for *MiSTer*.
 >
 > Reports are generated automatically.
 
@@ -12,20 +12,20 @@
 
 ### Arcade
 
-- [Available cores](./arcade/cores-available.md)
-- [Missing cores](./arcade/cores-missing.md)
-- [Games per available core](./arcade/games-available.md)
-- [Games per missing core](./arcade/games-missing.md)
+- [Available cores](./arcade/cores-available.md) (WIP)
+- [Missing cores](./arcade/cores-missing.md) (WIP)
+- Games per available core
+- Games per missing core
 
 ### Console
 
-- [Available cores](./arcade/available-cores.md)
-- [Missing cores](./arcade/missing-cores.md)
+- Available cores
+- Missing cores
 
 ### Computer
 
-- [Available cores](./arcade/available-cores.md)
-- [Missing cores](./arcade/missing-cores.md)
+- Available cores
+- Missing cores
 
 ## Resources
 
@@ -35,17 +35,18 @@
 - [JOTEGO](https://github.com/jotego/jtcores_mister)
 - [Coin-Op Collection MiSTerFPGA Cores](https://github.com/Coin-OpCollection/Distribution-MiSTerFPGA)
 - [theypsilon Unofficial Distribution](https://github.com/theypsilon/Unofficial_Distribution_MiSTer)
+- [Arcade Database for MiSTer](https://github.com/MiSTer-devel/ArcadeDatabase_MiSTer)
 
 ### Source code
 
 - [gyurco (MiST and SiDi128)](https://github.com/gyurco/Mist_FPGA)
-- [BigMiST - Curated Core Repository for hairy and fat Altera FPGA](https://github.com/BigMist)
+- [BigMiST - Curated Core Repository for 'hairy and fat' Altera FPGAs](https://github.com/BigMist)
 
 ### Cores
 
-- [Neptuno Plus binaries](https://github.com/neptunoplus/Binaries)
+- [neptUNO+ binaries](https://github.com/neptunoplus/Binaries)
 
 ### Tools
 
-- [ARC and ROM Builder](https://github.com/kounch/ARC_ROM_Builder) by Kounch
-- [Make SD MiST](https://github.com/gcopoix/makeSD_mist) - Script to initialize an SD card for MiST, SiDi and SiDi128 FPGA retro board.
+- [ARC and ROM Builder](https://github.com/kounch/ARC_ROM_Builder) by Kounch.
+- [Make SD MiST](https://github.com/gcopoix/makeSD_mist) - Script to initialise an SD card for MiST, SiDi, and SiDi128 FPGA retro boards.
