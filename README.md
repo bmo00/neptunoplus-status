@@ -14,8 +14,8 @@
 
 - [Available cores](./arcade/cores-available.md) (WIP)
 - [Missing cores](./arcade/cores-missing.md) (WIP)
-- Games per available core
-- Games per missing core
+- [Games per available core](./arcade/games-available.md) (WIP)
+- [Games per missing core](./arcade/games-missing.md) (WIP)
 
 ### Console
 
@@ -50,3 +50,4 @@
 
 - [ARC and ROM Builder](https://github.com/kounch/ARC_ROM_Builder) by Kounch.
 - [Make SD MiST](https://github.com/gcopoix/makeSD_mist) - Script to initialise an SD card for MiST, SiDi, and SiDi128 FPGA retro boards.
+- [MiSTer Downloader](https://github.com/MiSTer-devel/Downloader_MiSTer)

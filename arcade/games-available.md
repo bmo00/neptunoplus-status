@@ -1,6 +1,6 @@
 # netUNO+ FPGA report: Games available
 
-**📄 Description:** This report provides an overview of the arcade cores <built-in method lower of str object at 0x7a88b3326a30> for the **neptUNO+** FPGA.
+**📄 Description:** This report provides an overview of the arcade cores games available for the **neptUNO+** FPGA.
 
 ## 📊 Summary:
 - **Cores available in the database:** 227
@@ -617,7 +617,7 @@
 | pacman | [numcrash](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=numcrash&lang=en) | Number Crash.mra | ['Namco Pac-Man hardware'] | 90 | 1980 |
 | pacman | [woodpeck](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=woodpeck&lang=en) | Woodpecker (Set 1).mra | ['Namco Pac-Man hardware'] | 90 | 1981 |
 | pacman | [gorkans](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gorkans&lang=en) | Gorkans.mra | ['Namco Pac-Man hardware'] | 90 | 1983 |
-| pacman | [pollen angel](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pollen angel&lang=en) | NO MAD | x | x | x |
+| pacman | [pollen angel](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pollen%20angel&lang=en) | NO MAD | x | x | x |
 | pacman | [eggor](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=eggor&lang=en) | Eggor.mra | ['Namco Pac-Man hardware'] | 90 | 1983 |
 | pacman | [mspacman](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mspacman&lang=en) | Ms. Pac-Man.mra | ['Namco Pac-Man hardware'] | 90 | 1981 |
 | pacman | [pacplus](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pacplus&lang=en) | Pac-Man Plus.mra | ['Namco Pac-Man hardware'] | 90 | 1982 |
