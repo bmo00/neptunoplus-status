@@ -1,6 +1,6 @@
 # netUNO+ FPGA report: Games missing
 
-**📄 Description:** This report provides an overview of the arcade cores <built-in method lower of str object at 0x75139fc92b30> for the **neptUNO+** FPGA.
+**📄 Description:** This report provides an overview of the arcade cores <built-in method lower of str object at 0x75ee3694ab30> for the **neptUNO+** FPGA.
 
 ## 📊 Summary:
 - **Cores available in the database:** 227
