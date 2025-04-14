@@ -17,6 +17,7 @@
 - [Games supported](./arcade/games-supported.md)
 - [Games unsupported](./arcade/games-unsupported.md)
 - [Games supported (by core)](./arcade/games-supported-by-core.md)
+- [Games unsupported (by core)](./arcade/games-unsupported-by-core.md)
 
 ### Console
 
