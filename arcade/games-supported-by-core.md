@@ -1,6 +1,6 @@
-# neptUNO+ FPGA report: Games by core
+# neptUNO+ FPGA report: Games supported by core
 
-This report provides an overview of the arcade cores games by core for the **neptUNO+** FPGA.
+This report provides an overview of the arcade cores games supported by core for the **neptUNO+** FPGA.
 
 ## 📊 Summary:
 - **Cores available in the database:** 240

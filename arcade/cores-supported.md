@@ -1,6 +1,6 @@
-# neptUNO+ FPGA report: Cores available
+# neptUNO+ FPGA report: Cores supported
 
-This report provides an overview of the arcade cores cores available for the **neptUNO+** FPGA.
+This report provides an overview of the arcade cores cores supported for the **neptUNO+** FPGA.
 
 ## 📊 Summary:
 - **Cores available in the database:** 240

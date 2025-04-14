@@ -1,6 +1,6 @@
-# neptUNO+ FPGA report: Games missing
+# neptUNO+ FPGA report: Games unsupported
 
-This report provides an overview of the arcade cores games missing for the **neptUNO+** FPGA.
+This report provides an overview of the arcade cores games unsupported for the **neptUNO+** FPGA.
 
 ## 📊 Summary:
 - **Cores available in the database:** 240

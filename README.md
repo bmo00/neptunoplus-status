@@ -12,11 +12,11 @@
 
 ### Arcade (WIP)
 
-- [Available cores](./arcade/cores-available.md)
-- [Missing cores](./arcade/cores-missing.md)
-- [Games per available core](./arcade/games-available.md)
-- [Games per missing core](./arcade/games-missing.md)
-- [Games per available core](./arcade/games-available-by-core.md)
+- [Supported cores](./arcade/cores-supported.md)
+- [Unsupported cores](./arcade/cores-unsupported.md)
+- [Games supported](./arcade/games-supported.md)
+- [Games unsupported](./arcade/games-unsupported.md)
+- [Games supported (by core)](./arcade/games-supported-by-core.md)
 
 ### Console
 
