@@ -11,8 +11,8 @@ This report provides an overview of the arcade cores games supported by core for
 
 ## Arcade games
 
-
 ## alpha68k (SNK - Alpha Denshi)
+
 - Battle Field (JP).mra (SNK - Alpha Denshi) - False - True - (1987)
 - Gang Wars.mra (SNK - Alpha Denshi) - False - False - (1989)
 - Gang Wars [bl].mra (SNK - Alpha Denshi) - True - True - (1989)
@@ -27,6 +27,7 @@ This report provides an overview of the arcade cores games supported by core for
 - Time Soldiers (US, Rev 1).mra (SNK - Alpha Denshi) - False - True - (1987)
 
 ## arkanoid (Taito Arkanoid hardware)
+
 - Arkanoid (Game Corporation, Set 1) [bl].mra (Taito Arkanoid hardware) - True - True - (1986)
 - Arkanoid (Game Corporation, Set 2) [bl].mra (Taito Arkanoid hardware) - True - True - (1986)
 - Arkanoid (W, Older).mra (Taito Arkanoid hardware) - False - True - (1986)
@@ -38,6 +39,7 @@ This report provides an overview of the arcade cores games supported by core for
 - Arkanoid (Tayto, Harder) [bl].mra (Taito Arkanoid hardware) - True - True - (1986)
 
 ## armedf (Nichibutsu M68000 (Armed F))
+
 - Armed F (JP).mra (Nichibutsu M68000 (Armed F)) - False - False - (1988)
 - Armed F (Fillmore license).mra (Nichibutsu M68000 (Armed F)) - False - True - (1988)
 - Tatakae! Big Fighter.mra (Nichibutsu M68000 (Armed F)) - False - False - (1989)
@@ -52,6 +54,7 @@ This report provides an overview of the arcade cores games supported by core for
 - Terra Force (US).mra (Nichibutsu M68000 (Armed F)) - False - True - (1987)
 
 ## ataritetris (Atari 6502)
+
 - Tetris.mra (Atari 6502) - False - False - (1988)
 - Tetris (Set 2).mra (Atari 6502) - False - True - (1988)
 - Tetris (Set 1) [bl].mra (Atari 6502) - True - True - (1988)
@@ -59,6 +62,7 @@ This report provides an overview of the arcade cores games supported by core for
 - Tetris (Cocktail, Set 2).mra (Atari 6502) - False - True - (1989)
 
 ## bagman (Taito Licensed)
+
 - Bagman.mra (Taito Licensed) - False - False - (1982)
 - Bagman (Taito).mra (Taito Licensed) - False - True - (1982)
 - Bagman (Stern, Set 1).mra (Taito Licensed) - False - True - (1982)
@@ -77,16 +81,19 @@ This report provides an overview of the arcade cores games supported by core for
 - Squash (Itisa).mra (Taito Licensed) - False - False - (1984)
 
 ## bankpanic (Sega Z80)
+
 - Bank Panic.mra (Sega Z80) - False - False - (1984)
 - Combat Hawk.mra (Sega Z80) - False - False - (1987)
 
 ## blockade (Sega Blockade hardware)
+
 - Blasto.mra (Sega Blockade hardware) - False - False - (1978)
 - Blockade.mra (Sega Blockade hardware) - False - False - (1976)
 - CoMotion.mra (Sega Blockade hardware) - False - False - (1976)
 - Hustle.mra (Sega Blockade hardware) -  - False - (1977)
 
 ## bombjack (Tehkan hardware)
+
 - Bomb Jack (GR) [hb].mra (Tehkan hardware) - False - True - (1984)
 - Bomb Jack.mra (Tehkan hardware) - False - False - (1984)
 - Bomb Jack (Set 2).mra (Tehkan hardware) - False - True - (1984)
@@ -95,6 +102,7 @@ This report provides an overview of the arcade cores games supported by core for
 - Bomb Jack (Red) [hb].mra (Tehkan hardware) - False - True - (1984)
 
 ## centipede (Atari Centipede based)
+
 - Astropede II [hb].mra (Atari Centipede based) - False - True - (1980)
 - Astropede [hb].mra (Atari Centipede based) - False - True - (1980)
 - Cemescary [hb].mra (Atari Centipede based) - False - True - (1980)
@@ -108,11 +116,13 @@ This report provides an overview of the arcade cores games supported by core for
 - Vectipede [hb].mra (Atari Centipede based) - False - True - (1980)
 - Vectorpede [hb].mra (Atari Centipede based) - False - True - (1980)
 
-## crazyclimber (Crazy Climber Hardware)
+## crazyclimber (Taito Licensed)
+
 - Crazy Climber.mra (Taito Licensed) - False - False - (1980)
 - Crazy Climber (US, Set 2).mra (Taito Licensed) - False - True - (1980)
 
-## defender (Williams 6809 rev.1 Hardware)
+## defender (Williams 1st Generation)
+
 - Colony 7 (Set 1).mra (Taito Unique) - False - False - (1981)
 - Colony 7 (Set 2).mra (Taito Unique) - False - True - (1981)
 - Defender (Red Label).mra (Williams 1st Generation) - False - False - (1980)
@@ -121,7 +131,8 @@ This report provides an overview of the arcade cores games supported by core for
 - Mayday (Set 2).mra (Williams 1st Generation) - False - True - (1980)
 - Mayday (Set 3).mra (Williams 1st Generation) - False - True - (1980)
 
-## donkeykong (Nintendo Radar Scope Hardware)
+## donkeykong (Donkey Kong hardware)
+
 - Donkey Kong Freerun Edition (Freerun) [hb].mra (Donkey Kong hardware) - False - True - (1981)
 - Donkey Kong (US, Set 1).mra (Donkey Kong hardware) - False - False - (1981)
 - Donkey Kong (2 Marios) [hb].mra (Donkey Kong hardware) - False - True - (1981)
@@ -148,7 +159,8 @@ This report provides an overview of the arcade cores games supported by core for
 - Radar Scope.mra (Donkey Kong hardware) - False - False - (1980)
 - Radar Scope (Rev C).mra (Donkey Kong hardware) - False - True - (1980)
 
-## druaga (Namco Super Pacman Hardware)
+## druaga (Namco Super Pac-Man hardware)
+
 - Crackhead [hb].mra (Namco Super Pac-Man hardware) - False - True - (1980)
 - Dig Dug II (New Ver).mra (Namco Super Pac-Man hardware) - False - False - (1985)
 - Dig Dug II (Old Ver).mra (Namco Super Pac-Man hardware) - False - True - (1985)
@@ -169,25 +181,30 @@ This report provides an overview of the arcade cores games supported by core for
 - The Tower of Druaga (Sidam) [bl].mra (Namco Super Pac-Man hardware) - True - True - (1984)
 
 ## expressraider (Data East Unique)
+
 - Express Raider (W, Rev 4).mra (Data East Unique) - False - False - (1986)
 - Western Express (JP, Rev 4).mra (Data East Unique) - False - True - (1986)
 
 ## finalizer (Konami Double Dribble based)
+
 - Finalizer- Super Transformation (Set 1).mra (Konami Double Dribble based) - False - True - (1985)
 - Finalizer- Super Transformation (Set 2).mra (Konami Double Dribble based) - False - False - (1985)
 - Finalizer- Super Transformation [bl].mra (Konami Double Dribble based) - True - True - (1986)
 
-## galivan (Nichibutsu Galivan Hardware)
+## galivan (Nichibutsu Z80 (Galivan))
+
 - Ufo Robo Dangar (4-07-1987).mra (Nichibutsu Z80 (Galivan)) - False - False - (1987)
 - Cosmo Police Galivan.mra (Nichibutsu Z80 (Galivan)) - False - False - (1985)
 
 ## gyruss (Konami Gyruss)
+
 - Gyruss.mra (Konami 6809 based) - False - False - (1983)
 - Gyruss [bl].mra (Konami 6809 based) - True - True - (1983)
 - Gyruss (Centuri).mra (Konami 6809 based) - False - True - (1983)
 - Venus (Gyruss) [bl].mra (Konami 6809 based) - True - False - (1983)
 
-## iremm62 (Irem M62 Hardware)
+## iremm62 (Irem M62)
+
 - The Battle-Road.mra (Irem M62) - False - False - (1984)
 - Horizon (Irem).mra (Irem M62) - False - False - (1985)
 - Kid Niki- Radical Ninja (W).mra (Irem M62) - False - False - (1986)
@@ -208,7 +225,8 @@ This report provides an overview of the arcade cores games supported by core for
 - Kaiketsu Yanchamaru (JP).mra (Irem M62) - False - True - (1986)
 - Youjyuden (JP).mra (Irem M62) - False - False - (1986)
 
-## iremm72 (Irem M72 Hardware)
+## iremm72 (Irem M72)
+
 - Air Duel (JP, M72 hardware).mra (Irem M72) - False - False - (1990)
 - Air Duel (W, M72 hardware).mra (Irem M72) - False - True - (1990)
 - Dragon Breed (JP).mra (Irem M72) - False - False - (1989)
@@ -228,6 +246,7 @@ This report provides an overview of the arcade cores games supported by core for
 - X Multiply (JP, M72 hardware).mra (Irem M72) - False - False - (1989)
 
 ## iremm92 (Irem M92)
+
 - Blade Master (W).mra (Irem M92) - False - False - (1991)
 - bmaster_t (Irem M92)
 - Cross Blades! (JP).mra (Irem M92) - False - True - (1991)
@@ -287,17 +306,20 @@ This report provides an overview of the arcade cores games supported by core for
 - Undercover Cops (US).mra (Irem M92) - False - True - (1992)
 - uccopsu_t (Irem M92)
 
-## ironhorse (Konami Iron Horse)
+## ironhorse (Konami Double Dribble based)
+
 - Dai Ressya Goutou (Ver. K).mra (Konami Double Dribble based) - False - True - (1986)
 - Iron Horse (Ver. K).mra (Konami Double Dribble based) - False - False - (1986)
 - Iron Horse (Ver. H) [bl].mra (Konami Double Dribble based) - True - True - (1986)
 - Iron Horse (Ver. H).mra (Konami Double Dribble based) - False - True - (1986)
 
-## jailbreak (Konami Jailbreak)
+## jailbreak (Konami Green Beret based)
+
 - Jailbreak.mra (Konami Green Beret based) - False - False - (1986)
 - Manhattan 24 Bunsyo (JP).mra (Konami Green Beret based) - False - False - (1986)
 
 ## jt1942 (Capcom CPS-0)
+
 - 1942 (W, Rev B).mra (Capcom CPS-0) - False - False - (1984)
 - 1942 (Rev A).mra (Capcom CPS-0) - False - True - (1984)
 - 1942 (First Version).mra (Capcom CPS-0) - False - True - (1984)
@@ -310,6 +332,7 @@ This report provides an overview of the arcade cores games supported by core for
 - Vulgus (JP).mra (Capcom CPS-0) - False - True - (1984)
 
 ## jt1943 (Capcom CPS-0)
+
 - 1943- The Battle of Midway (EU).mra (Capcom CPS-0) - False - True - (1987)
 - 1943- Midway Kaisen (JP, Rev B).mra (Capcom CPS-0) - False - False - (1987)
 - 1943- Midway Kaisen (JP).mra (Capcom CPS-0) - False - True - (1987)
@@ -319,7 +342,8 @@ This report provides an overview of the arcade cores games supported by core for
 - 1943- The Battle of Midway (US, Rev C).mra (Capcom CPS-0) - False - False - (1987)
 - 1943- The Battle of Midway (US).mra (Capcom CPS-0) - False - True - (1987)
 
-## jtaliens (JOTEGO)
+## jtaliens (Konami Aliens based)
+
 - Aliens (W, Set 1).mra (Konami Aliens based) - False - False - (1990)
 - Aliens (W, Set 2).mra (Konami Aliens based) - False - True - (1990)
 - Aliens (W, Set 3).mra (Konami Aliens based) - False - True - (1990)
@@ -342,7 +366,8 @@ This report provides an overview of the arcade cores games supported by core for
 - Thunder Cross (Set 3).mra (Konami Aliens based) - False - True - (1988)
 - Thunder Cross (JP).mra (Konami Aliens based) - False - False - (1988)
 
-## jtbiocom (JOTEGO)
+## jtbiocom (Capcom CPS-0)
+
 - Bionic Commando.mra (Capcom CPS-0) - False - False - (1987)
 - Bionic Commando (US, Set 1).mra (Capcom CPS-0) - False - True - (1987)
 - Bionic Commando (US, Set 2).mra (Capcom CPS-0) - False - True - (1987)
@@ -351,12 +376,14 @@ This report provides an overview of the arcade cores games supported by core for
 - Top Secret (JP, Rev Old).mra (Capcom CPS-0) - False - True - (1987)
 - Top Secret (JP, Rev B).mra (Capcom CPS-0) - False - True - (1987)
 
-## jtbtiger (JOTEGO)
+## jtbtiger (Capcom CPS-0)
+
 - Black Dragon (JP).mra (Capcom CPS-0) - False - True - (1987)
 - Black Tiger.mra (Capcom CPS-0) - False - False - (1987)
 - Black Tiger (Older).mra (Capcom CPS-0) - False - True - (1987)
 
-## jtbubl (JOTEGO)
+## jtbubl (Taito Bubble Booble based)
+
 - Bubble Bobble (JP, Ver 0.1).mra (Taito Bubble Booble based) - False - False - (1986)
 - Bubble Bobble (JP, v0.0).mra (Taito Bubble Booble based) - False - True - (1986)
 - Bubble Bobble (Tokio Prototype).mra (Taito Bubble Booble based) - False - True - (1986)
@@ -370,14 +397,16 @@ This report provides an overview of the arcade cores games supported by core for
 - Tokio (Scramble Formation) (Older).mra (Taito Bubble Booble based) - False - True - (1986)
 - Tokio (Scramble Formation) (US).mra (Taito Bubble Booble based) - False - True - (1986)
 
-## jtcastle (JOTEGO)
+## jtcastle (Konami 6309 based)
+
 - Akuma-Jou Dracula (Ver. P).mra (Konami 6309 based) - False - True - (1988)
 - Akuma-Jou Dracula (Ver. N).mra (Konami 6309 based) - False - False - (1988)
 - Haunted Castle (Ver. M).mra (Konami 6309 based) - False - True - (1988)
 - Haunted Castle (Ver. E).mra (Konami 6309 based) - False - True - (1988)
 - Haunted Castle (Ver. K).mra (Konami 6309 based) - False - False - (1988)
 
-## jtcircus (JOTEGO)
+## jtcircus (Konami Unique)
+
 - Circus Charlie (Level Select, Set 1).mra (Konami Unique) - False - False - (1984)
 - Circus Charlie (Level Select, Set 2).mra (Konami Unique) - False - True - (1984)
 - Circus Charlie (Level Select, Set 3).mra (Konami Unique) - False - True - (1984)
@@ -385,7 +414,8 @@ This report provides an overview of the arcade cores games supported by core for
 - Circus Charlie (Centuri).mra (Konami Unique) - False - True - (1984)
 - Circus Charlie (Centuri, Earlier).mra (Konami Unique) - False - True - (1984)
 
-## jtcommnd (JOTEGO)
+## jtcommnd (Capcom CPS-0)
+
 - Commando (W).mra (Capcom CPS-0) - False - False - (1985)
 - Commando (Set 2) [bl].mra (Capcom CPS-0) - True - True - (1985)
 - Commando (Set 3) [bl].mra (Capcom CPS-0) - True - True - (1985)
@@ -394,12 +424,14 @@ This report provides an overview of the arcade cores games supported by core for
 - Commando (US, Set 2).mra (Capcom CPS-0) - False - True - (1985)
 - Space Invasion (EU).mra (Capcom CPS-0) - False - True - (1985)
 
-## jtcomsc (JOTEGO)
+## jtcomsc (Konami 6309 based)
+
 - Boot Camp (Set 1).mra (Konami 6309 based) - False - True - (1988)
 - Boot Camp (Set 2).mra (Konami 6309 based) - False - False - (1988)
 - Combat School (Joystick).mra (Konami 6309 based) - False - False - (1988)
 
-## jtcontra (JOTEGO)
+## jtcontra (Konami Contra based)
+
 - Contra (US-AS, Set 1).mra (Konami Contra based) - False - True - (1987)
 - Contra (US-AS, Set 2).mra (Konami Contra based) - False - True - (1987)
 - Contra (US-AS, Set 3).mra (Konami Contra based) - False - False - (1987)
@@ -408,7 +440,8 @@ This report provides an overview of the arcade cores games supported by core for
 - Gryzor (Set 1).mra (Konami Contra based) - False - True - (1987)
 - Gryzor (Set 2).mra (Konami Contra based) - False - True - (1987)
 
-## jtcop (JOTEGO)
+## jtcop (Data East MEC-M1)
+
 - Fighting Fantasy (JP, Rev 3).mra (Data East MEC-M1) - False - True - (1989)
 - Fighting Fantasy (JP).mra (Data East MEC-M1) - False - True - (1989)
 - Fighting Fantasy (JP, Rev X).mra (Data East MEC-M1) - False - True - (1989)
@@ -421,6 +454,7 @@ This report provides an overview of the arcade cores games supported by core for
 - Robocop (W, Rev 3).mra (Data East MEC-M1) - False - True - (1988)
 
 ## jtcps1 (Capcom CPS-1)
+
 - 1941- Counter Attack (W, 900227).mra (Capcom CPS-1) - False - True - (1990)
 - 1941- Counter Attack (JP).mra (Capcom CPS-1) - False - False - (1990)
 - 1941- Counter Attack (W).mra (Capcom CPS-1) - False - True - (1990)
@@ -588,6 +622,7 @@ This report provides an overview of the arcade cores games supported by core for
 - Wonder 3 (JP, 910520).mra (Capcom CPS-1) - False - True - (1991)
 
 ## jtcps15 (Capcom CPS-1.5)
+
 - Cadillacs and Dinosaurs (W, 930201).mra (Capcom CPS-1.5) - False - False - (1993)
 - Cadillacs and Dinosaurs (AS, 930223).mra (Capcom CPS-1.5) - False - True - (1993)
 - Cadillacs- Kyouryuu Shin Seiki (JP, 930201).mra (Capcom CPS-1.5) - False - True - (1993)
@@ -609,6 +644,7 @@ This report provides an overview of the arcade cores games supported by core for
 - Warriors of Fate (US, 921031).mra (Capcom CPS-1.5) - False - True - (1992)
 
 ## jtcps2 (Capcom CPS-2)
+
 - 1944- The Loop Master (EU, 000620).mra (Capcom CPS-2) - False - True - (2000)
 - 1944- The Loop Master (US, Phoenix Edition) [bl].mra (Capcom CPS-2) - True - True - (2000)
 - 1944- The Loop Master (JP, 000620).mra (Capcom CPS-2) - False - False - (2000)
@@ -929,7 +965,8 @@ This report provides an overview of the arcade cores games supported by core for
 - X-Men Vs. Street Fighter (US, 961004).mra (Capcom CPS-2) - False - True - (1996)
 - X-Men Vs. Street Fighter (US, 960910).mra (Capcom CPS-2) - False - True - (1996)
 
-## jtdd (JOTEGO)
+## jtdd (Technos 6309 based)
+
 - Double Dragon (JP).mra (Technos 6309 based) - False - False - (1987)
 - Double Dragon (US, Set 1).mra (Technos 6309 based) - False - True - (1987)
 - Double Dragon (US, Set 2).mra (Technos 6309 based) - False - True - (1987)
@@ -937,24 +974,29 @@ This report provides an overview of the arcade cores games supported by core for
 - Double Dragon (W, Set 1).mra (Technos 6309 based) - False - True - (1987)
 - Double Dragon (W, Set 2).mra (Technos 6309 based) - False - True - (1987)
 
-## jtdd2 (JOTEGO)
+## jtdd2 (Technos 6309 based)
+
 - Double Dragon II- The Revenge (W).mra (Technos 6309 based) - False - True - (1988)
 - Double Dragon II- The Revenge (US) [bl].mra (Technos 6309 based) - False - True - (1988)
 - Double Dragon II- The Revenge (JP).mra (Technos 6309 based) - False - False - (1988)
 - Double Dragon II- The Revenge (US).mra (Technos 6309 based) - False - True - (1988)
 
-## jtexed (JOTEGO)
+## jtexed (Capcom CPS-0)
+
 - Exed Exes.mra (Capcom CPS-0) - False - False - (1985)
 - Savage Bees.mra (Capcom CPS-0) - False - True - (1985)
 
-## jtflane (JOTEGO)
+## jtflane (Konami Contra based)
+
 - Fast Lane (W).mra (Konami Contra based) - False - False - (1987)
 
-## jtfround (JOTEGO)
+## jtfround (Konami Twin16 hardware)
+
 - The Final Round (Ver. M).mra (Konami Twin16 hardware) - False - False - (1988)
 - The Final Round (Ver. L).mra (Konami Twin16 hardware) - False - True - (1988)
 
-## jtgaiden (JOTEGO)
+## jtgaiden (Tecmo Ninja Gaiden hardware)
+
 - Ninja Gaiden (US).mra (Tecmo Ninja Gaiden hardware) - False - False - (1988)
 - raiga (Tecmo Ninja Gaiden hardware)
 - Ninja Ryukenden (JP, Set 1).mra (Tecmo Ninja Gaiden hardware) - False - True - (1988)
@@ -966,7 +1008,8 @@ This report provides an overview of the arcade cores games supported by core for
 - wildfang (Tecmo Ninja Gaiden hardware)
 - wildfangs (Tecmo Ninja Gaiden hardware)
 
-## jtgng (JOTEGO)
+## jtgng (Capcom CPS-0)
+
 - Ghosts'n Goblins (W).mra (Capcom CPS-0) - False - False - (1985)
 - Ghosts'n Goblins (W, Set 2).mra (Capcom CPS-0) - False - True - (1985)
 - Ghosts'n Goblins (IT, Harder) [bl].mra (Capcom CPS-0) - True - True - (1985)
@@ -978,7 +1021,8 @@ This report provides an overview of the arcade cores games supported by core for
 - Makai-Mura (JP, Rev C).mra (Capcom CPS-0) - False - True - (1985)
 - Makai-Mura (JP, Rev G).mra (Capcom CPS-0) - False - True - (1985)
 
-## jtgunsmk (JOTEGO)
+## jtgunsmk (Capcom CPS-0)
+
 - Gun Smoke.mra (Capcom CPS-0) - False - False - (1985)
 - Gun Smoke (851115) [bl].mra (Capcom CPS-0) - True - True - (1985)
 - Gun.Smoke (DE, 851115, Censored).mra (Capcom CPS-0) - False - True - (1985)
@@ -986,7 +1030,8 @@ This report provides an overview of the arcade cores games supported by core for
 - Gun Smoke (US-CA, 860408).mra (Capcom CPS-0) - False - True - (1986)
 - Gun Smoke (US-CA, 851118, Set 2).mra (Capcom CPS-0) - False - True - (1986)
 
-## jtkarnov (JOTEGO)
+## jtkarnov (Data East Karnov hardwar)
+
 - Chelnov - Atomic Runner (W).mra (Data East Karnov hardware) - False - False - (1988)
 - Chelnov - Atomic Runner (JP).mra (Data East Karnov hardware) - False - True - (1988)
 - Chelnov - Atomic Runner (US).mra (Data East Karnov hardware) - False - True - (1988)
@@ -995,7 +1040,8 @@ This report provides an overview of the arcade cores games supported by core for
 - Karnov (JP).mra (Data East Karnov hardware) - False - True - (1987)
 - Wonder Planet (JP).mra (Data East Karnov hardware) - False - False - (1987)
 
-## jtkchamp (JOTEGO)
+## jtkchamp (Data East Z80 based)
+
 - Karate Dou (Arfyc) [bl].mra (Data East Z80 based) - False - True - (1984)
 - Karate Dou (JP).mra (Data East Z80 based) - False - True - (1984)
 - Taisen Karate Dou (JP, VS version).mra (Data East Z80 based) - False - True - (1984)
@@ -1007,11 +1053,13 @@ This report provides an overview of the arcade cores games supported by core for
 - Karate Champ (US, VS Ver, Set 3).mra (Data East Z80 based) - False - True - (1984)
 - Karate Champ (US, VS Ver, Set 4).mra (Data East Z80 based) - False - True - (1984)
 
-## jtkicker (JOTEGO)
+## jtkicker (Konami 6809 based)
+
 - Kicker.mra (Konami 6809 based) - False - False - (1985)
 - Shao-lin's Road (set 1).mra (Konami 6809 based) - False - True - (1985)
 
-## jtkiwi (JOTEGO)
+## jtkiwi (Taito The NewZealand Story hardware)
+
 - Arkanoid - Revenge of DOH (W).mra (Taito The NewZealand Story hardware) - False - False - (1987)
 - Arkanoid - Revenge of DOH (JP) [bl].mra (Taito The NewZealand Story hardware) - True - True - (1987)
 - Arkanoid - Revenge of DOH (JP).mra (Taito The NewZealand Story hardware) - False - True - (1987)
@@ -1042,41 +1090,48 @@ This report provides an overview of the arcade cores games supported by core for
 - The NewZealand Story (W, prototype).mra (Taito The NewZealand Story hardware) - False - True - (1988)
 - The NewZealand Story (US, old version).mra (Taito The NewZealand Story hardware) - False - True - (1988)
 
-## jtkunio (JOTEGO)
+## jtkunio (Technos 6309 based)
+
 - Nekketsu Kouha Kunio-kun (JP).mra (Technos 6309 based) - False - False - (1986)
 - Nekketsu Kouha Kunio-kun (JP) [bl].mra (Technos 6309 based) - True - False - (1986)
 - Renegade (US).mra (Technos 6309 based) - False - False - (1986)
 - Renegade (US) [bl].mra (Technos 6309 based) - False - False - (1986)
 
-## jtlabrun (JOTEGO)
+## jtlabrun (Konami Contra based)
+
 - Labyrinth Runner (JP).mra (Konami Contra based) - False - False - (1987)
 - Labyrinth Runner (W, Ver. K).mra (Konami Contra based) - False - True - (1987)
 - Trick Trap (W).mra (Konami Contra based) - False - False - (1987)
 
-## jtmidres (JOTEGO)
+## jtmidres (Data East MEC-M1)
+
 - Midnight Resistance (W).mra (Data East MEC-M1) - False - True - (1989)
 - Midnight Resistance (W, Set 2).mra (Data East MEC-M1) - False - False - (1989)
 - Midnight Resistance (JP).mra (Data East MEC-M1) - False - True - (1989)
 - Midnight Resistance (US).mra (Data East MEC-M1) - False - True - (1989)
 
-## jtmikie (JOTEGO)
+## jtmikie (Konami 6809 based)
+
 - Mikie.mra (Konami 6809 based) - False - False - (1984)
 - Mikie (High School Graffiti).mra (Konami 6809 based) - False - True - (1984)
 - Shinnyuushain Tooru-kun.mra (Konami 6809 based) - False - True - (1984)
 - Shin-ip Sawon - Seok Dol-i.mra (Konami 6809 based) - False - True - (1984)
 
-## jtmx5k (JOTEGO)
+## jtmx5k (Konami 6309 based))
+
 - Flak Attack (JP).mra (Konami 6309 based) - False - True - (1987)
 - Flak Attack (JP, PWB 450593 sub-board).mra (Konami 6309 based) - False - True - (1987)
 - MX5000.mra (Konami 6309 based) - False - False - (1987)
 
-## jtninja (JOTEGO)
+## jtninja (Data East MEC-M1)
+
 - Bad Dudes vs. Dragonninja (US, Rev. 1).mra (Data East MEC-M1) - False - False - (1988)
 - Dragonninja (JP, Rev. 1).mra (Data East MEC-M1) - False - False - (1988)
 - Heavy Barrel (W).mra (DATA EAST MEC-M1) - False - False - (1987)
 - Heavy Barrel (US).mra (DATA EAST MEC-M1) - False - True - (1987)
 
-## jtoutrun (JOTEGO)
+## jtoutrun (Sega Out Run hardware)
+
 - Out Run (sitdown - upright, Rev B).mra (Sega Out Run hardware) - False - False - (1986)
 - Out Run (deluxe sitdown).mra (Sega Out Run hardware) - False - True - (1986)
 - Out Run (deluxe sitdown earlier version).mra (Sega Out Run hardware) - False - True - (1986)
@@ -1093,7 +1148,8 @@ This report provides an overview of the arcade cores games supported by core for
 - Turbo Out Run (JP, Out Run upgrade) (FD1094 317-0117).mra (Sega Out Run hardware) - False - True - (1989)
 - Turbo Out Run (JP, cockpit) (FD1094 317-0101).mra (Sega Out Run hardware) - False - True - (1989)
 
-## jtpang (JOTEGO)
+## jtpang (Capcom Mitchell)
+
 - Buster Bros. (US).mra (Capcom Mitchell) - False - True - (1989)
 - Block Block (W, 911219, Joystick).mra (Capcom Mitchell) - False - False - (1991)
 - Block Block (JP, 910910).mra (Capcom Mitchell) - False - True - (1991)
@@ -1108,16 +1164,19 @@ This report provides an overview of the arcade cores games supported by core for
 - Super Pang (W, 900914).mra (Capcom Mitchell) - False - False - (1990)
 - Super Pang (JP, 901023).mra (Capcom Mitchell) - False - True - (1990)
 
-## jtparoda (JOTEGO)
+## jtparoda (Konami TMNT 2 based)
+
 - Parodius Da! Shinwa kara Owarai e (W, Set 1).mra (Konami TMNT 2 based) - False - False - (1990)
 - Parodius Da! Shinwa kara Owarai e (AS).mra (Konami TMNT 2 based) - False - True - (1990)
 - Parodius Da! Shinwa kara Owarai e (W, Set 2).mra (Konami TMNT 2 based) - False - True - (1990)
 - Parodius Da! Shinwa kara Owarai e (JP).mra (Konami TMNT 2 based) - False - True - (1990)
 
-## jtpinpon (JOTEGO)
+## jtpinpon (Konami Z80)
+
 - Konami's Ping-Pong.mra (Konami Z80) - False - False - (1985)
 
-## jtrastan (JOTEGO)
+## jtrastan (Taito 68000 based)
+
 - Rastan (W, Rev 1).mra (Taito 68000 based) - False - False - (1987)
 - Rastan (W).mra (Taito 68000 based) - False - True - (1987)
 - Rastan (W, earlier code base).mra (Taito 68000 based) - False - True - (1987)
@@ -1129,24 +1188,28 @@ This report provides an overview of the arcade cores games supported by core for
 - Rastan Saga (JP, Rev 1, earlier code base) [bl].mra (Taito 68000 based) - False - True - (1987)
 - Rastan Saga (JP, earlier code base).mra (Taito 68000 based) - False - True - (1987)
 
-## jtroadf (JOTEGO)
+## jtroadf (Konami 6809 based)
+
 - Hyper Olympic '84.mra (Konami 6809 based) - False - True - (1984)
 - Hyper Sports.mra (Konami 6809 based) - False - False - (1984)
 - Road Fighter (Set 1).mra (Konami 6809 based) - False - False - (1984)
 - Road Fighter (Set 2).mra (Konami 6809 based) - False - True - (1984)
 - Road Fighter (Set 3, unencrypted).mra (Konami 6809 based) - False - True - (1984)
 
-## jtroc (JOTEGO)
+## jtroc (Konami 6809 based)
+
 - Roc'n Rope.mra (Konami 6809 based) - False - False - (1983)
 - Roc'n Rope (Kosuka).mra (Konami 6809 based) - False - True - (1983)
 
-## jtrumble (JOTEGO)
+## jtrumble (Capcom CPS-0)
+
 - Rush & Crash (JP).mra (Capcom CPS-0) - False - True - (1986)
 - The Speed Rumbler (Set 1).mra (Capcom CPS-0) - False - False - (1986)
 - The Speed Rumbler (Set 2).mra (Capcom CPS-0) - False - True - (1986)
 - The Speed Rumbler (Set 3).mra (Capcom CPS-0) - False - True - (1986)
 
-## jts16 (JOTEGO)
+## jts16 (Sega System 16)
+
 - Ace Attacker (JP, 317-0060).mra (Sega System 16) - False - False - (1988)
 - Action Fighter (W, S16A).mra (Sega System 16) - False - False - (1986)
 - Action Fighter (W, S16A, No Protection).mra (Sega System 16) - False - True - (1986)
@@ -1184,7 +1247,8 @@ This report provides an overview of the arcade cores games supported by core for
 - Wonder Boy III - Monster Lair (JP, S16A, Set 1).mra (Sega System 16) - False - True - (1988)
 - Wonder Boy III - Monster Lair (JP, S16A, Set 5).mra (Sega System 16) - False - True - (1988)
 
-## jts16b (JOTEGO)
+## jts16b (Sega System 16)
+
 - Action Fighter (W, S16B, unprotected, analog).mra (Sega System 16) - False - True - (1986)
 - Action Fighter (W, S16B, 317-unknown, analog).mra (Sega System 16) - False - True - (1986)
 - Action Fighter (W, S16B, 317-unknown).mra (Sega System 16) - False - True - (1986)
@@ -1267,19 +1331,22 @@ This report provides an overview of the arcade cores games supported by core for
 - Wrestle War (JP, Set 1).mra (Sega System 16) - False - True - (1989)
 - Wrestle War (W, Set 2).mra (Sega System 16) - False - True - (1989)
 
-## jtsarms (JOTEGO)
+## jtsarms (Capcom CPS-0)
+
 - Side Arms- Hyper Dyne (W).mra (Capcom CPS-0) - False - False - (1986)
 - Side Arms- Hyper Dyne (JP).mra (Capcom CPS-0) - False - True - (1986)
 - Side Arms- Hyper Dyne (US, 861202).mra (Capcom CPS-0) - False - True - (1986)
 - Side Arms- Hyper Dyne (US, 861128).mra (Capcom CPS-0) - False - True - (1986)
 
-## jtsbaskt (JOTEGO)
+## jtsbaskt (Konami 6809 based)
+
 - Super Basketball (Ver I, encrypted).mra (Konami 6809 based) - False - False - (1984)
 - Super Basketball (Ver E, encrypted).mra (Konami 6809 based) - False - True - (1984)
 - Super Basketball (Ver G, encrypted).mra (Konami 6809 based) - False - True - (1984)
 - Super Basketball (Ver H, encrypted).mra (Konami 6809 based) - False - True - (1984)
 
-## jtsectnz (JOTEGO)
+## jtsectnz (Capcom CPS-0)
+
 - Legendary Wings.mra (Capcom CPS-0) - False - False - (1986)
 - Legendary Wings (US, Set 2).mra (Capcom CPS-0) - False - True - (1986)
 - Legendary Wings [bl].mra (Capcom CPS-0) - True - True - (1986)
@@ -1288,13 +1355,15 @@ This report provides an overview of the arcade cores games supported by core for
 - Section Z (Set 1).mra (Capcom CPS-0) - False - False - (1985)
 - Section Z (Set 2).mra (Capcom CPS-0) - False - True - (1985)
 
-## jtsf (JOTEGO)
+## jtsf (Capcom CPS-0)
+
 - Street Fighter (US, Set 1).mra (Capcom CPS-0) - False - False - (1987)
 - Street Fighter (JP, Protected).mra (Capcom CPS-0) - False - True - (1987)
 - Street Fighter (US, Protected, Set 2).mra (Capcom CPS-0) - False - True - (1987)
 - Street Fighter (W, Protected).mra (Capcom CPS-0) - False - True - (1987)
 
-## jtshanon (JOTEGO)
+## jtshanon (Sega Out Run hardware)
+
 - Super Hang-On (sitdown - upright) (unprotected).mra (Sega Out Run hardware) - False - False - (1987)
 - Super Hang-On (mini ride-on).mra (Sega Out Run hardware) - False - True - (1987)
 - Super Hang-On (mini ride-on, Rev A).mra (Sega Out Run hardware) - False - True - (1987)
@@ -1303,6 +1372,7 @@ This report provides an overview of the arcade cores games supported by core for
 - Limited Edition Hang-On.mra (Sega Out Run hardware) - False - False - (1987)
 
 ## jtshouse (Namco System-1)
+
 - Bakutotsu Kijuutei.mra (Namco System-1) - False - False - (1988)
 - Chou Zetsurinjin Berabowman (JP, Rev C).mra (Namco System-1) - False - False - (1988)
 - Chou Zetsurinjin Berabowman (JP, Rev B).mra (Namco System-1) - False - True - (1988)
@@ -1343,7 +1413,8 @@ This report provides an overview of the arcade cores games supported by core for
 - Youkai Douchuuki (JP, Old Ver. (YD1)).mra (Namco System-1) - False - True - (1987)
 - Youkai Douchuuki (JP, New Ver. (YD2, Rev B)).mra (Namco System-1) - False - False - (1987)
 
-## jtsimson (JOTEGO)
+## jtsimson (Konami The Simpsons hardware)
+
 - The Simpsons (W, 4P, Set 1).mra (Konami The Simpsons hardware) - False - False - (1991)
 - The Simpsons (W, 2P, Set 1).mra (Konami The Simpsons hardware) - False - True - (1991)
 - The Simpsons (W, 2P, Set 2).mra (Konami The Simpsons hardware) - False - True - (1991)
@@ -1365,7 +1436,8 @@ This report provides an overview of the arcade cores games supported by core for
 - Vendetta (W, 4P, Ver. -).mra (Konami Vendetta hardware) - False - True - (1991)
 - Vendetta (AS, 4P, Ver. Z).mra (Konami Vendetta hardware) - False - False - (1991)
 
-## jtslyspy (JOTEGO)
+## jtslyspy (Data East MEC-M1)
+
 - Boulder Dash - Boulder Dash Part 2 (W).mra (Data East MEC-M1) - False - False - (1990)
 - Boulder Dash - Boulder Dash Part 2 (JP).mra (Data East MEC-M1) - False - True - (1990)
 - Secret Agent (W, Rev 3).mra (Data East MEC-M1) - False - False - (1989)
@@ -1374,7 +1446,8 @@ This report provides an overview of the arcade cores games supported by core for
 - Sly Spy (US, Rev 2).mra (Data East MEC-M1) - False - True - (1989)
 - Sly Spy (US, Rev 3).mra (Data East MEC-M1) - False - True - (1989)
 
-## jttmnt (JOTEGO)
+## jttmnt (Konami TMNT based)
+
 - M.I.A. - Missing in Action (Ver. T).mra (Konami TMNT based) - False - False - (1989)
 - M.I.A. - Missing in Action (Ver. S).mra (Konami TMNT based) - False - True - (1989)
 - Punk Shot (US, 4P).mra (Konami TMNT 2 based) - False - False - (1990)
@@ -1396,26 +1469,30 @@ This report provides an overview of the arcade cores games supported by core for
 - Teenage Mutant Ninja Turtles (US, 4P, Ver. J).mra (Konami TMNT based) - False - True - (1989)
 - Teenage Mutant Ninja Turtles (US, 4P, Ver. H).mra (Konami TMNT based) - False - True - (1989)
 
-## jttoki (JOTEGO)
-- juju (JOTEGO)
+## jttoki (Seibu Toki hardware)
+
+- juju (Seibu Toki hardware)
 - Toki (W, Set 1).mra (Seibu Toki hardware) - False - False - (1989)
 - tokia (Seibu Toki hardware)
 - tokiu (Seibu Toki hardware)
 - tokiua (Seibu Toki hardware)
 
-## jttora (JOTEGO)
+## jttora (Capcom CPS-0)
+
 - F-1 Dream.mra (Capcom CPS-0) - False - False - (1988)
 - Tiger Road.mra (Capcom CPS-0) - False - False - (1987)
 - Tiger Road (US, Romstar).mra (Capcom CPS-0) - False - True - (1987)
 - Torae no Michi (JP).mra (Capcom CPS-0) - False - True - (1987)
 
-## jttrack (JOTEGO)
+## jttrack (Konami 6809 based)
+
 - Hyper Olympic.mra (Konami 6809 based) - False - True - (1983)
 - hyprolyma (Konami 6809 based)
 - Track & Field.mra (Konami 6809 based) - False - False - (1983)
 - Track & Field (Centuri).mra (Konami 6809 based) - False - True - (1983)
 
-## jttrojan (JOTEGO)
+## jttrojan (Capcom CPS-0)
+
 - Avengers (US, Rev C).mra (Capcom CPS-0) - False - False - (1987)
 - Avengers (US, Rev A).mra (Capcom CPS-0) - False - True - (1987)
 - Avengers (US).mra (Capcom CPS-0) - False - True - (1987)
@@ -1428,7 +1505,8 @@ This report provides an overview of the arcade cores games supported by core for
 - trojanjo (Capcom CPS-0)
 - Trojan (Romstar).mra (Capcom CPS-0) - False - False - (1986)
 
-## jttwin16 (JOTEGO)
+## jttwin16 (Konami Twin16 hardware)
+
 - Cue Brick (JP).mra (Konami Twin16 hardware) - False - False - (1989)
 - Dark Adventure.mra (Konami Twin16 hardware) - False - False - (1987)
 - Devil World.mra (Konami Twin16 hardware) - False - True - (1987)
@@ -1440,7 +1518,8 @@ This report provides an overview of the arcade cores games supported by core for
 - Vulcan Venture (Old).mra (Konami Twin16 hardware) - False - True - (1988)
 - Vulcan Venture (Older).mra (Konami Twin16 hardware) - False - True - (1988)
 
-## jtvigil (JOTEGO)
+## jtvigil (Irem M75)
+
 - Vigilante (W, Rev E).mra (Irem M75) - False - True - (1988)
 - Vigilante (W, Rev A).mra (Irem M75) - False - True - (1988)
 - Vigilante (US, Rev B).mra (Irem M75) - False - True - (1988)
@@ -1449,7 +1528,8 @@ This report provides an overview of the arcade cores games supported by core for
 - Vigilante (US, Rev G).mra (Irem M75) - False - True - (1988)
 - Vigilante (US).mra (Irem M75) - False - True - (1988)
 
-## jtwc (JOTEGO)
+## jtwc (Tecmo Tehkan hardware)
+
 - Gridiron Fight.mra (Tecmo Tehkan hardware) - False - False - (1985)
 - Tehkan World Cup (Set 1).mra (Tecmo Tehkan hardware) - False - False - (1985)
 - Tehkan World Cup (Set 2, bootleg) [bl].mra (Tecmo Tehkan hardware) - True - True - (1985)
@@ -1457,7 +1537,8 @@ This report provides an overview of the arcade cores games supported by core for
 - Tehkan World Cup (Set 4, earlier).mra (Tecmo Tehkan hardware) - False - True - (1985)
 - Tehkan World Cup (1986 Year Hack).mra (Tecmo Tehkan hardware) - False - True - (1985)
 
-## jtwwfss (JOTEGO)
+## jtwwfss (Technos Unique)
+
 - WWF Superstars (EU).mra (Technos Unique) - False - True - (1989)
 - wwfsstarc (Technos Unique)
 - WWF Superstars (JP).mra (Technos Unique) - False - False - (1989)
@@ -1465,7 +1546,8 @@ This report provides an overview of the arcade cores games supported by core for
 - WWF Superstars (US, Rev 6).mra (Technos Unique) - False - True - (1989)
 - WWF Superstars (US, Rev 7).mra (Technos Unique) - False - True - (1989)
 
-## jtxmen (JOTEGO)
+## jtxmen (Konami X-Men hardware)
+
 - X-Men (4P, Ver EBA).mra (Konami X-Men hardware) - False - True - (1992)
 - X-Men (2P, Ver AAA).mra (Konami X-Men hardware) - False - True - (1992)
 - X-Men (2P, Ver EAA).mra (Konami X-Men hardware) - False - True - (1992)
@@ -1478,17 +1560,20 @@ This report provides an overview of the arcade cores games supported by core for
 - X-Men (4P, Ver UBB).mra (Konami X-Men hardware) - False - False - (1992)
 - X-Men (4P, Ver UEB).mra (Konami X-Men hardware) - False - True - (1992)
 
-## jtyiear (JOTEGO)
+## jtyiear (Konami 6809 based)
+
 - Yie Ar Kung-Fu (program code I).mra (Konami 6809 based) - False - False - (1985)
 - Yie Ar Kung-Fu (program code G).mra (Konami 6809 based) - False - True - (1985)
 
-## mcr1 (Midway MCR 1)
+## mcr1 (Midway MCR1)
+
 - Kick.mra (Midway MCR1) - False - False - (1980)
 - Kick (Cocktail).mra (Midway MCR) - False - True - (1981)
 - Kick-Man.mra (Midway MCR1) - False - True - (1980)
 - Solar Fox.mra (Midway MCR1) - False - False - (1980)
 
-## mcr2 (Midway MCR 2)
+## mcr2 (Midway MCR2)
+
 - Domino Man.mra (Midway MCR2) - False - False - (1982)
 - Handi-Man in Cyberworld [hb].mra (Midway MCR) - False - True - (1980)
 - Kozmik Krooz'r.mra (Midway MCR2) - False - False - (1983)
@@ -1504,7 +1589,8 @@ This report provides an overview of the arcade cores games supported by core for
 - Two Tigers (Tron Conversion).mra (Midway MCR2) - False - False - (1984)
 - Wacko.mra (Midway MCR2) - False - False - (1983)
 
-## mcr3 (Midway MCR 3)
+## mcr3 (Midway MCR3)
+
 - Discs of Tron.mra (Midway MCR3) - False - False - (1983)
 - Discs of Tron (Alt.).mra (Midway MCR3) - False - True - (1983)
 - Journey.mra (Midway MCR3) - False - False - (1984)
@@ -1519,32 +1605,38 @@ This report provides an overview of the arcade cores games supported by core for
 - Timber.mra (Midway MCR3) - False - False - (1983)
 
 ## missilecommand (Atari Missile Command)
+
 - Missile Command (rev 3).mra (Atari Missile Command) - False - False - (1980)
 - Missile Command (rev 1).mra (Atari Missile Command) - False - True - (1980)
 - Missile Command (rev 2).mra (Atari Missile Command) - False - True - (1980)
 
-## moonpatrol (Irem M52 Hardware)
+## moonpatrol (Irem M52)
+
 - Moon Patrol.mra (Irem M52) - False - False - (1982)
 - Moon Patrol (Williams).mra (Irem M52) - False - True - (1982)
 - Moon Ranger (Moon Patrol) [bl].mra (Irem M52) - True - True - (1982)
 - Sponge Patrol [hb].mra (Irem M52) - False - True - (1982)
 
-## mrdo (Universal Mr Do)
+## mrdo (Mr. Do hardware)
+
 - Mr. Do!.mra (Mr. Do hardware) - False - False - (1982)
 - Mr. Do! Fixed.mra (Mr. Do hardware) - False - False - (1982)
 
-## mrjong (Kiwako MrJong)
+## mrjong (Kiwako Mr. Jong hardware)
+
 - BlockBuster.mra (Kiwako Mr. Jong hardware) - False - False - (1983)
 - Crazy Blocks.mra (Kiwako Mr. Jong hardware) - False - False - (1983)
 - Mr. Jong.mra (Kiwako Mr. Jong hardware) - False - False - (1983)
 
-## ninjakun (UPL Nova2001 Hardware)
+## ninjakun (Taito Unique)
+
 - Ninjakun Majou no Bouken.mra (Taito Unique) - False - False - (1984)
 - Nova 2001.mra (Taito Unique) - False - False - (1984)
 - Nova 2001 (Hack).mra (Taito Unique) - False - False - (1984)
 - Raiders5.mra (Taito Unique) - False - False - (1984)
 
-## pacman (Namco Pacman Hardware)
+## pacman (Namco Pac-Man hardware)
+
 - Abortman.mra (Namco Pac-Man hardware) - False - True - (1980)
 - Ali Baba and 40 Thieves.mra (Sega Z80) - False - False - (1982)
 - Mustafa and 40 Thieves [bl].mra (Sega Z80) - True - True - (1982)
@@ -1716,7 +1808,8 @@ This report provides an overview of the arcade cores games supported by core for
 - Xens Revenge After Dark [hb].mra (Namco Pac-Man hardware) - False - True - (1980)
 - Xens Revenge [hb].mra (Namco Pac-Man hardware) - False - True - (1980)
 
-## phoenix (Phoenix Hardware)
+## phoenix (Taito Unique)
+
 - Ave Fenix (Electrogame, ES, Phoenix) [bl].mra (Taito Unique) - True - True - (1980)
 - Ave Fenix (Laguna, ES, Phoenix) [bl].mra (Taito Unique) - True - True - (1980)
 - Ave Fenix (Recreativos Franco, ES, Phoenix) [bl].mra (Taito Unique) - True - True - (1980)
@@ -1745,16 +1838,18 @@ This report provides an overview of the arcade cores games supported by core for
 - Vautour (Phoenix, 8085A CPU) [bl].mra (Taito Unique) - True - True - (1980)
 - Vautour (Phoenix, Z80 CPU, Single PROM) [bl].mra (Taito Unique) - True - True - (1980)
 
-## pooyan (Konami Pooyan)
+## pooyan (Konami Z80)
+
 - Pootan [bl].mra (Konami Z80) - True - True - (1982)
 - Pooyan.mra (Konami Z80) - False - False - (1982)
 - Pooyan (Tester) [hb].mra (Konami Z80) - False - True - (1982)
 - Pooyan (Stern).mra (Konami Z80) - False - True - (1982)
 
-## qbert (Gottlieb QBert Hardware)
-- curvebal (Gottlieb QBert Hardware)
-- insector (Gottlieb QBert Hardware)
-- krull (Gottlieb QBert Hardware)
+## qbert (Konami Unique)
+
+- curvebal (Konami Unique)
+- insector (Konami Unique)
+- krull (Konami Unique)
 - Mad Planets.mra (Konami Unique) - False - False - (1982)
 - myqbert (Konami Unique)
 - Q'bert (US, Set 1).mra (Konami Unique) - False - False - (1982)
@@ -1765,13 +1860,15 @@ This report provides an overview of the arcade cores games supported by core for
 - sqbert (Konami Unique)
 - tylz (Konami Unique)
 
-## rallyx (Namco Rally-X Hardware)
+## rallyx (Namco Pac-Man hardware)
+
 - New Rally-X.mra (Namco Pac-Man hardware) - False - False - (1981)
 - New Rally-X [bl].mra (Namco Pac-Man hardware) - True - True - (1981)
 - Rally-X (32k Ver).mra (Namco Pac-Man hardware) - False - False - (1980)
 - Rally-X (Midway).mra (Namco Pac-Man hardware) - False - True - (1980)
 
-## robotron (Williams 6809 rev.1 Hardware)
+## robotron (Williams 1st Generation)
+
 - Alien Arena (Stargate upgrade).mra (Williams 1st Generation) - False - False - (1985)
 - Bubbles.mra (Williams 1st Generation) - False - False - (1982)
 - Bubbles (Prototype).mra (Williams 1st Generation) - False - True - (1982)
@@ -1795,9 +1892,11 @@ This report provides an overview of the arcade cores games supported by core for
 - Stargate.mra (Williams 1st Generation) - False - False - (1981)
 
 ## scootershooter (Konami ScooterShooter)
+
 - Scooter Shooter (W).mra (Konami 6809 based) - False - False - (1985)
 
 ## segasys1 (Sega System 1 Hardware)
+
 - 4-D Warriors (315-5162).mra (Sega System 1) - False - False - (1985)
 - Block Gal.mra (Sega System 1) - False - False - (1987)
 - Bull Fight (315-5056).mra (Sega System 1) - False - False - (1984)
@@ -1819,11 +1918,13 @@ This report provides an overview of the arcade cores games supported by core for
 - Wonder Boy (Set 1, 315-5177).mra (Sega System 1) - False - False - (1986)
 - Water Match (315-5064).mra (Sega System 1) - False - False - (1984)
 
-## sonson (SonSon Hardware)
+## sonson (Capcom CPS-0)
+
 - SonSon.mra (Capcom CPS-0) - False - False - (1984)
 - SonSon (JP).mra (Capcom CPS-0) - False - True - (1984)
 
 ## terracresta (Nichibutsu M68000 Hardware)
+
 - Sei Senshi Amatelass.mra (Nichibutsu M68000 (Terra Cresta)) - False - False - (1986)
 - Soldier Girl Amazon.mra (Nichibutsu M68000 (Terra Cresta)) - False - True - (1986)
 - Soldier Girl Amazon (Tecfri license).mra (Nichibutsu M68000 (Terra Cresta)) - False - True - (1986)
@@ -1834,18 +1935,21 @@ This report provides an overview of the arcade cores games supported by core for
 - Terra Cresta (YM3526 set 3).mra (Nichibutsu M68000 (Terra Cresta)) - False - True - (1985)
 - Terra Cresta (YM3526 set 2).mra (Nichibutsu M68000 (Terra Cresta)) - False - True - (1985)
 
-## timepilot84 (Konami Time Pilot '84)
+## timepilot84 (Konami Dual 6809 based)
+
 - Time Pilot '84 (Set 1).mra (Konami Dual 6809 based) - False - False - (1984)
 - Time Pilot '84 (Set 2).mra (Konami Dual 6809 based) - False - False - (1984)
 - Time Pilot '84 (Set 3).mra (Konami Dual 6809 based) - False - False - (1984)
 
 ## traverseusa (Irem M52)
+
 - MotoTour- Zippy Race (Tecfri license).mra (Irem M52) - False - True - (1983)
 - Shot Rider (B-Board 89624B-1).mra (Irem M52) - False - False - (1983)
 - Traverse USA- Zippy Race (US).mra (Irem M52) - False - False - (1983)
 - Traverse (US) [bl].mra (Irem M52) - False - True - (1983)
 
 ## tropicalangel (Irem M57)
+
 - New Tropical Angel.mra (Irem M57) - False - False - (1983)
 - Tropical Angel.mra (Irem M57) - False - False - (1983)
 
