@@ -1,4 +1,4 @@
-# netUNO+ FPGA report: Games available
+# neptUNO+ FPGA report: Games available
 
 **📄 Description:** This report provides an overview of the arcade cores games available for the **neptUNO+** FPGA.
 

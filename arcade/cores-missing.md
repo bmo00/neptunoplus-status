@@ -1,4 +1,4 @@
-# netUNO+ FPGA report: Cores missing
+# neptUNO+ FPGA report: Cores missing
 
 **📄 Description:** This report provides an overview of the arcade cores cores missing for the **neptUNO+** FPGA.
 
