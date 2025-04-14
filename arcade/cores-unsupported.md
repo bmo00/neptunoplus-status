@@ -68,8 +68,8 @@ This report provides an overview of the arcade cores cores unsupported for the *
 | jackal | Konami Double Dribble based | N/A |  | [Mister - MiSTer-devel/Arcade-Jackal_MiSTer](https://github.com/MiSTer-devel/Arcade-Jackal_MiSTer)<br>[Mist - gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Konami%20Jackal)<br>[Sidi128 - gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Konami%20Jackal) | Distribution_MiSTer |
 | joust2 | Williams 2nd Generation | N/A | Core williams2 merged on MiST/SiDi 128 | [Mister - MiSTer-devel/Arcade-Joust2_MiSTer](https://github.com/MiSTer-devel/Arcade-Joust2_MiSTer)<br>[Mist - gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Williams%206809%20rev.2%20Hardware) | Distribution_MiSTer |
 | jtflstory | Taito The FairyLand Story hardware | N/A |  | [Mister - jotego/jtcores](https://github.com/jotego/jtcores/tree/master/cores/flstory) | JOTEGO |
-| jtngp | JOTEGO | N/A |  | [Mister - jotego/jtcores](https://github.com/jotego/jtcores/tree/master/cores/ngp) | JOTEGO |
-| jtngpc | JOTEGO BETA | N/A |  | [Mister - jotego/jtcores](https://github.com/jotego/jtcores/tree/master/cores/ngpc) | JOTEGO |
+| jtngp |  | N/A |  | [Mister - jotego/jtcores](https://github.com/jotego/jtcores/tree/master/cores/ngp) | JOTEGO |
+| jtngpc |  | N/A |  | [Mister - jotego/jtcores](https://github.com/jotego/jtcores/tree/master/cores/ngpc) | JOTEGO |
 | jtriders | Konami TMNT 2 based | N/A |  | [Mister - jotego/jtcores](https://github.com/jotego/jtcores/tree/master/cores/riders) | JOTEGO |
 | jts16a2 | Sega System 16 | N/A |  | N/A | Insert-Coin |
 | jts18 | Sega System 18 | N/A |  | [Mister - jotego/jtcores](https://github.com/jotego/jtcores/tree/master/cores/s18) | JOTEGO |
