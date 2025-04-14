@@ -2,17 +2,17 @@
 
 This report provides an overview of the arcade cores games supported for the **neptUNO+** FPGA.
 
-## 📊 Summary:
-- **Cores available in the database:** 240
-- **Cores currently supported by neptUNO+:** 106
-- **Cores currently unsupported by neptUNO+:** 134
+## 📊 Summary
+- **Games available in the database:** 2363
+- **Games currently supported by neptUNO+:** 1627
+- **Games currently unsupported by neptUNO+:** 736
 
 ---
 
 ## Arcade games
 
 | 🏷️ **Core** | 📝 **Set name** | **MRA file** | 🗒️ **Platform** | 🔗 **Rotation** | 🗒️ **Year** |
-|-------------------|-----------------|-------------|----------------------|--------------------|------------------|
+|-------------|------------------|--------------|-----------------|------------------|-------------|
 | alpha68k | [btlfield](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=btlfield&lang=en) | Battle Field (JP).mra | SNK - Alpha Denshi | 90 | 1987 |
 | alpha68k | [gangwars](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gangwars&lang=en) | Gang Wars.mra | SNK - Alpha Denshi | 0 | 1989 |
 | alpha68k | [gangwarsb](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gangwarsb&lang=en) | Gang Wars [bl].mra | SNK - Alpha Denshi | 0 | 1989 |

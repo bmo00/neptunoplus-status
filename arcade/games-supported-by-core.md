@@ -2,10 +2,10 @@
 
 This report provides an overview of the arcade cores games supported by core for the **neptUNO+** FPGA.
 
-## 📊 Summary:
-- **Cores available in the database:** 240
-- **Cores currently supported by neptUNO+:** 106
-- **Cores currently unsupported by neptUNO+:** 134
+## 📊 Summary
+- **Games available in the database:** 2363
+- **Games currently supported by neptUNO+:** 1627
+- **Games currently unsupported by neptUNO+:** 736
 
 ---
 
@@ -14,11 +14,14 @@ This report provides an overview of the arcade cores games supported by core for
 ## alpha68k (SNK - Alpha Denshi)
 
 ### Parents
+
 - Gang Wars.mra (1989)
 - Sky Adventure (W).mra (1989)
 - Sky Soldiers (US).mra (1988)
 - Time Soldiers (US, Rev 3).mra (1987)
+
 ### Alternatives
+
 - Battle Field (JP).mra (1987)
 - Gang Wars [bl].mra (1989)
 - Gang Wars (JP).mra (1989)
@@ -31,8 +34,11 @@ This report provides an overview of the arcade cores games supported by core for
 ## arkanoid (Taito Arkanoid hardware)
 
 ### Parents
+
 - Arkanoid (JP).mra (1986)
+
 ### Alternatives
+
 - Arkanoid (Game Corporation, Set 1) [bl].mra (1986)
 - Arkanoid (Game Corporation, Set 2) [bl].mra (1986)
 - Arkanoid (W, Older).mra (1986)
@@ -45,13 +51,16 @@ This report provides an overview of the arcade cores games supported by core for
 ## armedf (Nichibutsu M68000 (Armed F))
 
 ### Parents
+
 - Armed F (JP).mra (1988)
 - Tatakae! Big Fighter.mra (1989)
 - Crazy Climber 2 (JP).mra (1988)
 - Kozure Ookami (JP).mra (1987)
 - Chouji Meikyuu Legion (JP, ver 1.05, Set 2).mra (1987)
 - Terra Force (JP).mra (1987)
+
 ### Alternatives
+
 - Armed F (Fillmore license).mra (1988)
 - Crazy Climber 2 (JP, Harder).mra (1988)
 - Legion - Spinner-87 (W, ver 2.03).mra (1987)
@@ -62,8 +71,11 @@ This report provides an overview of the arcade cores games supported by core for
 ## ataritetris (Atari 6502)
 
 ### Parents
+
 - Tetris.mra (1988)
+
 ### Alternatives
+
 - Tetris (Set 2).mra (1988)
 - Tetris (Set 1) [bl].mra (1988)
 - Tetris (Cocktail, Set 1).mra (1989)
@@ -72,12 +84,15 @@ This report provides an overview of the arcade cores games supported by core for
 ## bagman (Taito Licensed)
 
 ### Parents
+
 - Bagman.mra (1982)
 - Botanic (English, Spanish, Set 1).mra (1983)
 - Pickin'.mra (1983)
 - Super Bagman.mra (1984)
 - Squash (Itisa).mra (1984)
+
 ### Alternatives
+
 - Bagman (Taito).mra (1982)
 - Bagman (Stern, Set 1).mra (1982)
 - Bagman (Stern, Set 2).mra (1982)
@@ -93,12 +108,14 @@ This report provides an overview of the arcade cores games supported by core for
 ## bankpanic (Sega Z80)
 
 ### Parents
+
 - Bank Panic.mra (1984)
 - Combat Hawk.mra (1987)
 
 ## blockade (Sega Blockade hardware)
 
 ### Parents
+
 - Blasto.mra (1978)
 - Blockade.mra (1976)
 - CoMotion.mra (1976)
@@ -107,8 +124,11 @@ This report provides an overview of the arcade cores games supported by core for
 ## bombjack (Tehkan hardware)
 
 ### Parents
+
 - Bomb Jack.mra (1984)
+
 ### Alternatives
+
 - Bomb Jack (GR) [hb].mra (1984)
 - Bomb Jack (Set 2).mra (1984)
 - Bomb Jack (CN) [hb].mra (1984)
@@ -118,8 +138,11 @@ This report provides an overview of the arcade cores games supported by core for
 ## centipede (Atari Centipede based)
 
 ### Parents
+
 - Centipede (Rev 4).mra (1980)
+
 ### Alternatives
+
 - Astropede II [hb].mra (1980)
 - Astropede [hb].mra (1980)
 - Cemescary [hb].mra (1980)
@@ -135,18 +158,24 @@ This report provides an overview of the arcade cores games supported by core for
 ## crazyclimber (Taito Licensed)
 
 ### Parents
+
 - Crazy Climber.mra (1980)
+
 ### Alternatives
+
 - Crazy Climber (US, Set 2).mra (1980)
 
 ## defender (Williams 1st Generation)
 
 ### Parents
+
 - Colony 7 (Set 1).mra (1981)
 - Defender (Red Label).mra (1980)
 - Jin.mra (1982)
 - Mayday (Set 1).mra (1980)
+
 ### Alternatives
+
 - Colony 7 (Set 2).mra (1981)
 - Mayday (Set 2).mra (1980)
 - Mayday (Set 3).mra (1980)
@@ -154,10 +183,13 @@ This report provides an overview of the arcade cores games supported by core for
 ## donkeykong (Donkey Kong hardware)
 
 ### Parents
+
 - Donkey Kong (US, Set 1).mra (1981)
 - Pest Place.mra (1983)
 - Radar Scope.mra (1980)
+
 ### Alternatives
+
 - Donkey Kong Freerun Edition (Freerun) [hb].mra (1981)
 - Donkey Kong (2 Marios) [hb].mra (1981)
 - Donkey Kong 3 [bl].mra (1984)
@@ -184,6 +216,7 @@ This report provides an overview of the arcade cores games supported by core for
 ## druaga (Namco Super Pac-Man hardware)
 
 ### Parents
+
 - Dig Dug II (New Ver).mra (1985)
 - Mappy (US).mra (1983)
 - Motos.mra (1985)
@@ -191,7 +224,9 @@ This report provides an overview of the arcade cores games supported by core for
 - Pac & Pal.mra (1983)
 - Super Pac-Man.mra (1982)
 - The Tower of Druaga.mra (1984)
+
 ### Alternatives
+
 - Crackhead [hb].mra (1980)
 - Dig Dug II (Old Ver).mra (1985)
 - Grobda (W, New Ver.).mra (1984)
@@ -200,7 +235,9 @@ This report provides an overview of the arcade cores games supported by core for
 - Marpy [hb].mra (1983)
 - The Tower of Druaga (Old Ver).mra (1984)
 - The Tower of Druaga (Sidam) [bl].mra (1984)
+
 ### Not in Arcade database
+
 - grobda2
 - grobda3
 - superpacm
@@ -208,36 +245,47 @@ This report provides an overview of the arcade cores games supported by core for
 ## expressraider (Data East Unique)
 
 ### Parents
+
 - Express Raider (W, Rev 4).mra (1986)
+
 ### Alternatives
+
 - Western Express (JP, Rev 4).mra (1986)
 
 ## finalizer (Konami Double Dribble based)
 
 ### Parents
+
 - Finalizer- Super Transformation (Set 2).mra (1985)
+
 ### Alternatives
+
 - Finalizer- Super Transformation (Set 1).mra (1985)
 - Finalizer- Super Transformation [bl].mra (1986)
 
 ## galivan (Nichibutsu Z80 (Galivan))
 
 ### Parents
+
 - Ufo Robo Dangar (4-07-1987).mra (1987)
 - Cosmo Police Galivan.mra (1985)
 
 ## gyruss (Konami Gyruss)
 
 ### Parents
+
 - Gyruss.mra (1983)
 - Venus (Gyruss) [bl].mra (1983)
+
 ### Alternatives
+
 - Gyruss [bl].mra (1983)
 - Gyruss (Centuri).mra (1983)
 
 ## iremm62 (Irem M62)
 
 ### Parents
+
 - The Battle-Road.mra (1984)
 - Horizon (Irem).mra (1985)
 - Kid Niki- Radical Ninja (W).mra (1986)
@@ -249,7 +297,9 @@ This report provides an overview of the arcade cores games supported by core for
 - Spelunker II - 23 no Kagi (JP).mra (1986)
 - Spelunker.mra (1985)
 - Youjyuden (JP).mra (1986)
+
 ### Alternatives
+
 - Kid Niki - Radical Ninja (US).mra (1986)
 - Kung-Fu Master (Set 1) [bl].mra (1984)
 - Kung-Fu Master (Set 2) [bl].mra (1984)
@@ -262,6 +312,7 @@ This report provides an overview of the arcade cores games supported by core for
 ## iremm72 (Irem M72)
 
 ### Parents
+
 - Air Duel (JP, M72 hardware).mra (1990)
 - Dragon Breed (JP).mra (1989)
 - Daiku no Gensan (JP, M72 hardware).mra (1990)
@@ -275,7 +326,9 @@ This report provides an overview of the arcade cores games supported by core for
 - R-Type II (W).mra (1989)
 - R-Type (JP).mra (1987)
 - X Multiply (JP, M72 hardware).mra (1989)
+
 ### Alternatives
+
 - Air Duel (W, M72 hardware).mra (1990)
 - Daiku no Gensan (JP, M84 hardware).mra (1990)
 - Image Fight (W).mra (1988)
@@ -284,6 +337,7 @@ This report provides an overview of the arcade cores games supported by core for
 ## iremm92 (Irem M92)
 
 ### Parents
+
 - Blade Master (W).mra (1991)
 - Dream Soccer '94 (JP, M92).mra (1994)
 - Gun Force II (US).mra (1994)
@@ -298,7 +352,9 @@ This report provides an overview of the arcade cores games supported by core for
 - Superior Soldiers (US).mra (1994)
 - Undercover Cops - Alpha Renewal Version (W).mra (1992)
 - Undercover Cops (JP).mra (1992)
+
 ### Alternatives
+
 - Cross Blades! (JP).mra (1991)
 - Geo Storm.mra (1994)
 - Gun Force (W).mra (1991)
@@ -314,7 +370,9 @@ This report provides an overview of the arcade cores games supported by core for
 - Undercover Cops (W).mra (1992)
 - Undercover Cops - Alpha Renewal Version (US).mra (1992)
 - Undercover Cops (US).mra (1992)
+
 ### Not in Arcade database
+
 - bmaster_t
 - crossbld_t
 - dsoccr94j_t
@@ -348,8 +406,11 @@ This report provides an overview of the arcade cores games supported by core for
 ## ironhorse (Konami Double Dribble based)
 
 ### Parents
+
 - Iron Horse (Ver. K).mra (1986)
+
 ### Alternatives
+
 - Dai Ressya Goutou (Ver. K).mra (1986)
 - Iron Horse (Ver. H) [bl].mra (1986)
 - Iron Horse (Ver. H).mra (1986)
@@ -357,16 +418,20 @@ This report provides an overview of the arcade cores games supported by core for
 ## jailbreak (Konami Green Beret based)
 
 ### Parents
+
 - Jailbreak.mra (1986)
 - Manhattan 24 Bunsyo (JP).mra (1986)
 
 ## jt1942 (Capcom CPS-0)
 
 ### Parents
+
 - 1942 (W, Rev B).mra (1984)
 - Pirate Ship Higemaru.mra (1984)
 - Vulgus (Set 1).mra (1984)
+
 ### Alternatives
+
 - 1942 (Rev A).mra (1984)
 - 1942 (First Version).mra (1984)
 - Supercharger 1942 (Set 2) [hb].mra (1991)
@@ -378,11 +443,14 @@ This report provides an overview of the arcade cores games supported by core for
 ## jt1943 (Capcom CPS-0)
 
 ### Parents
+
 - 1943- Midway Kaisen (JP, Rev B).mra (1987)
 - 1943- Kai Midway Kaisen (JP).mra (1987)
 - 1943- The Battle of Midway Mark II (US).mra (1987)
 - 1943- The Battle of Midway (US, Rev C).mra (1987)
+
 ### Alternatives
+
 - 1943- The Battle of Midway (EU).mra (1987)
 - 1943- Midway Kaisen (JP).mra (1987)
 - 1943- Midway Kaisen (no Protection) [hb].mra (1987)
@@ -391,6 +459,7 @@ This report provides an overview of the arcade cores games supported by core for
 ## jtaliens (Konami Aliens based)
 
 ### Parents
+
 - Aliens (W, Set 1).mra (1990)
 - Crazy Cop (JP).mra (1988)
 - Crime Fighters (JP, 2P).mra (1989)
@@ -399,7 +468,9 @@ This report provides an overview of the arcade cores games supported by core for
 - Super Contra (Set 1).mra (1988)
 - Thunder Cross (Set 2).mra (1988)
 - Thunder Cross (JP).mra (1988)
+
 ### Alternatives
+
 - Aliens (W, Set 2).mra (1990)
 - Aliens (W, Set 3).mra (1990)
 - Aliens (W, Set 4).mra (1990)
@@ -417,8 +488,11 @@ This report provides an overview of the arcade cores games supported by core for
 ## jtbiocom (Capcom CPS-0)
 
 ### Parents
+
 - Bionic Commando.mra (1987)
+
 ### Alternatives
+
 - Bionic Commando (US, Set 1).mra (1987)
 - Bionic Commando (US, Set 2).mra (1987)
 - Bionic Commandos (Set 1) [bl].mra (1987)
@@ -429,17 +503,23 @@ This report provides an overview of the arcade cores games supported by core for
 ## jtbtiger (Capcom CPS-0)
 
 ### Parents
+
 - Black Tiger.mra (1987)
+
 ### Alternatives
+
 - Black Dragon (JP).mra (1987)
 - Black Tiger (Older).mra (1987)
 
 ## jtbubl (Taito Bubble Booble based)
 
 ### Parents
+
 - Bubble Bobble (JP, Ver 0.1).mra (1986)
 - Tokio (Scramble Formation) (Newer).mra (1986)
+
 ### Alternatives
+
 - Bubble Bobble (JP, v0.0).mra (1986)
 - Bubble Bobble (Tokio Prototype).mra (1986)
 - Bubble Bobble (US, v5.1).mra (1986)
@@ -454,9 +534,12 @@ This report provides an overview of the arcade cores games supported by core for
 ## jtcastle (Konami 6309 based)
 
 ### Parents
+
 - Akuma-Jou Dracula (Ver. N).mra (1988)
 - Haunted Castle (Ver. K).mra (1988)
+
 ### Alternatives
+
 - Akuma-Jou Dracula (Ver. P).mra (1988)
 - Haunted Castle (Ver. M).mra (1988)
 - Haunted Castle (Ver. E).mra (1988)
@@ -464,8 +547,11 @@ This report provides an overview of the arcade cores games supported by core for
 ## jtcircus (Konami Unique)
 
 ### Parents
+
 - Circus Charlie (Level Select, Set 1).mra (1984)
+
 ### Alternatives
+
 - Circus Charlie (Level Select, Set 2).mra (1984)
 - Circus Charlie (Level Select, Set 3).mra (1984)
 - Circus Charlie (No Level Select).mra (1984)
@@ -475,8 +561,11 @@ This report provides an overview of the arcade cores games supported by core for
 ## jtcommnd (Capcom CPS-0)
 
 ### Parents
+
 - Commando (W).mra (1985)
+
 ### Alternatives
+
 - Commando (Set 2) [bl].mra (1985)
 - Commando (Set 3) [bl].mra (1985)
 - Senjou no Ookami.mra (1985)
@@ -487,16 +576,22 @@ This report provides an overview of the arcade cores games supported by core for
 ## jtcomsc (Konami 6309 based)
 
 ### Parents
+
 - Boot Camp (Set 2).mra (1988)
 - Combat School (Joystick).mra (1988)
+
 ### Alternatives
+
 - Boot Camp (Set 1).mra (1988)
 
 ## jtcontra (Konami Contra based)
 
 ### Parents
+
 - Contra (US-AS, Set 3).mra (1987)
+
 ### Alternatives
+
 - Contra (US-AS, Set 1).mra (1987)
 - Contra (US-AS, Set 2).mra (1987)
 - Contra (JP, Set 1).mra (1987)
@@ -507,9 +602,12 @@ This report provides an overview of the arcade cores games supported by core for
 ## jtcop (Data East MEC-M1)
 
 ### Parents
+
 - Hippodrome (US).mra (1989)
 - Robocop (W, Rev 4).mra (1988)
+
 ### Alternatives
+
 - Fighting Fantasy (JP, Rev 3).mra (1989)
 - Fighting Fantasy (JP).mra (1989)
 - Fighting Fantasy (JP, Rev X).mra (1989)
@@ -522,6 +620,7 @@ This report provides an overview of the arcade cores games supported by core for
 ## jtcps1 (Capcom CPS-1)
 
 ### Parents
+
 - 1941- Counter Attack (JP).mra (1990)
 - Three Wonders (W, 910520).mra (1991)
 - Captain Commando (JP, 920928).mra (1991)
@@ -557,7 +656,9 @@ This report provides an overview of the arcade cores games supported by core for
 - U.N. Squadron (US).mra (1989)
 - Varth- Operation Thunderstorm (W, 920714).mra (1992)
 - Willow (W).mra (1989)
+
 ### Alternatives
+
 - 1941- Counter Attack (W, 900227).mra (1990)
 - 1941- Counter Attack (W).mra (1990)
 - 1941- Counter Attack (US, 900227).mra (1990)
@@ -677,7 +778,9 @@ This report provides an overview of the arcade cores games supported by core for
 - Willow (US).mra (1989)
 - Willow (US, Old Ver).mra (1989)
 - Wonder 3 (JP, 910520).mra (1991)
+
 ### Not in Arcade database
+
 - forgottnu
 - nemoja
 - sf2ceaimedb
@@ -693,12 +796,15 @@ This report provides an overview of the arcade cores games supported by core for
 ## jtcps15 (Capcom CPS-1.5)
 
 ### Parents
+
 - Cadillacs and Dinosaurs (W, 930201).mra (1993)
 - Muscle Bomber Duo- Ultimate Team Battle (W, 931206).mra (1993)
 - The Punisher (W, 930422).mra (1993)
 - Saturday Night Slam Masters (W, 930713).mra (1993)
 - Warriors of Fate (W, 921031).mra (1992)
+
 ### Alternatives
+
 - Cadillacs and Dinosaurs (AS, 930223).mra (1993)
 - Cadillacs- Kyouryuu Shin Seiki (JP, 930201).mra (1993)
 - Cadillacs and Dinosaurs (US, 930201).mra (1993)
@@ -712,12 +818,15 @@ This report provides an overview of the arcade cores games supported by core for
 - Tenchi wo Kurau II- Sekiheki no Tatakai (JP, 921031).mra (1992)
 - Warriors of Fate (W, 921002).mra (1992)
 - Warriors of Fate (US, 921031).mra (1992)
+
 ### Not in Arcade database
+
 - wofch
 
 ## jtcps2 (Capcom CPS-2)
 
 ### Parents
+
 - 1944- The Loop Master (JP, 000620).mra (2000)
 - 19XX- The War Against Destiny (JP, 960104).mra (1996)
 - Armored Warriors (AS, 941024).mra (1994)
@@ -761,7 +870,9 @@ This report provides an overview of the arcade cores games supported by core for
 - Vampire Savior- The Lord of Vampire (EU, 970519).mra (1997)
 - X-Men- Children of the Atom (EU, 950331).mra (1994)
 - X-Men Vs. Street Fighter (EU, 961004).mra (1996)
+
 ### Alternatives
+
 - 1944- The Loop Master (EU, 000620).mra (2000)
 - 1944- The Loop Master (US, Phoenix Edition) [bl].mra (2000)
 - 1944- The Loop Master (US, 000620).mra (2000)
@@ -1042,8 +1153,11 @@ This report provides an overview of the arcade cores games supported by core for
 ## jtdd (Technos 6309 based)
 
 ### Parents
+
 - Double Dragon (JP).mra (1987)
+
 ### Alternatives
+
 - Double Dragon (US, Set 1).mra (1987)
 - Double Dragon (US, Set 2).mra (1987)
 - Double Dragon (US, Set 3).mra (1987)
@@ -1053,8 +1167,11 @@ This report provides an overview of the arcade cores games supported by core for
 ## jtdd2 (Technos 6309 based)
 
 ### Parents
+
 - Double Dragon II- The Revenge (JP).mra (1988)
+
 ### Alternatives
+
 - Double Dragon II- The Revenge (W).mra (1988)
 - Double Dragon II- The Revenge (US) [bl].mra (1988)
 - Double Dragon II- The Revenge (US).mra (1988)
@@ -1062,32 +1179,44 @@ This report provides an overview of the arcade cores games supported by core for
 ## jtexed (Capcom CPS-0)
 
 ### Parents
+
 - Exed Exes.mra (1985)
+
 ### Alternatives
+
 - Savage Bees.mra (1985)
 
 ## jtflane (Konami Contra based)
 
 ### Parents
+
 - Fast Lane (W).mra (1987)
 
 ## jtfround (Konami Twin16 hardware)
 
 ### Parents
+
 - The Final Round (Ver. M).mra (1988)
+
 ### Alternatives
+
 - The Final Round (Ver. L).mra (1988)
 
 ## jtgaiden (Tecmo Ninja Gaiden hardware)
 
 ### Parents
+
 - Ninja Gaiden (US).mra (1988)
 - Ninja Ryukenden (JP, Set 2).mra (1988)
+
 ### Alternatives
+
 - Ninja Ryukenden (JP, Set 1).mra (1988)
 - Shadow Warriors (W, Set 1).mra (1988)
 - Shadow Warriors (W, Set 2).mra (1988)
+
 ### Not in Arcade database
+
 - raiga
 - stratof
 - tknight
@@ -1097,8 +1226,11 @@ This report provides an overview of the arcade cores games supported by core for
 ## jtgng (Capcom CPS-0)
 
 ### Parents
+
 - Ghosts'n Goblins (W).mra (1985)
+
 ### Alternatives
+
 - Ghosts'n Goblins (W, Set 2).mra (1985)
 - Ghosts'n Goblins (IT, Harder) [bl].mra (1985)
 - Ghosts'n Goblins (W, Set 3).mra (1985)
@@ -1107,14 +1239,19 @@ This report provides an overview of the arcade cores games supported by core for
 - Makai-Mura (JP).mra (1985)
 - Makai-Mura (JP, Rev C).mra (1985)
 - Makai-Mura (JP, Rev G).mra (1985)
+
 ### Not in Arcade database
+
 - makaimurb
 
 ## jtgunsmk (Capcom CPS-0)
 
 ### Parents
+
 - Gun Smoke.mra (1985)
+
 ### Alternatives
+
 - Gun Smoke (851115) [bl].mra (1985)
 - Gun.Smoke (DE, 851115, Censored).mra (1985)
 - Gun Smoke (JP, 851115).mra (1985)
@@ -1124,10 +1261,13 @@ This report provides an overview of the arcade cores games supported by core for
 ## jtkarnov (Data East Karnov hardwar)
 
 ### Parents
+
 - Chelnov - Atomic Runner (W).mra (1988)
 - Karnov (US, Rev 6).mra (1987)
 - Wonder Planet (JP).mra (1987)
+
 ### Alternatives
+
 - Chelnov - Atomic Runner (JP).mra (1988)
 - Chelnov - Atomic Runner (US).mra (1988)
 - Karnov (US, rev 5).mra (1987)
@@ -1136,8 +1276,11 @@ This report provides an overview of the arcade cores games supported by core for
 ## jtkchamp (Data East Z80 based)
 
 ### Parents
+
 - Karate Champ (US).mra (1984)
+
 ### Alternatives
+
 - Karate Dou (Arfyc) [bl].mra (1984)
 - Karate Dou (JP).mra (1984)
 - Taisen Karate Dou (JP, VS version).mra (1984)
@@ -1146,26 +1289,34 @@ This report provides an overview of the arcade cores games supported by core for
 - Karate Champ (US, VS Ver, Set 2).mra (1984)
 - Karate Champ (US, VS Ver, Set 3).mra (1984)
 - Karate Champ (US, VS Ver, Set 4).mra (1984)
+
 ### Not in Arcade database
+
 - kchamp2p
 
 ## jtkicker (Konami 6809 based)
 
 ### Parents
+
 - Kicker.mra (1985)
+
 ### Alternatives
+
 - Shao-lin's Road (set 1).mra (1985)
 
 ## jtkiwi (Taito The NewZealand Story hardware)
 
 ### Parents
+
 - Arkanoid - Revenge of DOH (W).mra (1987)
 - Dr. Toppel's Adventure (W).mra (1987)
 - Extermination (W).mra (1987)
 - Insector X (W).mra (1989)
 - Kageki (W).mra (1988)
 - The NewZealand Story (W, New version).mra (1988)
+
 ### Alternatives
+
 - Arkanoid - Revenge of DOH (JP) [bl].mra (1987)
 - Arkanoid - Revenge of DOH (JP).mra (1987)
 - Arkanoid - Revenge of DOH (US).mra (1987)
@@ -1183,7 +1334,9 @@ This report provides an overview of the arcade cores games supported by core for
 - The NewZealand Story (W, unknown version).mra (1988)
 - The NewZealand Story (W, prototype).mra (1988)
 - The NewZealand Story (US, old version).mra (1988)
+
 ### Not in Arcade database
+
 - chukataij
 - chukataija
 - chukataiu
@@ -1194,6 +1347,7 @@ This report provides an overview of the arcade cores games supported by core for
 ## jtkunio (Technos 6309 based)
 
 ### Parents
+
 - Nekketsu Kouha Kunio-kun (JP).mra (1986)
 - Nekketsu Kouha Kunio-kun (JP) [bl].mra (1986)
 - Renegade (US).mra (1986)
@@ -1202,16 +1356,22 @@ This report provides an overview of the arcade cores games supported by core for
 ## jtlabrun (Konami Contra based)
 
 ### Parents
+
 - Labyrinth Runner (JP).mra (1987)
 - Trick Trap (W).mra (1987)
+
 ### Alternatives
+
 - Labyrinth Runner (W, Ver. K).mra (1987)
 
 ## jtmidres (Data East MEC-M1)
 
 ### Parents
+
 - Midnight Resistance (W, Set 2).mra (1989)
+
 ### Alternatives
+
 - Midnight Resistance (W).mra (1989)
 - Midnight Resistance (JP).mra (1989)
 - Midnight Resistance (US).mra (1989)
@@ -1219,8 +1379,11 @@ This report provides an overview of the arcade cores games supported by core for
 ## jtmikie (Konami 6809 based)
 
 ### Parents
+
 - Mikie.mra (1984)
+
 ### Alternatives
+
 - Mikie (High School Graffiti).mra (1984)
 - Shinnyuushain Tooru-kun.mra (1984)
 - Shin-ip Sawon - Seok Dol-i.mra (1984)
@@ -1228,27 +1391,36 @@ This report provides an overview of the arcade cores games supported by core for
 ## jtmx5k (Konami 6309 based))
 
 ### Parents
+
 - MX5000.mra (1987)
+
 ### Alternatives
+
 - Flak Attack (JP).mra (1987)
 - Flak Attack (JP, PWB 450593 sub-board).mra (1987)
 
 ## jtninja (Data East MEC-M1)
 
 ### Parents
+
 - Bad Dudes vs. Dragonninja (US, Rev. 1).mra (1988)
 - Dragonninja (JP, Rev. 1).mra (1988)
 - Heavy Barrel (W).mra (1987)
+
 ### Alternatives
+
 - Heavy Barrel (US).mra (1987)
 
 ## jtoutrun (Sega Out Run hardware)
 
 ### Parents
+
 - Out Run (sitdown - upright, Rev B).mra (1986)
 - Out Run (sitdown - upright, Rev B) (Enhanced Edition v2.0.3).mra (1986)
 - Turbo Out Run (Out Run upgrade) (FD1094 317-0118).mra (1989)
+
 ### Alternatives
+
 - Out Run (deluxe sitdown).mra (1986)
 - Out Run (deluxe sitdown earlier version).mra (1986)
 - Out Run (deluxe sitdown) (Enhanced Edition v2.0.3).mra (1986)
@@ -1265,12 +1437,15 @@ This report provides an overview of the arcade cores games supported by core for
 ## jtpang (Capcom Mitchell)
 
 ### Parents
+
 - Block Block (W, 911219, Joystick).mra (1991)
 - Capcom World (JP).mra (1989)
 - Dokaben (JP).mra (1989)
 - Pang.mra (1989)
 - Super Pang (W, 900914).mra (1990)
+
 ### Alternatives
+
 - Buster Bros. (US).mra (1989)
 - Block Block (JP, 910910).mra (1991)
 - Block Block (W, 911106, Joystick).mra (1991)
@@ -1278,14 +1453,19 @@ This report provides an overview of the arcade cores games supported by core for
 - Pomping World (JP).mra (1989)
 - Super Buster Bros. (US, 901001).mra (1990)
 - Super Pang (JP, 901023).mra (1990)
+
 ### Not in Arcade database
+
 - dokaben2
 
 ## jtparoda (Konami TMNT 2 based)
 
 ### Parents
+
 - Parodius Da! Shinwa kara Owarai e (W, Set 1).mra (1990)
+
 ### Alternatives
+
 - Parodius Da! Shinwa kara Owarai e (AS).mra (1990)
 - Parodius Da! Shinwa kara Owarai e (W, Set 2).mra (1990)
 - Parodius Da! Shinwa kara Owarai e (JP).mra (1990)
@@ -1293,13 +1473,17 @@ This report provides an overview of the arcade cores games supported by core for
 ## jtpinpon (Konami Z80)
 
 ### Parents
+
 - Konami's Ping-Pong.mra (1985)
 
 ## jtrastan (Taito 68000 based)
 
 ### Parents
+
 - Rastan (W, Rev 1).mra (1987)
+
 ### Alternatives
+
 - Rastan (W).mra (1987)
 - Rastan (W, earlier code base).mra (1987)
 - Rastan (US, Rev 1).mra (1987)
@@ -1313,9 +1497,12 @@ This report provides an overview of the arcade cores games supported by core for
 ## jtroadf (Konami 6809 based)
 
 ### Parents
+
 - Hyper Sports.mra (1984)
 - Road Fighter (Set 1).mra (1984)
+
 ### Alternatives
+
 - Hyper Olympic '84.mra (1984)
 - Road Fighter (Set 2).mra (1984)
 - Road Fighter (Set 3, unencrypted).mra (1984)
@@ -1323,15 +1510,21 @@ This report provides an overview of the arcade cores games supported by core for
 ## jtroc (Konami 6809 based)
 
 ### Parents
+
 - Roc'n Rope.mra (1983)
+
 ### Alternatives
+
 - Roc'n Rope (Kosuka).mra (1983)
 
 ## jtrumble (Capcom CPS-0)
 
 ### Parents
+
 - The Speed Rumbler (Set 1).mra (1986)
+
 ### Alternatives
+
 - Rush & Crash (JP).mra (1986)
 - The Speed Rumbler (Set 2).mra (1986)
 - The Speed Rumbler (Set 3).mra (1986)
@@ -1339,6 +1532,7 @@ This report provides an overview of the arcade cores games supported by core for
 ## jts16 (Sega System 16)
 
 ### Parents
+
 - Ace Attacker (JP, 317-0060).mra (1988)
 - Action Fighter (W, S16A).mra (1986)
 - Alex Kidd- The Lost Stars (W, S16A, Set 2).mra (1986)
@@ -1351,7 +1545,9 @@ This report provides an overview of the arcade cores games supported by core for
 - Shinobi (W, S16A, Set 6).mra (1987)
 - Tetris (JP, S16A, Set 4).mra (1988)
 - Time Scanner (W, S16A, Set 1).mra (1987)
+
 ### Alternatives
+
 - Action Fighter (W, S16A, No Protection).mra (1986)
 - Action Fighter (W, S16A, No Protection, analog).mra (1986)
 - Action Fighter (W, S16A, 317-unknown).mra (1986)
@@ -1374,13 +1570,16 @@ This report provides an overview of the arcade cores games supported by core for
 - Tetris (JP, S16A, Set 3).mra (1988)
 - Wonder Boy III - Monster Lair (JP, S16A, Set 1).mra (1988)
 - Wonder Boy III - Monster Lair (JP, S16A, Set 5).mra (1988)
+
 ### Not in Arcade database
+
 - tetris3d
 - tetrisd
 
 ## jts16b (Sega System 16)
 
 ### Parents
+
 - Action Fighter (W, S16B).mra (1986)
 - Alien Syndrome (W, S16B, Set 4).mra (1987)
 - Altered Beast (W, Set 8).mra (1988)
@@ -1409,7 +1608,9 @@ This report provides an overview of the arcade cores games supported by core for
 - Waku Waku Ultraman Racing.mra (1996)
 - Wonder Boy III - Monster Lair (W, S16B Set 6).mra (1988)
 - Wrestle War (W, Set 3).mra (1989)
+
 ### Alternatives
+
 - Action Fighter (W, S16B, unprotected, analog).mra (1986)
 - Action Fighter (W, S16B, 317-unknown, analog).mra (1986)
 - Action Fighter (W, S16B, 317-unknown).mra (1986)
@@ -1462,14 +1663,19 @@ This report provides an overview of the arcade cores games supported by core for
 - Wonder Boy III - Monster Lair (JP, S16B, Set 4).mra (1988)
 - Wrestle War (JP, Set 1).mra (1989)
 - Wrestle War (W, Set 2).mra (1989)
+
 ### Not in Arcade database
+
 - timescan3
 
 ## jtsarms (Capcom CPS-0)
 
 ### Parents
+
 - Side Arms- Hyper Dyne (W).mra (1986)
+
 ### Alternatives
+
 - Side Arms- Hyper Dyne (JP).mra (1986)
 - Side Arms- Hyper Dyne (US, 861202).mra (1986)
 - Side Arms- Hyper Dyne (US, 861128).mra (1986)
@@ -1477,8 +1683,11 @@ This report provides an overview of the arcade cores games supported by core for
 ## jtsbaskt (Konami 6809 based)
 
 ### Parents
+
 - Super Basketball (Ver I, encrypted).mra (1984)
+
 ### Alternatives
+
 - Super Basketball (Ver E, encrypted).mra (1984)
 - Super Basketball (Ver G, encrypted).mra (1984)
 - Super Basketball (Ver H, encrypted).mra (1984)
@@ -1486,9 +1695,12 @@ This report provides an overview of the arcade cores games supported by core for
 ## jtsectnz (Capcom CPS-0)
 
 ### Parents
+
 - Legendary Wings.mra (1986)
 - Section Z (Set 1).mra (1985)
+
 ### Alternatives
+
 - Legendary Wings (US, Set 2).mra (1986)
 - Legendary Wings [bl].mra (1986)
 - Ares no Tsubasa (JP).mra (1986)
@@ -1498,8 +1710,11 @@ This report provides an overview of the arcade cores games supported by core for
 ## jtsf (Capcom CPS-0)
 
 ### Parents
+
 - Street Fighter (US, Set 1).mra (1987)
+
 ### Alternatives
+
 - Street Fighter (JP, Protected).mra (1987)
 - Street Fighter (US, Protected, Set 2).mra (1987)
 - Street Fighter (W, Protected).mra (1987)
@@ -1507,18 +1722,24 @@ This report provides an overview of the arcade cores games supported by core for
 ## jtshanon (Sega Out Run hardware)
 
 ### Parents
+
 - Super Hang-On (sitdown - upright) (unprotected).mra (1987)
 - Limited Edition Hang-On.mra (1987)
+
 ### Alternatives
+
 - Super Hang-On (mini ride-on).mra (1987)
 - Super Hang-On (mini ride-on, Rev A).mra (1987)
 - Super Hang-On (sitdown - upright) [bl].mra (1987)
+
 ### Not in Arcade database
+
 - shangon3d
 
 ## jtshouse (Namco System-1)
 
 ### Parents
+
 - Bakutotsu Kijuutei.mra (1988)
 - Chou Zetsurinjin Berabowman (JP, Rev C).mra (1988)
 - Blast Off (JP).mra (1989)
@@ -1546,7 +1767,9 @@ This report provides an overview of the arcade cores games supported by core for
 - Pro Yakyuu World Stadium '89 (JP).mra (1988)
 - Pro Yakyuu World Stadium '90 (JP).mra (1988)
 - Youkai Douchuuki (JP, New Ver. (YD2, Rev B)).mra (1987)
+
 ### Alternatives
+
 - Chou Zetsurinjin Berabowman (JP, Rev B).mra (1988)
 - Boxy Boy (SB-).mra (1990)
 - Dragon Spirit (Old Ver. (DS1)).mra (1987)
@@ -1563,11 +1786,14 @@ This report provides an overview of the arcade cores games supported by core for
 ## jtsimson (Konami The Simpsons hardware)
 
 ### Parents
+
 - The Simpsons (W, 4P, Set 1).mra (1991)
 - The Simpsons (JP, 2P).mra (1991)
 - Crime Fighters 2 (JP, 2P, Ver. P).mra (1991)
 - Vendetta (AS, 4P, Ver. Z).mra (1991)
+
 ### Alternatives
+
 - The Simpsons (W, 2P, Set 1).mra (1991)
 - The Simpsons (W, 2P, Set 2).mra (1991)
 - The Simpsons (W, 2P, Set 3).mra (1991)
@@ -1583,15 +1809,20 @@ This report provides an overview of the arcade cores games supported by core for
 - Vendetta (W, 2P, Ver. W).mra (1991)
 - Vendetta (US, 4P, Ver. R).mra (1991)
 - Vendetta (W, 4P, Ver. -).mra (1991)
+
 ### Not in Arcade database
+
 - vendettan
 
 ## jtslyspy (Data East MEC-M1)
 
 ### Parents
+
 - Boulder Dash - Boulder Dash Part 2 (W).mra (1990)
 - Secret Agent (W, Rev 3).mra (1989)
+
 ### Alternatives
+
 - Boulder Dash - Boulder Dash Part 2 (JP).mra (1990)
 - Secret Agent (JP, Rev 2).mra (1989)
 - Sly Spy (US, Rev 4).mra (1989)
@@ -1601,12 +1832,15 @@ This report provides an overview of the arcade cores games supported by core for
 ## jttmnt (Konami TMNT based)
 
 ### Parents
+
 - M.I.A. - Missing in Action (Ver. T).mra (1989)
 - Punk Shot (US, 4P).mra (1990)
 - Punk Shot (JP, 2P).mra (1990)
 - Teenage Mutant Ninja Turtles (W, 4P, Ver. X).mra (1989)
 - Teenage Mutant Ninja Turtles (JP, 2P, Ver. 1).mra (1989)
+
 ### Alternatives
+
 - M.I.A. - Missing in Action (Ver. S).mra (1989)
 - Punk Shot (US, 2P).mra (1990)
 - Punk Shot (W, 2P).mra (1990)
@@ -1626,8 +1860,11 @@ This report provides an overview of the arcade cores games supported by core for
 ## jttoki (Seibu Toki hardware)
 
 ### Parents
+
 - Toki (W, Set 1).mra (1989)
+
 ### Not in Arcade database
+
 - juju
 - tokia
 - tokiu
@@ -1636,48 +1873,64 @@ This report provides an overview of the arcade cores games supported by core for
 ## jttora (Capcom CPS-0)
 
 ### Parents
+
 - F-1 Dream.mra (1988)
 - Tiger Road.mra (1987)
+
 ### Alternatives
+
 - Tiger Road (US, Romstar).mra (1987)
 - Torae no Michi (JP).mra (1987)
 
 ## jttrack (Konami 6809 based)
 
 ### Parents
+
 - Track & Field.mra (1983)
+
 ### Alternatives
+
 - Hyper Olympic.mra (1983)
 - Track & Field (Centuri).mra (1983)
+
 ### Not in Arcade database
+
 - hyprolyma
 
 ## jttrojan (Capcom CPS-0)
 
 ### Parents
+
 - Avengers (US, Rev C).mra (1987)
 - Hissatsu Buraiken (JP, Rev A).mra (1987)
 - Trojan (US, Set 1).mra (1986)
 - Trojan (Romstar).mra (1986)
+
 ### Alternatives
+
 - Avengers (US, Rev A).mra (1987)
 - Avengers (US).mra (1987)
 - Avengers (US, Unk Rev).mra (1987)
 - Hissatsu Buraiken (JP) [bl].mra (1987)
 - Trojan (US, Set 2).mra (1986)
 - Tatakai no Banka (JP).mra (1986)
+
 ### Not in Arcade database
+
 - trojanjo
 
 ## jttwin16 (Konami Twin16 hardware)
 
 ### Parents
+
 - Cue Brick (JP).mra (1989)
 - Dark Adventure.mra (1987)
 - Gradius 2 - GOFER no Yabou (JP, New).mra (1988)
 - Majuu no Ohkoku.mra (1987)
 - Vulcan Venture (New).mra (1988)
+
 ### Alternatives
+
 - Devil World.mra (1987)
 - Gradius 2 - GOFER no Yabou (JP, Old).mra (1988)
 - Gradius 2 - GOFER no Yabou (JP, Oldest).mra (1988)
@@ -1687,8 +1940,11 @@ This report provides an overview of the arcade cores games supported by core for
 ## jtvigil (Irem M75)
 
 ### Parents
+
 - Vigilante (JP, Rev D).mra (1988)
+
 ### Alternatives
+
 - Vigilante (W, Rev E).mra (1988)
 - Vigilante (W, Rev A).mra (1988)
 - Vigilante (US, Rev B).mra (1988)
@@ -1699,9 +1955,12 @@ This report provides an overview of the arcade cores games supported by core for
 ## jtwc (Tecmo Tehkan hardware)
 
 ### Parents
+
 - Gridiron Fight.mra (1985)
 - Tehkan World Cup (Set 1).mra (1985)
+
 ### Alternatives
+
 - Tehkan World Cup (Set 2, bootleg) [bl].mra (1985)
 - Tehkan World Cup (Set 3, bootleg) [bl].mra (1985)
 - Tehkan World Cup (Set 4, earlier).mra (1985)
@@ -1710,21 +1969,29 @@ This report provides an overview of the arcade cores games supported by core for
 ## jtwwfss (Technos Unique)
 
 ### Parents
+
 - WWF Superstars (JP).mra (1989)
+
 ### Alternatives
+
 - WWF Superstars (EU).mra (1989)
 - WWF Superstars (US, Rev 4).mra (1989)
 - WWF Superstars (US, Rev 6).mra (1989)
 - WWF Superstars (US, Rev 7).mra (1989)
+
 ### Not in Arcade database
+
 - wwfsstarc
 
 ## jtxmen (Konami X-Men hardware)
 
 ### Parents
+
 - X-Men (2P, Ver JAA).mra (1992)
 - X-Men (4P, Ver UBB).mra (1992)
+
 ### Alternatives
+
 - X-Men (4P, Ver EBA).mra (1992)
 - X-Men (2P, Ver AAA).mra (1992)
 - X-Men (2P, Ver EAA).mra (1992)
@@ -1738,29 +2005,38 @@ This report provides an overview of the arcade cores games supported by core for
 ## jtyiear (Konami 6809 based)
 
 ### Parents
+
 - Yie Ar Kung-Fu (program code I).mra (1985)
+
 ### Alternatives
+
 - Yie Ar Kung-Fu (program code G).mra (1985)
 
 ## mcr1 (Midway MCR1)
 
 ### Parents
+
 - Kick.mra (1980)
 - Solar Fox.mra (1980)
+
 ### Alternatives
+
 - Kick (Cocktail).mra (1981)
 - Kick-Man.mra (1980)
 
 ## mcr2 (Midway MCR2)
 
 ### Parents
+
 - Domino Man.mra (1982)
 - Kozmik Krooz'r.mra (1983)
 - Satan's Hollow (Set 1).mra (1983)
 - Tron.mra (1982)
 - Two Tigers (Tron Conversion).mra (1984)
 - Wacko.mra (1983)
+
 ### Alternatives
+
 - Handi-Man in Cyberworld [hb].mra (1980)
 - Satan's Hollow (Set 2).mra (1981)
 - Satan's Hollow (Tron Hardware) [bl].mra (1983)
@@ -1773,11 +2049,14 @@ This report provides an overview of the arcade cores games supported by core for
 ## mcr3 (Midway MCR3)
 
 ### Parents
+
 - Discs of Tron.mra (1983)
 - Journey.mra (1984)
 - Tapper (Budweiser, 840127).mra (1983)
 - Timber.mra (1983)
+
 ### Alternatives
+
 - Discs of Tron (Alt.).mra (1983)
 - Tapper (Root Beer).mra (1983)
 - Tapper (Simpsons).mra (1983)
@@ -1790,16 +2069,22 @@ This report provides an overview of the arcade cores games supported by core for
 ## missilecommand (Atari Missile Command)
 
 ### Parents
+
 - Missile Command (rev 3).mra (1980)
+
 ### Alternatives
+
 - Missile Command (rev 1).mra (1980)
 - Missile Command (rev 2).mra (1980)
 
 ## moonpatrol (Irem M52)
 
 ### Parents
+
 - Moon Patrol.mra (1982)
+
 ### Alternatives
+
 - Moon Patrol (Williams).mra (1982)
 - Moon Ranger (Moon Patrol) [bl].mra (1982)
 - Sponge Patrol [hb].mra (1982)
@@ -1807,12 +2092,14 @@ This report provides an overview of the arcade cores games supported by core for
 ## mrdo (Mr. Do hardware)
 
 ### Parents
+
 - Mr. Do!.mra (1982)
 - Mr. Do! Fixed.mra (1982)
 
 ## mrjong (Kiwako Mr. Jong hardware)
 
 ### Parents
+
 - BlockBuster.mra (1983)
 - Crazy Blocks.mra (1983)
 - Mr. Jong.mra (1983)
@@ -1820,6 +2107,7 @@ This report provides an overview of the arcade cores games supported by core for
 ## ninjakun (Taito Unique)
 
 ### Parents
+
 - Ninjakun Majou no Bouken.mra (1984)
 - Nova 2001.mra (1984)
 - Nova 2001 (Hack).mra (1984)
@@ -1828,6 +2116,7 @@ This report provides an overview of the arcade cores games supported by core for
 ## pacman (Namco Pac-Man hardware)
 
 ### Parents
+
 - Ali Baba and 40 Thieves.mra (1982)
 - Beastie Feastie (Pac-Man Conversion).mra (1984)
 - Birdiy.mra (1983)
@@ -1850,7 +2139,9 @@ This report provides an overview of the arcade cores games supported by core for
 - The Glob (Pac-Man Hardware).mra (1983)
 - Van-Van Car.mra (1983)
 - Woodpecker (Set 1).mra (1981)
+
 ### Alternatives
+
 - Abortman.mra (1980)
 - Mustafa and 40 Thieves [bl].mra (1982)
 - Baby Pac-Man 2 (Alt) [hb].mra (1980)
@@ -1998,15 +2289,20 @@ This report provides an overview of the arcade cores games supported by core for
 - Vector Pac-Man (Speedy) [hb].mra (1980)
 - Xens Revenge After Dark [hb].mra (1980)
 - Xens Revenge [hb].mra (1980)
+
 ### Not in Arcade database
+
 - pollen angel
 
 ## phoenix (Taito Unique)
 
 ### Parents
+
 - Phoenix (Amstar, Set 1).mra (1980)
 - Pleiades (Tehkan).mra (1981)
+
 ### Alternatives
+
 - Ave Fenix (Electrogame, ES, Phoenix) [bl].mra (1980)
 - Ave Fenix (Laguna, ES, Phoenix) [bl].mra (1980)
 - Ave Fenix (Recreativos Franco, ES, Phoenix) [bl].mra (1980)
@@ -2036,8 +2332,11 @@ This report provides an overview of the arcade cores games supported by core for
 ## pooyan (Konami Z80)
 
 ### Parents
+
 - Pooyan.mra (1982)
+
 ### Alternatives
+
 - Pootan [bl].mra (1982)
 - Pooyan (Tester) [hb].mra (1982)
 - Pooyan (Stern).mra (1982)
@@ -2045,10 +2344,13 @@ This report provides an overview of the arcade cores games supported by core for
 ## qbert (Konami Unique)
 
 ### Parents
+
 - Mad Planets.mra (1982)
 - Q'bert (US, Set 1).mra (1982)
 - Q'bert Qubes.mra (1982)
+
 ### Not in Arcade database
+
 - curvebal
 - insector
 - krull
@@ -2062,15 +2364,19 @@ This report provides an overview of the arcade cores games supported by core for
 ## rallyx (Namco Pac-Man hardware)
 
 ### Parents
+
 - New Rally-X.mra (1981)
 - Rally-X (32k Ver).mra (1980)
+
 ### Alternatives
+
 - New Rally-X [bl].mra (1981)
 - Rally-X (Midway).mra (1980)
 
 ## robotron (Williams 1st Generation)
 
 ### Parents
+
 - Alien Arena (Stargate upgrade).mra (1985)
 - Bubbles.mra (1982)
 - Joust.mra (1982)
@@ -2079,7 +2385,9 @@ This report provides an overview of the arcade cores games supported by core for
 - Sinistar.mra (1982)
 - Splat!.mra (1982)
 - Stargate.mra (1981)
+
 ### Alternatives
+
 - Bubbles (Prototype).mra (1982)
 - Bubbles (Solid Red Label).mra (1982)
 - Joust (Solid Red Label).mra (1982)
@@ -2097,11 +2405,13 @@ This report provides an overview of the arcade cores games supported by core for
 ## scootershooter (Konami ScooterShooter)
 
 ### Parents
+
 - Scooter Shooter (W).mra (1985)
 
 ## segasys1 (Sega System 1 Hardware)
 
 ### Parents
+
 - 4-D Warriors (315-5162).mra (1985)
 - Block Gal.mra (1987)
 - Bull Fight (315-5056).mra (1984)
@@ -2119,7 +2429,9 @@ This report provides an overview of the arcade cores games supported by core for
 - Up'n Down.mra (1983)
 - Wonder Boy (Set 1, 315-5177).mra (1986)
 - Water Match (315-5064).mra (1984)
+
 ### Alternatives
+
 - Pitfall II (Unencrypted, Cheat) [hb].mra (1985)
 - Spatter (US) (315-5xxx).mra (1984)
 - Star Jacker (Alt).mra (1983)
@@ -2127,17 +2439,23 @@ This report provides an overview of the arcade cores games supported by core for
 ## sonson (Capcom CPS-0)
 
 ### Parents
+
 - SonSon.mra (1984)
+
 ### Alternatives
+
 - SonSon (JP).mra (1984)
 
 ## terracresta (Nichibutsu M68000 Hardware)
 
 ### Parents
+
 - Sei Senshi Amatelass.mra (1986)
 - Kid no Hore Hore Daisakusen.mra (1987)
 - Terra Cresta (YM3526 set 1).mra (1985)
+
 ### Alternatives
+
 - Soldier Girl Amazon.mra (1986)
 - Soldier Girl Amazon (Tecfri license).mra (1986)
 - Kid no Hore Hore Daisakusen (Set 1) [bl].mra (1987)
@@ -2148,6 +2466,7 @@ This report provides an overview of the arcade cores games supported by core for
 ## timepilot84 (Konami Dual 6809 based)
 
 ### Parents
+
 - Time Pilot '84 (Set 1).mra (1984)
 - Time Pilot '84 (Set 2).mra (1984)
 - Time Pilot '84 (Set 3).mra (1984)
@@ -2155,17 +2474,22 @@ This report provides an overview of the arcade cores games supported by core for
 ## traverseusa (Irem M52)
 
 ### Parents
+
 - Shot Rider (B-Board 89624B-1).mra (1983)
 - Traverse USA- Zippy Race (US).mra (1983)
+
 ### Alternatives
+
 - MotoTour- Zippy Race (Tecfri license).mra (1983)
 - Traverse (US) [bl].mra (1983)
 
 ## tropicalangel (Irem M57)
 
 ### Parents
+
 - New Tropical Angel.mra (1983)
 - Tropical Angel.mra (1983)
+
 
 ---
 

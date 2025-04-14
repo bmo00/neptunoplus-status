@@ -2,7 +2,7 @@
 
 This report provides an overview of the arcade cores cores supported for the **neptUNO+** FPGA.
 
-## 📊 Summary:
+## 📊 Summary
 - **Cores available in the database:** 240
 - **Cores currently supported by neptUNO+:** 106
 - **Cores currently unsupported by neptUNO+:** 134

@@ -2,17 +2,17 @@
 
 This report provides an overview of the arcade cores games unsupported for the **neptUNO+** FPGA.
 
-## 📊 Summary:
-- **Cores available in the database:** 240
-- **Cores currently supported by neptUNO+:** 106
-- **Cores currently unsupported by neptUNO+:** 134
+## 📊 Summary
+- **Games available in the database:** 2363
+- **Games currently supported by neptUNO+:** 1627
+- **Games currently unsupported by neptUNO+:** 736
 
 ---
 
 ## Arcade games
 
 | 🏷️ **Core** | 📝 **Set name** | **MRA file** | 🗒️ **Platform** | 🔗 **Rotation** | 🗒️ **Year** |
-|-------------------|-----------------|-------------|----------------------|--------------------|------------------|
+|-------------|------------------|--------------|-----------------|------------------|-------------|
 | asteroids | [aerolitos](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=aerolitos&lang=en) | Aerolitos (ES).mra | Atari Vector | 0 | 1980 |
 | asteroids | [asterock](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=asterock&lang=en) | Asterock (Sidam) [bl].mra | Atari Vector | 0 | 1979 |
 | asteroids | [asterockv](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=asterockv&lang=en) | Asterock (Videotron) [bl].mra | Atari Vector | 0 | 1979 |
