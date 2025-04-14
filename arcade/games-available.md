@@ -3,9 +3,9 @@
 **📄 Description:** This report provides an overview of the arcade cores games available for the **neptUNO+** FPGA.
 
 ## 📊 Summary:
-- **Cores available in the database:** 227
+- **Cores available in the database:** 240
 - **Cores currently supported by neptUNO+:** 106
-- **Cores currently unsupported by neptUNO+:** 121
+- **Cores currently unsupported by neptUNO+:** 134
 
 ---
 

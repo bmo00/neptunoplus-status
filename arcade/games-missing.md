@@ -3,9 +3,9 @@
 **📄 Description:** This report provides an overview of the arcade cores games missing for the **neptUNO+** FPGA.
 
 ## 📊 Summary:
-- **Cores available in the database:** 227
+- **Cores available in the database:** 240
 - **Cores currently supported by neptUNO+:** 106
-- **Cores currently unsupported by neptUNO+:** 121
+- **Cores currently unsupported by neptUNO+:** 134
 
 ---
 
@@ -43,6 +43,10 @@
 | blackwidow | [gravitar](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gravitar&lang=en) | Gravitar (Ver 3).mra | Atari Vector | 0 | 1982 |
 | blackwidow | [lunarbat](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=lunarbat&lang=en) | Lunar Battle (Prototype).mra | Atari Vector | 0 | 1982 |
 | blackwidow | [bwidow](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bwidow&lang=en) | Black Widow.mra | Atari Vector | 0 | 1982 |
+| ctribemister | [ctribe](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ctribe&lang=en) | NO MAD | x | x | x |
+| ctribemister | [ctribeu1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ctribeu1&lang=en) | NO MAD | x | x | x |
+| ctribemister | [ctribeua](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ctribeua&lang=en) | NO MAD | x | x | x |
+| ctribemister | [ctribej](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ctribej&lang=en) | NO MAD | x | x | x |
 | silverland | [silvland](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=silvland&lang=en) | Silver Land.mra | Taito Unique | 0 | 1981 |
 | tiamc1 | [bilyard](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bilyard&lang=en) | Billiard.mra | TIAMC1 | 0 | 1988 |
 | tiamc1 | [konek](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=konek&lang=en) | Konek Gorbunok.mra | TIAMC1 | 0 | 1988 |
@@ -68,6 +72,8 @@
 | donkeykong3 | [dkong3](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=dkong3&lang=en) | Donkey Kong 3 (US).mra | Donkey Kong hardware | 90 | 1983 |
 | segavicz80 | [carnival](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=carnival&lang=en) | Carnival (Upright, AY8912).mra | Sega VIC Dual | 270 | 1980 |
 | segavicz80 | [pulsar](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pulsar&lang=en) | Pulsar.mra | Sega VIC Dual | 270 | 1981 |
+| suprloco | [suprloco](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=suprloco&lang=en) | NO MAD | x | x | x |
+| suprloco | [suprlocoo](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=suprlocoo&lang=en) | Super Locomotive (W, Rev A).mra | Sega Unique | 0 | 1982 |
 | breakout | [breakout](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=breakout&lang=en) | Breakout (TTL).mra | Atari Discrete hardware | 90 | 1976 |
 | burningrubber | [brubber](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=brubber&lang=en) | Burnin' Rubber.mra | Data East Burger Time hardware | 90 | 1982 |
 | burningrubber | [caractn](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=caractn&lang=en) | Car Action (Set 1).mra | Data East Burger Time hardware | 90 | 1982 |
@@ -79,6 +85,7 @@
 | mariobros | [mario](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mario&lang=en) | Mario Bros. (US, Rev G).mra | Mario Bros. hardware | 0 | 1983 |
 | psychic5 | [psychic5j](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=psychic5j&lang=en) | Psychic 5 (JP).mra | Jaleco Psychic 5 hardware | 270 | 1987 |
 | psychic5 | [psychic5](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=psychic5&lang=en) | Psychic 5 (W).mra | Jaleco Psychic 5 hardware | 270 | 1987 |
+| jts16a2 | [tetris3](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tetris3&lang=en) | Tetris (JP, S16A, Set 3).mra | Sega System 16 | 0 | 1988 |
 | cave | [guwange](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=guwange&lang=en) | Guwange.mra | CAVE 68000 | 270 | 1999 |
 | cave | [ddonpacha](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ddonpacha&lang=en) | DoDonPachi (Arrange).mra | CAVE 68000 | 270 | 2012 |
 | cave | [uopokoj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=uopokoj&lang=en) | Puzzle Uo Poko (JP).mra | CAVE 68000 | 0 | 1998 |
@@ -110,6 +117,32 @@
 | xevious | [xevioush](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=xevioush&lang=en) | Xevious 2002 [hb].mra | Namco Galaga based | 90 | 1982 |
 | xevious | [battles2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=battles2&lang=en) | Battles (Set 2).mra | Namco Galaga based | 90 | 1982 |
 | xevious | [xevious4](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=xevious4&lang=en) | Xevious 2004 [hb].mra | Namco Galaga based | 90 | 1982 |
+| saturn | [saturnstv](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=saturnstv&lang=en) | NO MAD | x | x | x |
+| segasys2 | [nobb](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nobb&lang=en) | Noboranka [bl].mra | Sega System 1 | 270 | 1986 |
+| segasys2 | [tokisens](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tokisens&lang=en) | Toki no Senshi - Chrono Soldier [MC-8123, 317-0040].mra | Sega System 1 | 90 | 1987 |
+| segasys2 | [brain](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=brain&lang=en) | Brain.mra | Sega System 1 | 0 | 1986 |
+| segasys2 | [swat](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=swat&lang=en) | SWAT (315-5048).mra | Sega System 1 | 270 | 1984 |
+| segasys2 | [dakkochn](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=dakkochn&lang=en) | Dakkochan House (MC-8123).mra | Sega System 1 | 0 | 1987 |
+| segasys2 | [chopliftu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=chopliftu&lang=en) | Choplifter (Unprotected).mra | Sega System 1 | 0 | 1985 |
+| segasys2 | [hvymetal](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=hvymetal&lang=en) | Heavy Metal (315-5135).mra | Sega System 1 | 0 | 1985 |
+| segasys2 | [wbml](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wbml&lang=en) | Wonder Boy in Monster Land (JP, New Version) [MC-8123, 317-0043].mra | Sega System 1 | 0 | 1987 |
+| segasys2 | [wboysys2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wboysys2&lang=en) | Wonder Boy (JP, System 2, Set 1).mra | Sega System 1 | 0 | 1986 |
+| segasys2 | [ufosensib](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ufosensib&lang=en) | UFO Senshi Youko Chan [bl].mra | Sega System 1 | 0 | 1988 |
+| segasys2 | [gardia](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gardia&lang=en) | Gardia (317-0006).mra | Sega System 1 | 270 | 1986 |
+| segasys2 | [wbmlvcd](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wbmlvcd&lang=en) | Wonder Boy in Monster Land (Eng, Virtual Console, decrypted bootleg) [bl].mra | Sega System 1 | 0 | 1987 |
+| segasys2 | [wboy](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wboy&lang=en) | Wonder Boy (Set 1, 315-5177).mra | Sega System 1 | 0 | 1986 |
+| segasys2 | [raflesia](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=raflesia&lang=en) | Rafflesia (315-5162).mra | Sega System 1 | 270 | 1986 |
+| segasys2 | [tokisensa](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tokisensa&lang=en) | Toki no Senshi - Chrono Soldier (prototype).mra | Sega System 1 | 90 | 1987 |
+| segasys2 | [upndown](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=upndown&lang=en) | Up'n Down.mra | Sega System 1 | 270 | 1983 |
+| segasys2 | [spatter](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=spatter&lang=en) | Spatter (US) (315-5xxx).mra | Sega System 1 | 0 | 1984 |
+| segasys2 | [starjack](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=starjack&lang=en) | Star Jacker (Sega).mra | Sega System 1 | 270 | 1983 |
+| segasys2 | [chopliftbl](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=chopliftbl&lang=en) | Choplifter [bl].mra | Sega System 1 | 0 | 1985 |
+| segasys2 | [regulus](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=regulus&lang=en) | Regulus (315-5033, Rev A).mra | Sega System 1 | 270 | 1983 |
+| segasys2 | [seganinj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=seganinj&lang=en) | Sega Ninja (315-5102).mra | Sega System 1 | 0 | 1985 |
+| segasys2 | [pitfall2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pitfall2&lang=en) | Pitfall II.mra | Sega System 1 | 0 | 1985 |
+| segasys2 | [mrvikingj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mrvikingj&lang=en) | NO MAD | x | x | x |
+| segasys2 | [teddybb](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=teddybb&lang=en) | TeddyBoy Blues (315-5115, New Ver).mra | Sega System 1 | 0 | 1985 |
+| segasys2 | [wbmljod](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wbmljod&lang=en) | Wonder Boy in Monster Land (JP, Old Version) (decrypted bootleg) [bl].mra | Sega System 1 | 0 | 1987 |
 | bubsysrom | [twinbee](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=twinbee&lang=en) | TwinBee (ROM Version).mra | Konami GX400 | 90 | 1985 |
 | bubsysrom | [gradius](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gradius&lang=en) | Gradius (JP, ROM Version).mra | Konami GX400 | 0 | 1985 |
 | bubsysrom | [gwarrior](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gwarrior&lang=en) | Galactic Warriors.mra | Konami GX400 | 0 | 1985 |
@@ -126,6 +159,68 @@
 | athena | [athenaff](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=athenaff&lang=en) | Athena (Flip Fix).mra | SNK Triple Z80 | 0 | 1986 |
 | polyplay | [polyplay](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=polyplay&lang=en) | Poly Play.mra | Poly Play hardware | 0 | 1985 |
 | polyplay | [polyplay2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=polyplay2&lang=en) | Poly Play 2.mra | Poly Play hardware | 0 | 1985 |
+| saturnstv | [seabass](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=seabass&lang=en) | NO MAD | x | x | x |
+| saturnstv | [sokyugrt](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sokyugrt&lang=en) | NO MAD | x | x | x |
+| saturnstv | [hanagumi](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=hanagumi&lang=en) | NO MAD | x | x | x |
+| saturnstv | [elandore](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=elandore&lang=en) | NO MAD | x | x | x |
+| saturnstv | [suikoenb](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=suikoenb&lang=en) | NO MAD | x | x | x |
+| saturnstv | [cotton2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=cotton2&lang=en) | NO MAD | x | x | x |
+| saturnstv | [winterht](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=winterht&lang=en) | NO MAD | x | x | x |
+| saturnstv | [znpwfv](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=znpwfv&lang=en) | NO MAD | x | x | x |
+| saturnstv | [astrass](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=astrass&lang=en) | NO MAD | x | x | x |
+| saturnstv | [vfremix](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vfremix&lang=en) | NO MAD | x | x | x |
+| saturnstv | [thuntk](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=thuntk&lang=en) | NO MAD | x | x | x |
+| saturnstv | [dnmtdeka](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=dnmtdeka&lang=en) | NO MAD | x | x | x |
+| saturnstv | [puyosun](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=puyosun&lang=en) | NO MAD | x | x | x |
+| saturnstv | [ffrevng10](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ffrevng10&lang=en) | NO MAD | x | x | x |
+| saturnstv | [nclubdis](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nclubdis&lang=en) | NO MAD | x | x | x |
+| saturnstv | [ffreveng](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ffreveng&lang=en) | NO MAD | x | x | x |
+| saturnstv | [danchiq](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=danchiq&lang=en) | NO MAD | x | x | x |
+| saturnstv | [magzun](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=magzun&lang=en) | NO MAD | x | x | x |
+| saturnstv | [critcrsh](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=critcrsh&lang=en) | NO MAD | x | x | x |
+| saturnstv | [myfairld](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=myfairld&lang=en) | NO MAD | x | x | x |
+| saturnstv | [pclub2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pclub2&lang=en) | NO MAD | x | x | x |
+| saturnstv | [decathlto](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=decathlto&lang=en) | NO MAD | x | x | x |
+| saturnstv | [shienryu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=shienryu&lang=en) | NO MAD | x | x | x |
+| saturnstv | [groovef](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=groovef&lang=en) | NO MAD | x | x | x |
+| saturnstv | [batmanfr](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=batmanfr&lang=en) | NO MAD | x | x | x |
+| saturnstv | [prikura](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=prikura&lang=en) | NO MAD | x | x | x |
+| saturnstv | [cottonbm](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=cottonbm&lang=en) | NO MAD | x | x | x |
+| saturnstv | [colmns97](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=colmns97&lang=en) | NO MAD | x | x | x |
+| saturnstv | [sandor](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sandor&lang=en) | NO MAD | x | x | x |
+| saturnstv | [shanhigw](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=shanhigw&lang=en) | NO MAD | x | x | x |
+| saturnstv | [kiwames](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=kiwames&lang=en) | NO MAD | x | x | x |
+| saturnstv | [fhboxers](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=fhboxers&lang=en) | NO MAD | x | x | x |
+| saturnstv | [bakubaku](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bakubaku&lang=en) | NO MAD | x | x | x |
+| saturnstv | [sanjeon](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sanjeon&lang=en) | NO MAD | x | x | x |
+| saturnstv | [diehard](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=diehard&lang=en) | NO MAD | x | x | x |
+| saturnstv | [sasissu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sasissu&lang=en) | NO MAD | x | x | x |
+| saturnstv | [maruchan](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=maruchan&lang=en) | NO MAD | x | x | x |
+| saturnstv | [rsgun](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rsgun&lang=en) | NO MAD | x | x | x |
+| saturnstv | [pblbeach](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pblbeach&lang=en) | NO MAD | x | x | x |
+| saturnstv | [pclubpok](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pclubpok&lang=en) | NO MAD | x | x | x |
+| saturnstv | [danchih](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=danchih&lang=en) | NO MAD | x | x | x |
+| saturnstv | [ejihon](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ejihon&lang=en) | NO MAD | x | x | x |
+| saturnstv | [mausuke](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mausuke&lang=en) | NO MAD | x | x | x |
+| saturnstv | [stress](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=stress&lang=en) | NO MAD | x | x | x |
+| saturnstv | [twcup98](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=twcup98&lang=en) | NO MAD | x | x | x |
+| saturnstv | [gaxeduel](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gaxeduel&lang=en) | NO MAD | x | x | x |
+| saturnstv | [othellos](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=othellos&lang=en) | NO MAD | x | x | x |
+| saturnstv | [pclub2v3](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pclub2v3&lang=en) | NO MAD | x | x | x |
+| saturnstv | [findlove](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=findlove&lang=en) | NO MAD | x | x | x |
+| saturnstv | [vmahjong](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vmahjong&lang=en) | NO MAD | x | x | x |
+| saturnstv | [introdon](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=introdon&lang=en) | NO MAD | x | x | x |
+| saturnstv | [thunt](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=thunt&lang=en) | NO MAD | x | x | x |
+| saturnstv | [decathlt](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=decathlt&lang=en) | NO MAD | x | x | x |
+| saturnstv | [smleague](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=smleague&lang=en) | NO MAD | x | x | x |
+| saturnstv | [techbowl](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=techbowl&lang=en) | NO MAD | x | x | x |
+| saturnstv | [twsoc98](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=twsoc98&lang=en) | NO MAD | x | x | x |
+| saturnstv | [vfkids](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vfkids&lang=en) | NO MAD | x | x | x |
+| saturnstv | [finlarch](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=finlarch&lang=en) | NO MAD | x | x | x |
+| saturnstv | [nclubv3](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nclubv3&lang=en) | NO MAD | x | x | x |
+| saturnstv | [micrombc](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=micrombc&lang=en) | NO MAD | x | x | x |
+| saturnstv | [grdforce](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=grdforce&lang=en) | NO MAD | x | x | x |
+| saturnstv | [sss](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sss&lang=en) | NO MAD | x | x | x |
 | jtriders | [ssriders](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ssriders&lang=en) | Sunset Riders (4P, Ver EAC).mra | Konami TMNT 2 based | 0 | 1991 |
 | jtriders | [ssridersjbd](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ssridersjbd&lang=en) | Sunset Riders (2P, Ver JBD).mra | Konami TMNT 2 based | 0 | 1991 |
 | jtriders | [ssridersjac](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ssridersjac&lang=en) | Sunset Riders (4P, Ver JAC).mra | Konami TMNT 2 based | 0 | 1991 |
@@ -240,6 +335,7 @@
 | digdug | [digsid](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=digsid&lang=en) | Dig Dug (Sidam).mra | Namco Galaga based | 90 | 1982 |
 | digdug | [digdugat](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=digdugat&lang=en) | Dig Dug (Atari, Rev 2).mra | Namco Galaga based | 90 | 1982 |
 | digdug | [digdugat1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=digdugat1&lang=en) | Dig Dug (Atari, Rev 1).mra | Namco Galaga based | 90 | 1982 |
+| naughtyboy | [naughtyb](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=naughtyb&lang=en) | NO MAD | x | x | x |
 | crystalcastles | [ccastles](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ccastles&lang=en) | Crystal Castles.mra | Atari 6502 | 0 | 1983 |
 | foodfight | [foodf](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=foodf&lang=en) | Food Fight (Rev 3).mra | Atari 68000 | 0 | 1982 |
 | foodfight | [foodfc](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=foodfc&lang=en) | Food Fight (Cocktail).mra | Atari 68000 | 0 | 1982 |
@@ -278,6 +374,11 @@
 | gauntlet | [vindctr2r1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vindctr2r1&lang=en) | Vindicators Part II (Rev 1).mra | Atari Gauntlet based | 0 | 1985 |
 | gauntlet | [gauntlet2p](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gauntlet2p&lang=en) | Gauntlet (2 Players, Rev 6).mra | Atari Gauntlet based | 0 | 1985 |
 | gauntlet | [gauntlet2pj2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gauntlet2pj2&lang=en) | Gauntlet (JP, 2 Players, Rev 2).mra | Atari Gauntlet based | 0 | 1985 |
+| wwfwfestmister | [wwfwfest](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wwfwfest&lang=en) | NO MAD | x | x | x |
+| wwfwfestmister | [wwfwfestk](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wwfwfestk&lang=en) | NO MAD | x | x | x |
+| wwfwfestmister | [wwfwfestu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wwfwfestu&lang=en) | NO MAD | x | x | x |
+| wwfwfestmister | [wwfwfestu1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wwfwfestu1&lang=en) | NO MAD | x | x | x |
+| wwfwfestmister | [wwfwfestj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wwfwfestj&lang=en) | NO MAD | x | x | x |
 | battlezone | [bzone](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bzone&lang=en) | Battle Zone (Rev 2).mra | Atari Battle Zone hardware | 0 | 1980 |
 | battlezone | [bradley](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bradley&lang=en) | Bradley Trainer.mra | Atari Battle Zone hardware | 0 | 1980 |
 | battlezone | [redbarona](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=redbarona&lang=en) | Red Baron.mra | Atari Battle Zone hardware | 0 | 1980 |
@@ -338,6 +439,8 @@
 | astrocade | [spacezap](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=spacezap&lang=en) | Space Zap.mra | Midway Astrocade | 0 | 1980 |
 | astrocade | [ebases](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ebases&lang=en) | Extra Bases.mra | Midway Astrocade | 0 | 1980 |
 | astrocade | [seawolf2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=seawolf2&lang=en) | Sea Wolf II.mra | Midway Astrocade | 0 | 1978 |
+| mazingermister | [mazingerj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mazingerj&lang=en) | Mazinger Z (JP).mra | CAVE 68000 | 90 | 1994 |
+| mazingermister | [mazinger](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mazinger&lang=en) | Mazinger Z.mra | CAVE 68000 | 90 | 1994 |
 | spacerace | [spacerace](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=spacerace&lang=en) | Space Race.mra | Atari Discrete hardware | 0 | 1973 |
 | snktriplez80 | [aso](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=aso&lang=en) | ASO - Armored Scrum Object.mra | SNK Triple Z80 | 90 | 1985 |
 | snktriplez80 | [alphamis](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=alphamis&lang=en) | Alpha Mission.mra | SNK Triple Z80 | 90 | 1985 |
@@ -360,6 +463,11 @@
 | truxton2 | [truxton2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=truxton2&lang=en) | Truxton II - Tatsujin Oh.mra | Toaplan 2 | 270 | 1992 |
 | donkeykongjunior | [dkongjr](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=dkongjr&lang=en) | Donkey Kong Junior (US, Set F-2).mra | Donkey Kong hardware | 90 | 1982 |
 | donkeykongjunior | [dkongjrj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=dkongjrj&lang=en) | Donkey Kong Jr. (JP).mra | Donkey Kong hardware | 90 | 1982 |
+| neogeo-mvs | [hyprnoid](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=hyprnoid&lang=en) | NO MAD | x | x | x |
+| neogeo-mvs | [frogfest](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=frogfest&lang=en) | NO MAD | x | x | x |
+| neogeo-mvs | [overtop](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=overtop&lang=en) | NO MAD | x | x | x |
+| neogeo-mvs | [lstbladh](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=lstbladh&lang=en) | NO MAD | x | x | x |
+| neogeo-mvs | [doubledr](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=doubledr&lang=en) | NO MAD | x | x | x |
 | zaxxon | [zaxxon](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=zaxxon&lang=en) | Zaxxon.mra | Sega Zaxxon based | 90 | 1982 |
 | zaxxon | [szaxxon](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=szaxxon&lang=en) | Super Zaxxon.mra | Sega Zaxxon based | 90 | 1982 |
 | zaxxon | [futspy](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=futspy&lang=en) | Future Spy.mra | Sega Zaxxon based | 90 | 1982 |
@@ -414,6 +522,7 @@
 | performan | [perfrmanu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=perfrmanu&lang=en) | Performan (US).mra | Toaplan Slap Fight hardware | 270 | 1985 |
 | tekipaki | [tekipaki](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tekipaki&lang=en) | Teki Paki.mra | Toaplan 2 | 0 | 1991 |
 | tekipaki | [whoopee](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=whoopee&lang=en) | NO MAD | x | x | x |
+| dorodon | [dorodon2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=dorodon2&lang=en) | Dorodon (Set 2).mra | Universal Lady Bug | 270 | 1982 |
 | bbakraidmister | [bbakraidj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bbakraidj&lang=en) | Battle Bakraid - Unlimited Version (JP).mra | Toaplan 2 | 270 | 1999 |
 | bbakraidmister | [bbakraidc](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bbakraidc&lang=en) | Battle Bakraid - Unlimited Version (CN).mra | Toaplan 2 | 270 | 1999 |
 | bbakraidmister | [bbakraidja](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bbakraidja&lang=en) | Battle Bakraid (JP).mra | Toaplan 2 | 270 | 1999 |
@@ -493,6 +602,7 @@
 | asteroids | [meteorho](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=meteorho&lang=en) | Meteor (Asteroids) [bl].mra | Atari 6502 | 0 | 1979 |
 | asteroids | [hyperspc](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=hyperspc&lang=en) | Hyperspace (bootleg of Asteroids) [bl].mra | Atari 6502 | 0 | 1979 |
 | asteroids | [meteorts](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=meteorts&lang=en) | Meteor (Asteroids, VGG) [bl].mra | Atari 6502 | 0 | 1979 |
+| toki | [tokiu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tokiu&lang=en) | NO MAD | x | x | x |
 | freeze | [zzyzzyxx](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=zzyzzyxx&lang=en) | Zzyzzyxx.mra | Cinematronics Jack The Giantkiller hardware | 90 | 1984 |
 | freeze | [freeze](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=freeze&lang=en) | Freeze.mra | Cinematronics Jack The Giantkiller hardware | 90 | 1984 |
 | freeze | [jack](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=jack&lang=en) | Jack The Giantkiller (Set 1).mra | Cinematronics Jack The Giantkiller hardware | 90 | 1982 |
@@ -613,8 +723,7 @@
 | spaceinvaders | [invad2ct](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=invad2ct&lang=en) | Space Invaders Part II (Midway, Cocktail).mra | Midway 8080 | 90 | 1980 |
 | zigzag | [zigzagb](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=zigzagb&lang=en) | Zig Zag (Dig Dug Conversion) [bl].mra | Namco Galaga based | 90 | 1982 |
 | zigzag | [zigzagb2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=zigzagb2&lang=en) | Zig Zag (Dig Dug Conversion, Set 2) [bl].mra | Namco Galaga based | 90 | 1982 |
-| suprloco | [suprlocoo](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=suprlocoo&lang=en) | Super Locomotive (W, Rev A).mra | Sega Unique | 0 | 1982 |
-| suprloco | [suprloco](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=suprloco&lang=en) | NO MAD | x | x | x |
+| ddragon3mister | [ddragon3](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ddragon3&lang=en) | NO MAD | x | x | x |
 | riverpatrol | [rpatroln](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rpatroln&lang=en) | River Patrol (JP, Unprotected).mra | Taito Licensed | 0 | 1981 |
 | mcr3scroll | [turbotag](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=turbotag&lang=en) | Turbo Tag (Prototype).mra | Midway MCR3 | 90 | 1985 |
 | mcr3scroll | [crater](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=crater&lang=en) | Crater Raider.mra | Midway MCR3 | 0 | 1984 |

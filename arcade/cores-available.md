@@ -1,11 +1,11 @@
 # netUNO+ FPGA report: Cores available
 
-**📄 Description:** This report provides an overview of the arcade cores <built-in method lower of str object at 0x7de00654a7b0> for the **neptUNO+** FPGA.
+**📄 Description:** This report provides an overview of the arcade cores cores available for the **neptUNO+** FPGA.
 
 ## 📊 Summary:
-- **Cores available in the database:** 227
+- **Cores available in the database:** 240
 - **Cores currently supported by neptUNO+:** 106
-- **Cores currently unsupported by neptUNO+:** 121
+- **Cores currently unsupported by neptUNO+:** 134
 
 ---
 
@@ -122,4 +122,4 @@
 
 ---
 
-✅ **End of Report - Generated on 2025-04-13**
+✅ **End of Report - Generated on 2025-04-14**

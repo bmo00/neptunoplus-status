@@ -1,11 +1,11 @@
-# netUNO+ FPGA report: Games missing
+# netUNO+ FPGA report: Cores missing
 
-**📄 Description:** This report provides an overview of the arcade cores <built-in method lower of str object at 0x75ee3694ab30> for the **neptUNO+** FPGA.
+**📄 Description:** This report provides an overview of the arcade cores cores missing for the **neptUNO+** FPGA.
 
 ## 📊 Summary:
-- **Cores available in the database:** 227
+- **Cores available in the database:** 240
 - **Cores currently supported by neptUNO+:** 106
-- **Cores currently unsupported by neptUNO+:** 121
+- **Cores currently unsupported by neptUNO+:** 134
 
 ---
 
@@ -134,7 +134,20 @@
 | moonwar | Berzerk Hardware | N/A |  | [Mist - gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Berzerk%20Hardware/MoonWar_MiST) | MiST_Devel |
 | theend | Konami Scramble Hardware | N/A |  | [Mist - gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Konami%20Scramble%20Hardware/TheEnd_MiST) | MiST_Devel |
 | skyskipper | Nintendo Popeye Hardware | N/A |  | [Mist - gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/37cca5a5edb1dd60d7c4f9d512db6e1eb7ef98bd/Arcade_MiST/Nintendo%20Popeye%20Hardware/SkySkipper_MiST) | MiST_Devel |
+| ctribemister |  | N/A |  | N/A | Insert-Coin |
+| ddragon3mister |  | N/A |  | N/A | Insert-Coin |
+| dorodon |  | N/A |  | N/A | Insert-Coin |
+| ikacoresuprloco |  | N/A |  | N/A | Insert-Coin |
+| jts16a2 |  | N/A |  | N/A | Insert-Coin |
+| mazingermister |  | N/A |  | N/A | Insert-Coin |
+| naughtyboy |  | N/A |  | N/A | Insert-Coin |
+| neogeo-mvs |  | N/A |  | N/A | Insert-Coin |
+| saturn |  | N/A |  | N/A | Insert-Coin |
+| saturnstv |  | N/A |  | N/A | Insert-Coin |
+| segasys2 |  | N/A |  | N/A | Insert-Coin |
+| toki |  | N/A |  | N/A | Insert-Coin |
+| wwfwfestmister |  | N/A |  | N/A | Insert-Coin |
 
 ---
 
-✅ **End of Report - Generated on 2025-04-13**
+✅ **End of Report - Generated on 2025-04-14**
