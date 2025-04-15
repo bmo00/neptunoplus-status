@@ -1,11 +1,12 @@
-# neptUNO+ FPGA report: Games supported
+# neptUNO+ FPGA report: arcade games supported
 
-This report provides an overview of the arcade cores games supported for the **neptUNO+** FPGA.
+This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 
 ## 📊 Summary
-- **Games available in the database:** 2363
-- **Games currently supported by neptUNO+:** 1627
-- **Games currently unsupported by neptUNO+:** 736
+
+- **games available in the database:** 2363
+- **games supported in neptUNO+:** 1627
+- **games unsupported in neptUNO+:** 736
 
 ---
 
@@ -1643,4 +1644,4 @@ This report provides an overview of the arcade cores games supported for the **n
 
 ---
 
-✅ **End of Report - Generated on 2025-04-14**
+✅ **End of Report - Generated on 2025-04-15**

@@ -12,22 +12,22 @@
 
 ### Arcade (WIP)
 
-- [Supported cores](./arcade/cores-supported.md)
-- [Unsupported cores](./arcade/cores-unsupported.md)
-- [Games supported](./arcade/games-supported.md)
-- [Games unsupported](./arcade/games-unsupported.md)
-- [Games supported (by core)](./arcade/games-supported-by-core.md)
-- [Games unsupported (by core)](./arcade/games-unsupported-by-core.md)
+- [Supported cores](./reports/arcade_cores_supported.md)
+- [Unsupported cores](./reports/arcade_cores_unsupported.md)
+- [Games supported](./reports/arcade_games_supported.md)
+- [Games unsupported](./reports/arcade_games_unsupported.md)
+- [Games supported (by core)](./reports/arcade_games-by-core_supported.md)
+- [Games unsupported (by core)](./reports/arcade_games-by-core_unsupported.md)
 
 ### Console
 
-- Available cores
-- Missing cores
+- [Available cores](./reports/console_cores_supported.md)
+- [Missing cores](./reports/console_cores_unsupported.md)
 
 ### Computer
 
-- Available cores
-- Missing cores
+- [Available cores](./reports/computer_cores_supported.md)
+- [Missing cores](./reports/computer_cores_unsupported.md)
 
 ## Resources
 
