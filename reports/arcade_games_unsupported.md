@@ -1,19 +1,20 @@
-# neptUNO+ FPGA report: arcade games unsupported
+# neptUNO+ FPGA Report: Arcade Games (Unsupported)
 
-This report provides an overview of the arcade games for the **neptUNO+** FPGA.
+This report provides an overview of the unsupported arcade games for the **neptUNO+** FPGA.
+Report generated on: 2025-04-15
 
 ## 📊 Summary
 
-- **games available in the database:** 2363
-- **games supported in neptUNO+:** 1627
-- **games unsupported in neptUNO+:** 736
+- **Total Games (MRAs Found):** 2363
+- **Games for Supported Cores:** 1627
+- **Games for Unsupported Cores:** 736
 
 ---
 
-## Arcade games
+## 🎮 Arcade Games
 
-| 🏷️ **Core** | 📝 **Set name** | **MRA file** | 🗒️ **Platform** | 🔗 **Rotation** | 🗒️ **Year** |
-|-------------|------------------|--------------|-----------------|------------------|-------------|
+| 🏷️ **Core** | 📝 **Set name** | **MRA file** | 🕹️ **Platform** | 🔄 **Rotation** | 📅 **Year** |
+|-------------|-----------------|--------------|-----------------|------------------|------------|
 | asteroids | [aerolitos](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=aerolitos&lang=en) | Aerolitos (ES).mra | Atari Vector | 0 | 1980 |
 | asteroids | [asterock](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=asterock&lang=en) | Asterock (Sidam) [bl].mra | Atari Vector | 0 | 1979 |
 | asteroids | [asterockv](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=asterockv&lang=en) | Asterock (Videotron) [bl].mra | Atari Vector | 0 | 1979 |
@@ -39,7 +40,7 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | astrocade | [wow](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wow&lang=en) | Wizard of Wor.mra | Midway Astrocade | 0 | 1980 |
 | atarisys1 | [indytemp4](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=indytemp4&lang=en) | Indiana Jones (Set 4).mra | Atari System-1 | 0 | 1985 |
 | atarisys1 | [marble](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=marble&lang=en) | Marble Madness (Set 1).mra | Atari System-1 | 0 | 1984 |
-| atarisys1 | [marble5](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=marble5&lang=en) | NO MAD | x | x | x |
+| atarisys1 | [marble5](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=marble5&lang=en) | *Not in MAD DB* | Atari System-1 | N/A | N/A |
 | atarisys1 | [peterpak](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=peterpak&lang=en) | Peter Pack Rat.mra | Atari System-1 | 0 | 1984 |
 | atarisys1 | [roadblst](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=roadblst&lang=en) | Road Blasters (Upright, Rev 4).mra | Atari System-1 | 0 | 1987 |
 | atarisys1 | [roadrunn](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=roadrunn&lang=en) | Road Runner (Rev 2).mra | Atari System-1 | 0 | 1985 |
@@ -75,7 +76,7 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | bgareggamister | [bgaregga](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bgaregga&lang=en) | Battle Garegga (EU- US - JP - AS).mra | Toaplan 2 | 270 | 1996 |
 | bgareggamister | [bgareggacn](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bgareggacn&lang=en) | Battle Garegga - Type 2 (DK- CN).mra | Toaplan 2 | 270 | 1996 |
 | bgareggamister | [bgareggahk](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bgareggahk&lang=en) | Battle Garegga (AT- HK).mra | Toaplan 2 | 270 | 1996 |
-| bgareggamister | [bgareggak](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bgareggak&lang=en) | NO MAD | x | x | x |
+| bgareggamister | [bgareggak](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bgareggak&lang=en) | *Not in MAD DB* | Toaplan 2 | N/A | N/A |
 | bgareggamister | [bgaregganv](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bgaregganv&lang=en) | Battle Garegga - New Version (AT- HK).mra | Toaplan 2 | 270 | 1996 |
 | bgareggamister | [bgareggat](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bgareggat&lang=en) | Battle Garegga (Location Test).mra | Toaplan 2 | 270 | 1996 |
 | bgareggamister | [bgareggat2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bgareggat2&lang=en) | Battle Garegga - Type 2 (EU - US - JP - AS).mra | Toaplan 2 | 270 | 1996 |
@@ -142,11 +143,11 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | crazykong | [ckongpt2j](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ckongpt2j&lang=en) | Crazy Kong Part II (JP).mra | Donkey Kong hardware | 90 | 1981 |
 | crazykong | [ckongpt2jeu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ckongpt2jeu&lang=en) | Crazy Kong Part II (Jeutal) [bl].mra | Donkey Kong hardware | 90 | 1981 |
 | crystalcastles | [ccastles](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ccastles&lang=en) | Crystal Castles.mra | Atari 6502 | 0 | 1983 |
-| ctribemister | [ctribe](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ctribe&lang=en) | NO MAD | x | x | x |
-| ctribemister | [ctribej](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ctribej&lang=en) | NO MAD | x | x | x |
-| ctribemister | [ctribeu1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ctribeu1&lang=en) | NO MAD | x | x | x |
-| ctribemister | [ctribeua](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ctribeua&lang=en) | NO MAD | x | x | x |
-| ddragon3mister | [ddragon3](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ddragon3&lang=en) | NO MAD | x | x | x |
+| ctribemister | [ctribe](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ctribe&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| ctribemister | [ctribej](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ctribej&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| ctribemister | [ctribeu1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ctribeu1&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| ctribemister | [ctribeua](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ctribeua&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| ddragon3mister | [ddragon3](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ddragon3&lang=en) | *Not in MAD DB* |  | N/A | N/A |
 | demonwld | [demonwld](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=demonwld&lang=en) | Demon's World - Horror Story (Set 1).mra | Toaplan 1 | 0 | 1989 |
 | demonwld | [demonwld1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=demonwld1&lang=en) | Demon's World - Horror Story (Set 2).mra | Toaplan 1 | 0 | 1989 |
 | demonwld | [demonwld2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=demonwld2&lang=en) | Demon's World - Horror Story (Set 3).mra | Toaplan 1 | 0 | 1989 |
@@ -166,7 +167,7 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | dottorikun | [dotrikun](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=dotrikun&lang=en) | Dottori-Kun (New).mra | Dottori-Kun hardware | 0 | 1990 |
 | dottorikun | [dotrikun2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=dotrikun2&lang=en) | Dottori-Kun (Old).mra | Dottori-Kun hardware | 0 | 1990 |
 | dottorikun | [dotriman](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=dotriman&lang=en) | Dottori-Man Jr [hb].mra | Dottori-Kun hardware | 0 | 1990 |
-| exerion | [exerion](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=exerion&lang=en) | NO MAD | x | x | x |
+| exerion | [exerion](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=exerion&lang=en) | *Not in MAD DB* | Jaleco Exerion based | N/A | N/A |
 | exerion | [exeriont](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=exeriont&lang=en) | Exerion (Taito).mra | Jaleco Exerion based | 90 | 1983 |
 | exidy2 | [hardhat](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=hardhat&lang=en) | Hard Hat.mra | Exidy Universal Game Board Ver. 2 | 0 | 1982 |
 | exidy2 | [mtrap](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mtrap&lang=en) | Mouse Trap.mra | Exidy Universal Game Board Ver. 2 | 0 | 1981 |
@@ -198,7 +199,7 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | galaga | [vgalaga](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vgalaga&lang=en) | Vector Galaga [hb].mra | Namco Galaga based | 90 | 1981 |
 | galaga | [vgalagaf](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vgalagaf&lang=en) | Vector Galaga (Fast Shoot) [hb].mra | Namco Galaga based | 90 | 1981 |
 | galaga | [vgalagam](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vgalagam&lang=en) | Vector Galaga (Midway) [hb].mra | Namco Galaga based | 90 | 1981 |
-| galaxian | [Portman](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=Portman&lang=en) | NO MAD | x | x | x |
+| galaxian | [Portman](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=Portman&lang=en) | *Not in MAD DB* | Namco Galaxian Hardware (Z80 Based) | N/A | N/A |
 | galaxian | [andromd](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=andromd&lang=en) | Andromeda [hb].mra | Namco Galaxian based | 90 | 1979 |
 | galaxian | [asideral](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=asideral&lang=en) | Ataque Sideral (ES, UniWar S) [bl].mra | Namco Galaxian based | 90 | 1980 |
 | galaxian | [astrians](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=astrians&lang=en) | Astrians (Swarm) [bl].mra | Namco Galaxian based | 90 | 1980 |
@@ -281,7 +282,7 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | gauntlet | [gauntletg](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gauntletg&lang=en) | Gauntlet (DE, Rev 10).mra | Atari Gauntlet based | 0 | 1985 |
 | gauntlet | [gauntletgr3](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gauntletgr3&lang=en) | Gauntlet (DE, Rev 3).mra | Atari Gauntlet based | 0 | 1985 |
 | gauntlet | [gauntletgr6](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gauntletgr6&lang=en) | Gauntlet (DE, Rev 6).mra | Atari Gauntlet based | 0 | 1985 |
-| gauntlet | [gauntletgr8](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gauntletgr8&lang=en) | NO MAD | x | x | x |
+| gauntlet | [gauntletgr8](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gauntletgr8&lang=en) | *Not in MAD DB* | Atari Gauntlet based | N/A | N/A |
 | gauntlet | [gauntletj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gauntletj&lang=en) | Gauntlet (JP, Rev 13).mra | Atari Gauntlet based | 0 | 1985 |
 | gauntlet | [gauntletj12](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gauntletj12&lang=en) | Gauntlet (JP, Rev 12).mra | Atari Gauntlet based | 0 | 1985 |
 | gauntlet | [gauntletr1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gauntletr1&lang=en) | Gauntlet (Rev 1).mra | Atari Gauntlet based | 0 | 1985 |
@@ -319,7 +320,7 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | jackal | [topgunr](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=topgunr&lang=en) | Top Gunner (US).mra | Konami Double Dribble based | 90 | 1986 |
 | joust2 | [joust2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=joust2&lang=en) | Joust 2 - Survival of the Fittest (Rev 2).mra | Williams 2nd Generation | 270 | 1986 |
 | joust2 | [joust2r1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=joust2r1&lang=en) | Joust 2 - Survival of the Fittest (Rev 1).mra | Williams 2nd Generation | 270 | 1986 |
-| jtflstory | [bronx](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bronx&lang=en) | NO MAD | x | x | x |
+| jtflstory | [bronx](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bronx&lang=en) | *Not in MAD DB* | Taito The FairyLand Story hardware | N/A | N/A |
 | jtflstory | [colt](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=colt&lang=en) | Colt [bl].mra | Taito N.Y. Captor hardware | 0 | 1985 |
 | jtflstory | [flstory](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=flstory&lang=en) | The FairyLand Story.mra | Taito The FairyLand Story hardware | 0 | 1985 |
 | jtflstory | [flstoryo](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=flstoryo&lang=en) | The FairyLand Story (Earlier).mra | Taito The FairyLand Story hardware | 0 | 1985 |
@@ -328,8 +329,8 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | jtflstory | [onna34roa](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=onna34roa&lang=en) | Onna Sanshirou - Typhoon Gal [bl].mra | Taito The FairyLand Story hardware | 0 | 1985 |
 | jtflstory | [rumba](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rumba&lang=en) | Rumba Lumber (Rev 1).mra | Taito The FairyLand Story hardware | 270 | 1984 |
 | jtflstory | [victnine](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=victnine&lang=en) | Victorious Nine.mra | Taito The FairyLand Story hardware | 0 | 1984 |
-| jtngp | [ngp](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ngp&lang=en) | NO MAD | x | x | x |
-| jtngpc | [ngpc](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ngpc&lang=en) | NO MAD | x | x | x |
+| jtngp | [ngp](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ngp&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| jtngpc | [ngpc](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ngpc&lang=en) | *Not in MAD DB* |  | N/A | N/A |
 | jtriders | [ssriders](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ssriders&lang=en) | Sunset Riders (4P, Ver EAC).mra | Konami TMNT 2 based | 0 | 1991 |
 | jtriders | [ssridersabd](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ssridersabd&lang=en) | Sunset Riders (2P, Ver ABD).mra | Konami TMNT 2 based | 0 | 1991 |
 | jtriders | [ssridersadd](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ssridersadd&lang=en) | Sunset Riders (4P, Ver ADD).mra | Konami TMNT 2 based | 0 | 1991 |
@@ -407,14 +408,14 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | megasys1a | [stdragon](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=stdragon&lang=en) | Saint Dragon (Set 1).mra | Jaleco Mega System 1 | 0 | 1989 |
 | megasys1a | [stdragona](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=stdragona&lang=en) | Saint Dragon (Set 2).mra | Jaleco Mega System 1 | 0 | 1989 |
 | mysticmarathon | [mysticm](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mysticm&lang=en) | Mystic Marathon.mra | Williams 2nd Generation | 0 | 1983 |
-| naughtyboy | [naughtyb](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=naughtyb&lang=en) | NO MAD | x | x | x |
+| naughtyboy | [naughtyb](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=naughtyb&lang=en) | *Not in MAD DB* |  | N/A | N/A |
 | nemesis | [nemesis](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nemesis&lang=en) | Nemesis (ROM version).mra | Konami GX400 | 0 | 1985 |
 | nemesis | [nemesisuk](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nemesisuk&lang=en) | Nemesis (W, ROM version).mra | Konami GX400 | 0 | 1985 |
-| neogeo-mvs | [doubledr](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=doubledr&lang=en) | NO MAD | x | x | x |
-| neogeo-mvs | [frogfest](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=frogfest&lang=en) | NO MAD | x | x | x |
-| neogeo-mvs | [hyprnoid](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=hyprnoid&lang=en) | NO MAD | x | x | x |
-| neogeo-mvs | [lstbladh](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=lstbladh&lang=en) | NO MAD | x | x | x |
-| neogeo-mvs | [overtop](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=overtop&lang=en) | NO MAD | x | x | x |
+| neogeo-mvs | [doubledr](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=doubledr&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| neogeo-mvs | [frogfest](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=frogfest&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| neogeo-mvs | [hyprnoid](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=hyprnoid&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| neogeo-mvs | [lstbladh](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=lstbladh&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| neogeo-mvs | [overtop](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=overtop&lang=en) | *Not in MAD DB* |  | N/A | N/A |
 | nextspace | [paddlema](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=paddlema&lang=en) | Paddle Mania.mra | SNK 68000 | 90 | 1988 |
 | nextspace | [tnextspc](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tnextspc&lang=en) | The Next Space (Set 1).mra | SNK 68000 | 90 | 1989 |
 | nextspace | [tnextspc2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tnextspc2&lang=en) | The Next Space (Set 2).mra | SNK 68000 | 90 | 1989 |
@@ -458,71 +459,71 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | salamander | [lifefrcej](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=lifefrcej&lang=en) | Life Force (JP).mra | Konami GX400 | 0 | 1986 |
 | salamander | [salamand](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=salamand&lang=en) | Salamander (Ver. D).mra | Konami GX400 | 0 | 1986 |
 | salamander | [salamandj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=salamandj&lang=en) | Salamander (Ver. J).mra | Konami GX400 | 0 | 1986 |
-| salamander | [spclone](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=spclone&lang=en) | NO MAD | x | x | x |
-| salamander | [spcloneo](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=spcloneo&lang=en) | NO MAD | x | x | x |
-| saturn | [saturnstv](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=saturnstv&lang=en) | NO MAD | x | x | x |
-| saturnstv | [astrass](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=astrass&lang=en) | NO MAD | x | x | x |
-| saturnstv | [bakubaku](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bakubaku&lang=en) | NO MAD | x | x | x |
-| saturnstv | [batmanfr](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=batmanfr&lang=en) | NO MAD | x | x | x |
-| saturnstv | [colmns97](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=colmns97&lang=en) | NO MAD | x | x | x |
-| saturnstv | [cotton2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=cotton2&lang=en) | NO MAD | x | x | x |
-| saturnstv | [cottonbm](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=cottonbm&lang=en) | NO MAD | x | x | x |
-| saturnstv | [critcrsh](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=critcrsh&lang=en) | NO MAD | x | x | x |
-| saturnstv | [danchih](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=danchih&lang=en) | NO MAD | x | x | x |
-| saturnstv | [danchiq](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=danchiq&lang=en) | NO MAD | x | x | x |
-| saturnstv | [decathlt](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=decathlt&lang=en) | NO MAD | x | x | x |
-| saturnstv | [decathlto](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=decathlto&lang=en) | NO MAD | x | x | x |
-| saturnstv | [diehard](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=diehard&lang=en) | NO MAD | x | x | x |
-| saturnstv | [dnmtdeka](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=dnmtdeka&lang=en) | NO MAD | x | x | x |
-| saturnstv | [ejihon](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ejihon&lang=en) | NO MAD | x | x | x |
-| saturnstv | [elandore](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=elandore&lang=en) | NO MAD | x | x | x |
-| saturnstv | [ffreveng](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ffreveng&lang=en) | NO MAD | x | x | x |
-| saturnstv | [ffrevng10](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ffrevng10&lang=en) | NO MAD | x | x | x |
-| saturnstv | [fhboxers](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=fhboxers&lang=en) | NO MAD | x | x | x |
-| saturnstv | [findlove](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=findlove&lang=en) | NO MAD | x | x | x |
-| saturnstv | [finlarch](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=finlarch&lang=en) | NO MAD | x | x | x |
-| saturnstv | [gaxeduel](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gaxeduel&lang=en) | NO MAD | x | x | x |
-| saturnstv | [grdforce](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=grdforce&lang=en) | NO MAD | x | x | x |
-| saturnstv | [groovef](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=groovef&lang=en) | NO MAD | x | x | x |
-| saturnstv | [hanagumi](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=hanagumi&lang=en) | NO MAD | x | x | x |
-| saturnstv | [introdon](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=introdon&lang=en) | NO MAD | x | x | x |
-| saturnstv | [kiwames](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=kiwames&lang=en) | NO MAD | x | x | x |
-| saturnstv | [magzun](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=magzun&lang=en) | NO MAD | x | x | x |
-| saturnstv | [maruchan](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=maruchan&lang=en) | NO MAD | x | x | x |
-| saturnstv | [mausuke](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mausuke&lang=en) | NO MAD | x | x | x |
-| saturnstv | [micrombc](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=micrombc&lang=en) | NO MAD | x | x | x |
-| saturnstv | [myfairld](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=myfairld&lang=en) | NO MAD | x | x | x |
-| saturnstv | [nclubdis](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nclubdis&lang=en) | NO MAD | x | x | x |
-| saturnstv | [nclubv3](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nclubv3&lang=en) | NO MAD | x | x | x |
-| saturnstv | [othellos](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=othellos&lang=en) | NO MAD | x | x | x |
-| saturnstv | [pblbeach](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pblbeach&lang=en) | NO MAD | x | x | x |
-| saturnstv | [pclub2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pclub2&lang=en) | NO MAD | x | x | x |
-| saturnstv | [pclub2v3](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pclub2v3&lang=en) | NO MAD | x | x | x |
-| saturnstv | [pclubpok](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pclubpok&lang=en) | NO MAD | x | x | x |
-| saturnstv | [prikura](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=prikura&lang=en) | NO MAD | x | x | x |
-| saturnstv | [puyosun](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=puyosun&lang=en) | NO MAD | x | x | x |
-| saturnstv | [rsgun](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rsgun&lang=en) | NO MAD | x | x | x |
-| saturnstv | [sandor](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sandor&lang=en) | NO MAD | x | x | x |
-| saturnstv | [sanjeon](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sanjeon&lang=en) | NO MAD | x | x | x |
-| saturnstv | [sasissu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sasissu&lang=en) | NO MAD | x | x | x |
-| saturnstv | [seabass](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=seabass&lang=en) | NO MAD | x | x | x |
-| saturnstv | [shanhigw](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=shanhigw&lang=en) | NO MAD | x | x | x |
-| saturnstv | [shienryu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=shienryu&lang=en) | NO MAD | x | x | x |
-| saturnstv | [smleague](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=smleague&lang=en) | NO MAD | x | x | x |
-| saturnstv | [sokyugrt](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sokyugrt&lang=en) | NO MAD | x | x | x |
-| saturnstv | [sss](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sss&lang=en) | NO MAD | x | x | x |
-| saturnstv | [stress](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=stress&lang=en) | NO MAD | x | x | x |
-| saturnstv | [suikoenb](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=suikoenb&lang=en) | NO MAD | x | x | x |
-| saturnstv | [techbowl](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=techbowl&lang=en) | NO MAD | x | x | x |
-| saturnstv | [thunt](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=thunt&lang=en) | NO MAD | x | x | x |
-| saturnstv | [thuntk](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=thuntk&lang=en) | NO MAD | x | x | x |
-| saturnstv | [twcup98](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=twcup98&lang=en) | NO MAD | x | x | x |
-| saturnstv | [twsoc98](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=twsoc98&lang=en) | NO MAD | x | x | x |
-| saturnstv | [vfkids](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vfkids&lang=en) | NO MAD | x | x | x |
-| saturnstv | [vfremix](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vfremix&lang=en) | NO MAD | x | x | x |
-| saturnstv | [vmahjong](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vmahjong&lang=en) | NO MAD | x | x | x |
-| saturnstv | [winterht](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=winterht&lang=en) | NO MAD | x | x | x |
-| saturnstv | [znpwfv](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=znpwfv&lang=en) | NO MAD | x | x | x |
+| salamander | [spclone](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=spclone&lang=en) | *Not in MAD DB* | Konami GX400 | N/A | N/A |
+| salamander | [spcloneo](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=spcloneo&lang=en) | *Not in MAD DB* | Konami GX400 | N/A | N/A |
+| saturn | [saturnstv](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=saturnstv&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [astrass](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=astrass&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [bakubaku](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bakubaku&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [batmanfr](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=batmanfr&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [colmns97](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=colmns97&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [cotton2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=cotton2&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [cottonbm](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=cottonbm&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [critcrsh](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=critcrsh&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [danchih](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=danchih&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [danchiq](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=danchiq&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [decathlt](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=decathlt&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [decathlto](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=decathlto&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [diehard](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=diehard&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [dnmtdeka](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=dnmtdeka&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [ejihon](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ejihon&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [elandore](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=elandore&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [ffreveng](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ffreveng&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [ffrevng10](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ffrevng10&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [fhboxers](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=fhboxers&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [findlove](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=findlove&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [finlarch](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=finlarch&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [gaxeduel](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gaxeduel&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [grdforce](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=grdforce&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [groovef](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=groovef&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [hanagumi](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=hanagumi&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [introdon](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=introdon&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [kiwames](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=kiwames&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [magzun](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=magzun&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [maruchan](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=maruchan&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [mausuke](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mausuke&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [micrombc](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=micrombc&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [myfairld](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=myfairld&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [nclubdis](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nclubdis&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [nclubv3](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nclubv3&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [othellos](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=othellos&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [pblbeach](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pblbeach&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [pclub2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pclub2&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [pclub2v3](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pclub2v3&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [pclubpok](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pclubpok&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [prikura](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=prikura&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [puyosun](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=puyosun&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [rsgun](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rsgun&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [sandor](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sandor&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [sanjeon](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sanjeon&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [sasissu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sasissu&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [seabass](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=seabass&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [shanhigw](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=shanhigw&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [shienryu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=shienryu&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [smleague](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=smleague&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [sokyugrt](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sokyugrt&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [sss](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sss&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [stress](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=stress&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [suikoenb](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=suikoenb&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [techbowl](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=techbowl&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [thunt](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=thunt&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [thuntk](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=thuntk&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [twcup98](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=twcup98&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [twsoc98](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=twsoc98&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [vfkids](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vfkids&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [vfremix](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vfremix&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [vmahjong](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vmahjong&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [winterht](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=winterht&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| saturnstv | [znpwfv](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=znpwfv&lang=en) | *Not in MAD DB* |  | N/A | N/A |
 | scramble | [amidars](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=amidars&lang=en) | Amidar (Scramble).mra | Konami Scramble based | 90 | 1982 |
 | scramble | [anteater](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=anteater&lang=en) | Anteater.mra | Konami Scramble based | 90 | 1982 |
 | scramble | [aponow](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=aponow&lang=en) | Apocaljpse now (Rescue) [bl].mra | Konami Scramble based | 90 | 1982 |
@@ -573,7 +574,7 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | segasys2 | [dakkochn](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=dakkochn&lang=en) | Dakkochan House (MC-8123).mra | Sega System 1 | 0 | 1987 |
 | segasys2 | [gardia](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gardia&lang=en) | Gardia (317-0006).mra | Sega System 1 | 270 | 1986 |
 | segasys2 | [hvymetal](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=hvymetal&lang=en) | Heavy Metal (315-5135).mra | Sega System 1 | 0 | 1985 |
-| segasys2 | [mrvikingj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mrvikingj&lang=en) | NO MAD | x | x | x |
+| segasys2 | [mrvikingj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mrvikingj&lang=en) | *Not in MAD DB* | Sega System 1 | N/A | N/A |
 | segasys2 | [nobb](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nobb&lang=en) | Noboranka [bl].mra | Sega System 1 | 270 | 1986 |
 | segasys2 | [pitfall2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pitfall2&lang=en) | Pitfall II.mra | Sega System 1 | 0 | 1985 |
 | segasys2 | [raflesia](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=raflesia&lang=en) | Rafflesia (315-5162).mra | Sega System 1 | 270 | 1986 |
@@ -646,7 +647,7 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | spaceinvaders | [lrescue](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=lrescue&lang=en) | Lunar Rescue.mra | Taito 8080 | 270 | 1979 |
 | spaceinvaders | [lupin3a](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=lupin3a&lang=en) | Lupin III (Set 2).mra | Taito 8080 | 270 | 1980 |
 | spaceinvaders | [maze](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=maze&lang=en) | Amazing Maze.mra | Midway 8080 | 0 | 1976 |
-| spaceinvaders | [polaris](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=polaris&lang=en) | NO MAD | x | x | x |
+| spaceinvaders | [polaris](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=polaris&lang=en) | *Not in MAD DB* | Midway-Taito 8080 | N/A | N/A |
 | spaceinvaders | [schaser](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=schaser&lang=en) | Space Chaser.mra | Taito 8080 | 270 | 1979 |
 | spaceinvaders | [seawolf](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=seawolf&lang=en) | Sea Wolf (Set 1).mra | Midway 8080 | 0 | 1976 |
 | spaceinvaders | [shuffle](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=shuffle&lang=en) | Shuffleboard.mra | Midway 8080 | 90 | 1978 |
@@ -662,18 +663,18 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | subs | [subs](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=subs&lang=en) | Subs.mra | Atari 6502 | 0 | 1978 |
 | superbreakout | [sbrkout](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sbrkout&lang=en) | Super Breakout (Rev 04).mra | Atari 6502 | 270 | 1978 |
 | superbreakout | [sbrkoutct](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sbrkoutct&lang=en) | Super Breakout (Cocktail, Prototype).mra | Atari 6502 | 270 | 1978 |
-| suprloco | [suprloco](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=suprloco&lang=en) | NO MAD | x | x | x |
+| suprloco | [suprloco](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=suprloco&lang=en) | *Not in MAD DB* | Super Locomotive | N/A | N/A |
 | suprloco | [suprlocoo](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=suprlocoo&lang=en) | Super Locomotive (W, Rev A).mra | Sega Unique | 0 | 1982 |
 | taitosj | [alpine](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=alpine&lang=en) | Alpine Ski (Set 1).mra | Taito System SJ | 270 | 1981 |
 | taitosj | [bioatack](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bioatack&lang=en) | Bio Attack.mra | Taito System SJ | 270 | 1983 |
 | taitosj | [elevatorb](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=elevatorb&lang=en) | Elevator Action [bl].mra | Taito System SJ | 0 | 1983 |
 | taitosj | [hwrace](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=hwrace&lang=en) | High Way Race.mra | Taito System SJ | 270 | 1983 |
-| taitosj | [jungleby](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=jungleby&lang=en) | NO MAD | x | x | x |
-| taitosj | [jungleh](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=jungleh&lang=en) | NO MAD | x | x | x |
+| taitosj | [jungleby](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=jungleby&lang=en) | *Not in MAD DB* | Taito System SJ | N/A | N/A |
+| taitosj | [jungleh](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=jungleh&lang=en) | *Not in MAD DB* | Taito System SJ | N/A | N/A |
 | taitosj | [junglek](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=junglek&lang=en) | Jungle King (JP).mra | Taito System SJ | 180 | 1982 |
-| taitosj | [junglekas](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=junglekas&lang=en) | NO MAD | x | x | x |
-| taitosj | [junglekj2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=junglekj2&lang=en) | NO MAD | x | x | x |
-| taitosj | [junglekj2a](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=junglekj2a&lang=en) | NO MAD | x | x | x |
+| taitosj | [junglekas](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=junglekas&lang=en) | *Not in MAD DB* | Taito System SJ | N/A | N/A |
+| taitosj | [junglekj2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=junglekj2&lang=en) | *Not in MAD DB* | Taito System SJ | N/A | N/A |
+| taitosj | [junglekj2a](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=junglekj2a&lang=en) | *Not in MAD DB* | Taito System SJ | N/A | N/A |
 | taitosj | [piratpet](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=piratpet&lang=en) | Pirate Pete.mra | Taito System SJ | 180 | 1982 |
 | taitosj | [spacecr](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=spacecr&lang=en) | Space Cruiser.mra | Taito System SJ | 90 | 1981 |
 | taitosj | [spaceskr](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=spaceskr&lang=en) | Space Seeker.mra | Taito System SJ | 0 | 1981 |
@@ -686,7 +687,7 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | tecmo | [rygarj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rygarj&lang=en) | Arashi no Senshi.mra | Tecmo hardware | 0 | 1986 |
 | tecmo | [silkworm](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=silkworm&lang=en) | Silk Worm.mra | Tecmo hardware | 0 | 1988 |
 | tekipaki | [tekipaki](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tekipaki&lang=en) | Teki Paki.mra | Toaplan 2 | 0 | 1991 |
-| tekipaki | [whoopee](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=whoopee&lang=en) | NO MAD | x | x | x |
+| tekipaki | [whoopee](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=whoopee&lang=en) | *Not in MAD DB* | Toaplan 2 | N/A | N/A |
 | tiamc1 | [bilyard](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bilyard&lang=en) | Billiard.mra | TIAMC1 | 0 | 1988 |
 | tiamc1 | [gorodki](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gorodki&lang=en) | Gorodki.mra | TIAMC1 | 0 | 1988 |
 | tiamc1 | [konek](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=konek&lang=en) | Konek Gorbunok.mra | TIAMC1 | 0 | 1988 |
@@ -698,7 +699,7 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | timepilot | [timeplta](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=timeplta&lang=en) | Time Pilot (Atari).mra | Konami Z80 | 90 | 1982 |
 | timepilot | [timepltc](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=timepltc&lang=en) | Time Pilot (Centuri).mra | Konami Z80 | 90 | 1982 |
 | tnkiii | [tnk3](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tnk3&lang=en) | TNKIII.mra | SNK Triple Z80 | 90 | 1985 |
-| toki | [tokiu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tokiu&lang=en) | NO MAD | x | x | x |
+| toki | [tokiu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tokiu&lang=en) | *Not in MAD DB* |  | N/A | N/A |
 | truxton2 | [truxton2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=truxton2&lang=en) | Truxton II - Tatsujin Oh.mra | Toaplan 2 | 270 | 1992 |
 | turkeyshoot | [tshoot](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tshoot&lang=en) | Turkey Shoot - The Day They Took Over.mra | Williams 2nd Generation | 0 | 1984 |
 | ultratank | [ultratnk](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ultratnk&lang=en) | Ultra Tank.mra | Atari 6502 | 0 | 1978 |
@@ -715,11 +716,11 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | vimana | [vimana](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vimana&lang=en) | Vimana (W, Set 1).mra | Toaplan 1 | 270 | 1989 |
 | vimana | [vimanaj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vimanaj&lang=en) | Vimana (JP).mra | Toaplan 1 | 270 | 1989 |
 | vimana | [vimanan](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vimanan&lang=en) | Vimana (W, Set 2).mra | Toaplan 1 | 270 | 1989 |
-| wwfwfestmister | [wwfwfest](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wwfwfest&lang=en) | NO MAD | x | x | x |
-| wwfwfestmister | [wwfwfestj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wwfwfestj&lang=en) | NO MAD | x | x | x |
-| wwfwfestmister | [wwfwfestk](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wwfwfestk&lang=en) | NO MAD | x | x | x |
-| wwfwfestmister | [wwfwfestu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wwfwfestu&lang=en) | NO MAD | x | x | x |
-| wwfwfestmister | [wwfwfestu1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wwfwfestu1&lang=en) | NO MAD | x | x | x |
+| wwfwfestmister | [wwfwfest](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wwfwfest&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| wwfwfestmister | [wwfwfestj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wwfwfestj&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| wwfwfestmister | [wwfwfestk](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wwfwfestk&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| wwfwfestmister | [wwfwfestu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wwfwfestu&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| wwfwfestmister | [wwfwfestu1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wwfwfestu1&lang=en) | *Not in MAD DB* |  | N/A | N/A |
 | xevious | [battles2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=battles2&lang=en) | Battles (Set 2).mra | Namco Galaga based | 90 | 1982 |
 | xevious | [gaous](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gaous&lang=en) | Gaous [hb].mra | Namco Galaga based | 90 | 1982 |
 | xevious | [sxevious](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sxevious&lang=en) | Super Xevious.mra | Namco Galaga based | 90 | 1982 |
@@ -750,7 +751,3 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | zerowing | [zerowingw](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=zerowingw&lang=en) | Zero Wing (2P set, Williams license).mra | Toaplan 1 | 0 | 1989 |
 | zigzag | [zigzagb](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=zigzagb&lang=en) | Zig Zag (Dig Dug Conversion) [bl].mra | Namco Galaga based | 90 | 1982 |
 | zigzag | [zigzagb2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=zigzagb2&lang=en) | Zig Zag (Dig Dug Conversion, Set 2) [bl].mra | Namco Galaga based | 90 | 1982 |
-
----
-
-✅ **End of Report - Generated on 2025-04-15**

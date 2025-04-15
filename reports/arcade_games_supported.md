@@ -1,19 +1,20 @@
-# neptUNO+ FPGA report: arcade games supported
+# neptUNO+ FPGA Report: Arcade Games (Supported)
 
-This report provides an overview of the arcade games for the **neptUNO+** FPGA.
+This report provides an overview of the supported arcade games for the **neptUNO+** FPGA.
+Report generated on: 2025-04-15
 
 ## 📊 Summary
 
-- **games available in the database:** 2363
-- **games supported in neptUNO+:** 1627
-- **games unsupported in neptUNO+:** 736
+- **Total Games (MRAs Found):** 2363
+- **Games for Supported Cores:** 1627
+- **Games for Unsupported Cores:** 736
 
 ---
 
-## Arcade games
+## 🎮 Arcade Games
 
-| 🏷️ **Core** | 📝 **Set name** | **MRA file** | 🗒️ **Platform** | 🔗 **Rotation** | 🗒️ **Year** |
-|-------------|------------------|--------------|-----------------|------------------|-------------|
+| 🏷️ **Core** | 📝 **Set name** | **MRA file** | 🕹️ **Platform** | 🔄 **Rotation** | 📅 **Year** |
+|-------------|-----------------|--------------|-----------------|------------------|------------|
 | alpha68k | [btlfield](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=btlfield&lang=en) | Battle Field (JP).mra | SNK - Alpha Denshi | 90 | 1987 |
 | alpha68k | [gangwars](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gangwars&lang=en) | Gang Wars.mra | SNK - Alpha Denshi | 0 | 1989 |
 | alpha68k | [gangwarsb](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gangwarsb&lang=en) | Gang Wars [bl].mra | SNK - Alpha Denshi | 0 | 1989 |
@@ -130,8 +131,8 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | druaga | [digdug2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=digdug2&lang=en) | Dig Dug II (New Ver).mra | Namco Super Pac-Man hardware | 90 | 1985 |
 | druaga | [digdug2o](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=digdug2o&lang=en) | Dig Dug II (Old Ver).mra | Namco Super Pac-Man hardware | 90 | 1985 |
 | druaga | [grobda](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=grobda&lang=en) | Grobda (W, New Ver.).mra | Namco Super Pac-Man hardware | 90 | 1984 |
-| druaga | [grobda2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=grobda2&lang=en) | NO MAD | x | x | x |
-| druaga | [grobda3](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=grobda3&lang=en) | NO MAD | x | x | x |
+| druaga | [grobda2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=grobda2&lang=en) | *Not in MAD DB* | Namco Super Pac-Man hardware | N/A | N/A |
+| druaga | [grobda3](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=grobda3&lang=en) | *Not in MAD DB* | Namco Super Pac-Man hardware | N/A | N/A |
 | druaga | [housepty](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=housepty&lang=en) | House Party [hb].mra | Namco Super Pac-Man hardware | 90 | 1983 |
 | druaga | [mappy](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mappy&lang=en) | Mappy (US).mra | Namco Super Pac-Man hardware | 90 | 1983 |
 | druaga | [mappyj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mappyj&lang=en) | Mappy (JP).mra | Namco Super Pac-Man hardware | 90 | 1983 |
@@ -140,7 +141,7 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | druaga | [pacnchmp](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pacnchmp&lang=en) | Pac-Man & Chomp Chomp.mra | Namco Pac-Man hardware | 90 | 1983 |
 | druaga | [pacnpal](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pacnpal&lang=en) | Pac & Pal.mra | Namco Pac-Man hardware | 90 | 1983 |
 | druaga | [superpac](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=superpac&lang=en) | Super Pac-Man.mra | Namco Super Pac-Man hardware | 90 | 1982 |
-| druaga | [superpacm](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=superpacm&lang=en) | NO MAD | x | x | x |
+| druaga | [superpacm](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=superpacm&lang=en) | *Not in MAD DB* | Namco Super Pac-Man hardware | N/A | N/A |
 | druaga | [todruaga](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=todruaga&lang=en) | The Tower of Druaga.mra | Namco Super Pac-Man hardware | 90 | 1984 |
 | druaga | [todruagao](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=todruagao&lang=en) | The Tower of Druaga (Old Ver).mra | Namco Super Pac-Man hardware | 90 | 1984 |
 | druaga | [todruagas](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=todruagas&lang=en) | The Tower of Druaga (Sidam) [bl].mra | Namco Super Pac-Man hardware | 90 | 1984 |
@@ -192,63 +193,63 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | iremm72 | [rtypej](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rtypej&lang=en) | R-Type (JP).mra | Irem M72 | 0 | 1987 |
 | iremm72 | [xmultiplm72](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=xmultiplm72&lang=en) | X Multiply (JP, M72 hardware).mra | Irem M72 | 0 | 1989 |
 | iremm92 | [bmaster](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bmaster&lang=en) | Blade Master (W).mra | Irem M92 | 0 | 1991 |
-| iremm92 | [bmaster_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bmaster_t&lang=en) | NO MAD | x | x | x |
+| iremm92 | [bmaster_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bmaster_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [crossbld](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=crossbld&lang=en) | Cross Blades! (JP).mra | Irem M92 | 0 | 1991 |
-| iremm92 | [crossbld_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=crossbld_t&lang=en) | NO MAD | x | x | x |
+| iremm92 | [crossbld_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=crossbld_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [dsoccr94j](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=dsoccr94j&lang=en) | Dream Soccer '94 (JP, M92).mra | Irem M92 | 0 | 1994 |
-| iremm92 | [dsoccr94j_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=dsoccr94j_t&lang=en) | NO MAD | x | x | x |
+| iremm92 | [dsoccr94j_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=dsoccr94j_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [geostorm](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=geostorm&lang=en) | Geo Storm.mra | Irem M92 | 0 | 1994 |
-| iremm92 | [geostorm_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=geostorm_t&lang=en) | NO MAD | x | x | x |
+| iremm92 | [geostorm_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=geostorm_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [gunforc2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gunforc2&lang=en) | Gun Force II (US).mra | Irem M92 | 0 | 1994 |
-| iremm92 | [gunforc2_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gunforc2_t&lang=en) | NO MAD | x | x | x |
+| iremm92 | [gunforc2_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gunforc2_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [gunforce](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gunforce&lang=en) | Gun Force (W).mra | Irem M92 | 0 | 1991 |
-| iremm92 | [gunforce_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gunforce_t&lang=en) | NO MAD | x | x | x |
+| iremm92 | [gunforce_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gunforce_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [gunforcej](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gunforcej&lang=en) | Gun Force (JP).mra | Irem M92 | 0 | 1991 |
-| iremm92 | [gunforcej_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gunforcej_t&lang=en) | NO MAD | x | x | x |
+| iremm92 | [gunforcej_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gunforcej_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [gunforceu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gunforceu&lang=en) | Gun Force (US).mra | Irem M92 | 0 | 1991 |
-| iremm92 | [gunforceu_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gunforceu_t&lang=en) | NO MAD | x | x | x |
+| iremm92 | [gunforceu_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gunforceu_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [gunhohki](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gunhohki&lang=en) | Mahou Keibitai Gun Hohki (JP).mra | Irem M92 | 0 | 1992 |
-| iremm92 | [gunhohki_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gunhohki_t&lang=en) | NO MAD | x | x | x |
+| iremm92 | [gunhohki_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gunhohki_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [hook](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=hook&lang=en) | Hook (W).mra | Irem M92 | 0 | 1992 |
-| iremm92 | [hook_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=hook_t&lang=en) | NO MAD | x | x | x |
+| iremm92 | [hook_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=hook_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [hookj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=hookj&lang=en) | Hook (JP).mra | Irem M92 | 0 | 1992 |
-| iremm92 | [hookj_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=hookj_t&lang=en) | NO MAD | x | x | x |
+| iremm92 | [hookj_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=hookj_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [inthunt](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=inthunt&lang=en) | In The Hunt (W).mra | Irem M92 | 0 | 1993 |
-| iremm92 | [inthunt_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=inthunt_t&lang=en) | NO MAD | x | x | x |
+| iremm92 | [inthunt_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=inthunt_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [inthuntu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=inthuntu&lang=en) | In The Hunt (US).mra | Irem M92 | 0 | 1993 |
-| iremm92 | [inthuntu_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=inthuntu_t&lang=en) | NO MAD | x | x | x |
+| iremm92 | [inthuntu_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=inthuntu_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [kaiteids](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=kaiteids&lang=en) | Kaitei Daisensou (JP).mra | Irem M92 | 0 | 1993 |
-| iremm92 | [kaiteids_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=kaiteids_t&lang=en) | NO MAD | x | x | x |
+| iremm92 | [kaiteids_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=kaiteids_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [leaguemn](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=leaguemn&lang=en) | Yakyuu Kakutou League-Man (JP).mra | Irem M92 | 0 | 1993 |
-| iremm92 | [leaguemn_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=leaguemn_t&lang=en) | NO MAD | x | x | x |
+| iremm92 | [leaguemn_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=leaguemn_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [lethalth](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=lethalth&lang=en) | Lethal Thunder (W).mra | Irem M92 | 270 | 1992 |
-| iremm92 | [lethalth_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=lethalth_t&lang=en) | NO MAD | x | x | x |
+| iremm92 | [lethalth_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=lethalth_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [majtitl2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=majtitl2&lang=en) | Major Title 2 (W, Set 1).mra | Irem M92 | 0 | 1992 |
-| iremm92 | [majtitl2_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=majtitl2_t&lang=en) | NO MAD | x | x | x |
+| iremm92 | [majtitl2_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=majtitl2_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [mysticri](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mysticri&lang=en) | Mystic Riders (W).mra | Irem M92 | 0 | 1992 |
-| iremm92 | [mysticri_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mysticri_t&lang=en) | NO MAD | x | x | x |
+| iremm92 | [mysticri_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mysticri_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [nbbatman](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nbbatman&lang=en) | Ninja Baseball Bat Man (W).mra | Irem M92 | 0 | 1993 |
-| iremm92 | [nbbatman_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nbbatman_t&lang=en) | NO MAD | x | x | x |
+| iremm92 | [nbbatman_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nbbatman_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [nbbatmanu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nbbatmanu&lang=en) | Ninja Baseball Bat Man (US).mra | Irem M92 | 0 | 1993 |
-| iremm92 | [nbbatmanu_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nbbatmanu_t&lang=en) | NO MAD | x | x | x |
+| iremm92 | [nbbatmanu_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nbbatmanu_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [rtypeleo](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rtypeleo&lang=en) | R-Type Leo (W).mra | Irem M92 | 0 | 1992 |
-| iremm92 | [rtypeleo_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rtypeleo_t&lang=en) | NO MAD | x | x | x |
+| iremm92 | [rtypeleo_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rtypeleo_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [rtypeleoj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rtypeleoj&lang=en) | R-Type Leo (JP).mra | Irem M92 | 0 | 1992 |
-| iremm92 | [rtypeleoj_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rtypeleoj_t&lang=en) | NO MAD | x | x | x |
+| iremm92 | [rtypeleoj_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rtypeleoj_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [ssoldier](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ssoldier&lang=en) | Superior Soldiers (US).mra | Irem M92 | 0 | 1994 |
-| iremm92 | [ssoldier_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ssoldier_t&lang=en) | NO MAD | x | x | x |
+| iremm92 | [ssoldier_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ssoldier_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [thndblst](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=thndblst&lang=en) | Thunder Blaster (JP).mra | Irem M92 | 270 | 1992 |
-| iremm92 | [thndblst_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=thndblst_t&lang=en) | NO MAD | x | x | x |
+| iremm92 | [thndblst_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=thndblst_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [uccops](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=uccops&lang=en) | Undercover Cops (W).mra | Irem M92 | 0 | 1992 |
-| iremm92 | [uccops_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=uccops_t&lang=en) | NO MAD | x | x | x |
+| iremm92 | [uccops_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=uccops_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [uccopsar](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=uccopsar&lang=en) | Undercover Cops - Alpha Renewal Version (W).mra | Irem M92 | 0 | 1992 |
-| iremm92 | [uccopsar_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=uccopsar_t&lang=en) | NO MAD | x | x | x |
+| iremm92 | [uccopsar_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=uccopsar_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [uccopsaru](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=uccopsaru&lang=en) | Undercover Cops - Alpha Renewal Version (US).mra | Irem M92 | 0 | 1992 |
-| iremm92 | [uccopsaru_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=uccopsaru_t&lang=en) | NO MAD | x | x | x |
+| iremm92 | [uccopsaru_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=uccopsaru_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [uccopsj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=uccopsj&lang=en) | Undercover Cops (JP).mra | Irem M92 | 0 | 1992 |
-| iremm92 | [uccopsj_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=uccopsj_t&lang=en) | NO MAD | x | x | x |
+| iremm92 | [uccopsj_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=uccopsj_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [uccopsu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=uccopsu&lang=en) | Undercover Cops (US).mra | Irem M92 | 0 | 1992 |
-| iremm92 | [uccopsu_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=uccopsu_t&lang=en) | NO MAD | x | x | x |
+| iremm92 | [uccopsu_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=uccopsu_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | ironhorse | [dairesya](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=dairesya&lang=en) | Dai Ressya Goutou (Ver. K).mra | Konami Double Dribble based | 0 | 1986 |
 | ironhorse | [ironhors](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ironhors&lang=en) | Iron Horse (Ver. K).mra | Konami Double Dribble based | 0 | 1986 |
 | ironhorse | [ironhorsbl](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ironhorsbl&lang=en) | Iron Horse (Ver. H) [bl].mra | Konami Double Dribble based | 0 | 1986 |
@@ -398,7 +399,7 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | jtcps1 | [forgottn](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=forgottn&lang=en) | Forgotten Worlds (W, Newer).mra | Capcom CPS-1 | 0 | 1988 |
 | jtcps1 | [forgottna](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=forgottna&lang=en) | Forgotten Worlds (W).mra | Capcom CPS-1 | 0 | 1988 |
 | jtcps1 | [forgottnj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=forgottnj&lang=en) | Forgotten Worlds (JP, Eng Proto).mra | Capcom CPS-1 | 0 | 1988 |
-| jtcps1 | [forgottnu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=forgottnu&lang=en) | NO MAD | x | x | x |
+| jtcps1 | [forgottnu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=forgottnu&lang=en) | *Not in MAD DB* | Capcom CPS-1 | N/A | N/A |
 | jtcps1 | [forgottnua](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=forgottnua&lang=en) | Forgotten Worlds (US, Rev A).mra | Capcom CPS-1 | 0 | 1988 |
 | jtcps1 | [forgottnuaa](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=forgottnuaa&lang=en) | Forgotten Worlds (US, Rev AA).mra | Capcom CPS-1 | 0 | 1988 |
 | jtcps1 | [forgottnuc](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=forgottnuc&lang=en) | Forgotten Worlds (US, Rev C).mra | Capcom CPS-1 | 0 | 1988 |
@@ -433,7 +434,7 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | jtcps1 | [mtwins](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mtwins&lang=en) | Mega Twins (W, 900619).mra | Capcom CPS-1 | 0 | 1990 |
 | jtcps1 | [nemo](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nemo&lang=en) | Nemo (W, 901130).mra | Capcom CPS-1 | 0 | 1990 |
 | jtcps1 | [nemoj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nemoj&lang=en) | Nemo (JP, 901120).mra | Capcom CPS-1 | 0 | 1990 |
-| jtcps1 | [nemoja](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nemoja&lang=en) | NO MAD | x | x | x |
+| jtcps1 | [nemoja](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nemoja&lang=en) | *Not in MAD DB* | Capcom CPS-1 | N/A | N/A |
 | jtcps1 | [nemor1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nemor1&lang=en) | Nemo (W, 901109).mra | Capcom CPS-1 | 0 | 1990 |
 | jtcps1 | [pang3](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pang3&lang=en) | Pang! 3 (EU, 950601).mra | Capcom CPS-1 | 0 | 1995 |
 | jtcps1 | [pang3b](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pang3b&lang=en) | Pang! 3 [bl].mra | Capcom CPS-1 | 0 | 1995 |
@@ -451,15 +452,15 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | jtcps1 | [sf2acca](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2acca&lang=en) | Street Fighter II'- Champion Edition (Accelerator, Set 2) [bl].mra | Capcom CPS-1 | 0 | 1992 |
 | jtcps1 | [sf2accp2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2accp2&lang=en) | Street Fighter II'- Champion Edition (Accelerator Pt. II) [bl].mra | Capcom CPS-1 | 0 | 1992 |
 | jtcps1 | [sf2ce](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2ce&lang=en) | Street Fighter II'- Champion Edition (W, 920513).mra | Capcom CPS-1 | 0 | 1992 |
-| jtcps1 | [sf2ceaimedb](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2ceaimedb&lang=en) | NO MAD | x | x | x |
-| jtcps1 | [sf2ceaimedf](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2ceaimedf&lang=en) | NO MAD | x | x | x |
-| jtcps1 | [sf2cebfire](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2cebfire&lang=en) | NO MAD | x | x | x |
-| jtcps1 | [sf2cebih](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2cebih&lang=en) | NO MAD | x | x | x |
+| jtcps1 | [sf2ceaimedb](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2ceaimedb&lang=en) | *Not in MAD DB* | Capcom CPS-1 | N/A | N/A |
+| jtcps1 | [sf2ceaimedf](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2ceaimedf&lang=en) | *Not in MAD DB* | Capcom CPS-1 | N/A | N/A |
+| jtcps1 | [sf2cebfire](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2cebfire&lang=en) | *Not in MAD DB* | Capcom CPS-1 | N/A | N/A |
+| jtcps1 | [sf2cebih](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2cebih&lang=en) | *Not in MAD DB* | Capcom CPS-1 | N/A | N/A |
 | jtcps1 | [sf2cebltw](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2cebltw&lang=en) | Street Fighter II'- Champion Edition (Taiwan, PAL) [bl].mra | Capcom CPS-1 | 0 | 1992 |
-| jtcps1 | [sf2cebof](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2cebof&lang=en) | NO MAD | x | x | x |
+| jtcps1 | [sf2cebof](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2cebof&lang=en) | *Not in MAD DB* | Capcom CPS-1 | N/A | N/A |
 | jtcps1 | [sf2ceea](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2ceea&lang=en) | Street Fighter II'- Champion Edition (W, 920313).mra | Capcom CPS-1 | 0 | 1992 |
-| jtcps1 | [sf2ceec](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2ceec&lang=en) | NO MAD | x | x | x |
-| jtcps1 | [sf2cefires](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2cefires&lang=en) | NO MAD | x | x | x |
+| jtcps1 | [sf2ceec](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2ceec&lang=en) | *Not in MAD DB* | Capcom CPS-1 | N/A | N/A |
+| jtcps1 | [sf2cefires](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2cefires&lang=en) | *Not in MAD DB* | Capcom CPS-1 | N/A | N/A |
 | jtcps1 | [sf2ceja](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2ceja&lang=en) | Street Fighter II'- Champion Edition (JP, 920322).mra | Capcom CPS-1 | 0 | 1992 |
 | jtcps1 | [sf2cejb](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2cejb&lang=en) | Street Fighter II'- Champion Edition (JP, 920513).mra | Capcom CPS-1 | 0 | 1992 |
 | jtcps1 | [sf2cejc](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2cejc&lang=en) | Street Fighter II'- Champion Edition (JP, 920803).mra | Capcom CPS-1 | 0 | 1992 |
@@ -468,7 +469,7 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | jtcps1 | [sf2ceub](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2ceub&lang=en) | Street Fighter II'- Champion Edition (US, 920513).mra | Capcom CPS-1 | 0 | 1992 |
 | jtcps1 | [sf2ceuc](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2ceuc&lang=en) | Street Fighter II'- Champion Edition (US, 920803).mra | Capcom CPS-1 | 0 | 1992 |
 | jtcps1 | [sf2ceupl](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2ceupl&lang=en) | Street Fighter II'- Champion Edition (UPL) [bl].mra | Capcom CPS-1 | 0 | 1992 |
-| jtcps1 | [sf2cevampiric](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2cevampiric&lang=en) | NO MAD | x | x | x |
+| jtcps1 | [sf2cevampiric](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2cevampiric&lang=en) | *Not in MAD DB* | Capcom CPS-1 | N/A | N/A |
 | jtcps1 | [sf2ea](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2ea&lang=en) | Street Fighter II- The Warrior (W, 910204).mra | Capcom CPS-1 | 0 | 1991 |
 | jtcps1 | [sf2eb](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2eb&lang=en) | Street Fighter II- The Warrior (W, 910214).mra | Capcom CPS-1 | 0 | 1991 |
 | jtcps1 | [sf2ed](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2ed&lang=en) | Street Fighter II- The Warrior (W, 910318).mra | Capcom CPS-1 | 0 | 1991 |
@@ -499,7 +500,7 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | jtcps1 | [sf2ui](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2ui&lang=en) | Street Fighter II- The Warrior (US, 910522, Rev I).mra | Capcom CPS-1 | 0 | 1991 |
 | jtcps1 | [sf2uk](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2uk&lang=en) | Street Fighter II- The Warrior (US, 911101).mra | Capcom CPS-1 | 0 | 1991 |
 | jtcps1 | [sf2v004](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2v004&lang=en) | Street Fighter II'- Champion Edition [bl].mra | Capcom CPS-1 | 0 | 1992 |
-| jtcps1 | [sf2yyc](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2yyc&lang=en) | NO MAD | x | x | x |
+| jtcps1 | [sf2yyc](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2yyc&lang=en) | *Not in MAD DB* | Capcom CPS-1 | N/A | N/A |
 | jtcps1 | [sfach](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sfach&lang=en) | Street Fighter Alpha- Warriors' Dreams (US, CPS Changer, 950727).mra | Capcom CPS-1 | 0 | 1995 |
 | jtcps1 | [sfzbch](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sfzbch&lang=en) | Street Fighter Zero (BR, CPS Changer, 950727).mra | Capcom CPS-1 | 0 | 1995 |
 | jtcps1 | [sfzch](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sfzch&lang=en) | Street Fighter Zero (JP, CPS Changer, 951020).mra | Capcom CPS-1 | 0 | 1995 |
@@ -534,7 +535,7 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | jtcps15 | [slammastu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=slammastu&lang=en) | Saturday Night Slam Masters (US, 930713).mra | Capcom CPS-1.5 | 0 | 1993 |
 | jtcps15 | [wof](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wof&lang=en) | Warriors of Fate (W, 921031).mra | Capcom CPS-1.5 | 0 | 1992 |
 | jtcps15 | [wofa](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wofa&lang=en) | Sangokushi II (AS, 921005).mra | Capcom CPS-1.5 | 0 | 1992 |
-| jtcps15 | [wofch](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wofch&lang=en) | NO MAD | x | x | x |
+| jtcps15 | [wofch](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wofch&lang=en) | *Not in MAD DB* | Capcom CPS-1.5 | N/A | N/A |
 | jtcps15 | [wofj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wofj&lang=en) | Tenchi wo Kurau II- Sekiheki no Tatakai (JP, 921031).mra | Capcom CPS-1.5 | 0 | 1992 |
 | jtcps15 | [wofr1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wofr1&lang=en) | Warriors of Fate (W, 921002).mra | Capcom CPS-1.5 | 0 | 1992 |
 | jtcps15 | [wofu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wofu&lang=en) | Warriors of Fate (US, 921031).mra | Capcom CPS-1.5 | 0 | 1992 |
@@ -873,15 +874,15 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | jtfround | [fround](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=fround&lang=en) | The Final Round (Ver. M).mra | Konami Twin16 hardware | 0 | 1988 |
 | jtfround | [froundl](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=froundl&lang=en) | The Final Round (Ver. L).mra | Konami Twin16 hardware | 0 | 1988 |
 | jtgaiden | [gaiden](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gaiden&lang=en) | Ninja Gaiden (US).mra | Tecmo Ninja Gaiden hardware | 0 | 1988 |
-| jtgaiden | [raiga](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=raiga&lang=en) | NO MAD | x | x | x |
+| jtgaiden | [raiga](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=raiga&lang=en) | *Not in MAD DB* | Tecmo Ninja Gaiden hardware | N/A | N/A |
 | jtgaiden | [ryukendn](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ryukendn&lang=en) | Ninja Ryukenden (JP, Set 1).mra | Tecmo Ninja Gaiden hardware | 0 | 1988 |
 | jtgaiden | [ryukendna](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ryukendna&lang=en) | Ninja Ryukenden (JP, Set 2).mra | Tecmo Ninja Gaiden hardware | 0 | 1988 |
 | jtgaiden | [shadoww](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=shadoww&lang=en) | Shadow Warriors (W, Set 1).mra | Tecmo Ninja Gaiden hardware | 0 | 1988 |
 | jtgaiden | [shadowwa](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=shadowwa&lang=en) | Shadow Warriors (W, Set 2).mra | Tecmo Ninja Gaiden hardware | 0 | 1988 |
-| jtgaiden | [stratof](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=stratof&lang=en) | NO MAD | x | x | x |
-| jtgaiden | [tknight](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tknight&lang=en) | NO MAD | x | x | x |
-| jtgaiden | [wildfang](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wildfang&lang=en) | NO MAD | x | x | x |
-| jtgaiden | [wildfangs](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wildfangs&lang=en) | NO MAD | x | x | x |
+| jtgaiden | [stratof](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=stratof&lang=en) | *Not in MAD DB* | Tecmo Ninja Gaiden hardware | N/A | N/A |
+| jtgaiden | [tknight](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tknight&lang=en) | *Not in MAD DB* | Tecmo Ninja Gaiden hardware | N/A | N/A |
+| jtgaiden | [wildfang](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wildfang&lang=en) | *Not in MAD DB* | Tecmo Ninja Gaiden hardware | N/A | N/A |
+| jtgaiden | [wildfangs](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wildfangs&lang=en) | *Not in MAD DB* | Tecmo Ninja Gaiden hardware | N/A | N/A |
 | jtgng | [gng](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gng&lang=en) | Ghosts'n Goblins (W).mra | Capcom CPS-0 | 0 | 1985 |
 | jtgng | [gnga](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gnga&lang=en) | Ghosts'n Goblins (W, Set 2).mra | Capcom CPS-0 | 0 | 1985 |
 | jtgng | [gngblita](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gngblita&lang=en) | Ghosts'n Goblins (IT, Harder) [bl].mra | Capcom CPS-0 | 0 | 1985 |
@@ -889,7 +890,7 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | jtgng | [gngprot](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gngprot&lang=en) | Ghosts'n Goblins (Prototype).mra | Capcom CPS-0 | 0 | 1985 |
 | jtgng | [gngt](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gngt&lang=en) | Ghosts'n Goblins (US).mra | Capcom CPS-0 | 0 | 1985 |
 | jtgng | [makaimur](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=makaimur&lang=en) | Makai-Mura (JP).mra | Capcom CPS-0 | 0 | 1985 |
-| jtgng | [makaimurb](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=makaimurb&lang=en) | NO MAD | x | x | x |
+| jtgng | [makaimurb](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=makaimurb&lang=en) | *Not in MAD DB* | Capcom CPS-0 | N/A | N/A |
 | jtgng | [makaimurc](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=makaimurc&lang=en) | Makai-Mura (JP, Rev C).mra | Capcom CPS-0 | 0 | 1985 |
 | jtgng | [makaimurg](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=makaimurg&lang=en) | Makai-Mura (JP, Rev G).mra | Capcom CPS-0 | 0 | 1985 |
 | jtgunsmk | [gunsmoke](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gunsmoke&lang=en) | Gun Smoke.mra | Capcom CPS-0 | 90 | 1985 |
@@ -909,7 +910,7 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | jtkchamp | [karatedo](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=karatedo&lang=en) | Karate Dou (JP).mra | Data East Z80 based | 90 | 1984 |
 | jtkchamp | [karatevs](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=karatevs&lang=en) | Taisen Karate Dou (JP, VS version).mra | Data East Z80 based | 90 | 1984 |
 | jtkchamp | [kchamp](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=kchamp&lang=en) | Karate Champ (US).mra | Data East Z80 based | 90 | 1984 |
-| jtkchamp | [kchamp2p](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=kchamp2p&lang=en) | NO MAD | x | x | x |
+| jtkchamp | [kchamp2p](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=kchamp2p&lang=en) | *Not in MAD DB* | Data East Z80 based | N/A | N/A |
 | jtkchamp | [kchamptec](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=kchamptec&lang=en) | Karate Champ (Tecfri) [bl].mra | Data East Z80 based | 90 | 1984 |
 | jtkchamp | [kchampvs](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=kchampvs&lang=en) | Karate Champ (US, VS Ver, Set 1).mra | Data East Z80 based | 90 | 1984 |
 | jtkchamp | [kchampvs2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=kchampvs2&lang=en) | Karate Champ (US, VS Ver, Set 2).mra | Data East Z80 based | 90 | 1984 |
@@ -921,9 +922,9 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | jtkiwi | [arknoid2b](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=arknoid2b&lang=en) | Arkanoid - Revenge of DOH (JP) [bl].mra | Taito The NewZealand Story hardware | 270 | 1987 |
 | jtkiwi | [arknoid2j](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=arknoid2j&lang=en) | Arkanoid - Revenge of DOH (JP).mra | Taito The NewZealand Story hardware | 270 | 1987 |
 | jtkiwi | [arknoid2u](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=arknoid2u&lang=en) | Arkanoid - Revenge of DOH (US).mra | Taito The NewZealand Story hardware | 270 | 1987 |
-| jtkiwi | [chukataij](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=chukataij&lang=en) | NO MAD | x | x | x |
-| jtkiwi | [chukataija](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=chukataija&lang=en) | NO MAD | x | x | x |
-| jtkiwi | [chukataiu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=chukataiu&lang=en) | NO MAD | x | x | x |
+| jtkiwi | [chukataij](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=chukataij&lang=en) | *Not in MAD DB* | Taito The NewZealand Story hardware | N/A | N/A |
+| jtkiwi | [chukataija](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=chukataija&lang=en) | *Not in MAD DB* | Taito The NewZealand Story hardware | N/A | N/A |
+| jtkiwi | [chukataiu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=chukataiu&lang=en) | *Not in MAD DB* | Taito The NewZealand Story hardware | N/A | N/A |
 | jtkiwi | [drtoppel](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=drtoppel&lang=en) | Dr. Toppel's Adventure (W).mra | Taito The NewZealand Story hardware | 90 | 1987 |
 | jtkiwi | [drtoppelj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=drtoppelj&lang=en) | Dr. Toppel's Tankentai (JP).mra | Taito The NewZealand Story hardware | 90 | 1987 |
 | jtkiwi | [drtoppelu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=drtoppelu&lang=en) | Dr. Toppel's Adventure (US).mra | Taito The NewZealand Story hardware | 90 | 1987 |
@@ -932,15 +933,15 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | jtkiwi | [extrmatnu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=extrmatnu&lang=en) | Extermination (US, World Games).mra | Taito The NewZealand Story hardware | 270 | 1987 |
 | jtkiwi | [extrmatnur](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=extrmatnur&lang=en) | Extermination (US, Romstar).mra | Taito The NewZealand Story hardware | 270 | 1987 |
 | jtkiwi | [insectx](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=insectx&lang=en) | Insector X (W).mra | Taito The NewZealand Story hardware | 0 | 1989 |
-| jtkiwi | [insectxbl](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=insectxbl&lang=en) | NO MAD | x | x | x |
+| jtkiwi | [insectxbl](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=insectxbl&lang=en) | *Not in MAD DB* | Taito The NewZealand Story hardware | N/A | N/A |
 | jtkiwi | [insectxj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=insectxj&lang=en) | Insector X (JP).mra | Taito The NewZealand Story hardware | 0 | 1989 |
-| jtkiwi | [jtkiwi](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=jtkiwi&lang=en) | NO MAD | x | x | x |
+| jtkiwi | [jtkiwi](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=jtkiwi&lang=en) | *Not in MAD DB* | Taito The NewZealand Story hardware | N/A | N/A |
 | jtkiwi | [kageki](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=kageki&lang=en) | Kageki (W).mra | Taito The NewZealand Story hardware | 90 | 1988 |
 | jtkiwi | [kagekih](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=kagekih&lang=en) | Kageki (hack).mra | Taito The NewZealand Story hardware | 90 | 1988 |
 | jtkiwi | [kagekij](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=kagekij&lang=en) | Kageki (JP).mra | Taito The NewZealand Story hardware | 90 | 1988 |
 | jtkiwi | [kagekiu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=kagekiu&lang=en) | Kageki (US).mra | Taito The NewZealand Story hardware | 90 | 1988 |
 | jtkiwi | [tnzs](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tnzs&lang=en) | The NewZealand Story (W, New version).mra | Taito The NewZealand Story hardware | 0 | 1988 |
-| jtkiwi | [tnzsj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tnzsj&lang=en) | NO MAD | x | x | x |
+| jtkiwi | [tnzsj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tnzsj&lang=en) | *Not in MAD DB* | Taito The NewZealand Story hardware | N/A | N/A |
 | jtkiwi | [tnzsjo](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tnzsjo&lang=en) | The NewZealand Story (JP, old version).mra | Taito The NewZealand Story hardware | 0 | 1988 |
 | jtkiwi | [tnzso](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tnzso&lang=en) | The NewZealand Story (W, old version).mra | Taito The NewZealand Story hardware | 0 | 1988 |
 | jtkiwi | [tnzsoa](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tnzsoa&lang=en) | The NewZealand Story (W, unknown version).mra | Taito The NewZealand Story hardware | 0 | 1988 |
@@ -990,7 +991,7 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | jtpang | [blockr2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=blockr2&lang=en) | Block Block (W, 910910).mra | Capcom Mitchell | 270 | 1991 |
 | jtpang | [cworld](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=cworld&lang=en) | Capcom World (JP).mra | Capcom Mitchell | 0 | 1989 |
 | jtpang | [dokaben](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=dokaben&lang=en) | Dokaben (JP).mra | Capcom Mitchell | 0 | 1989 |
-| jtpang | [dokaben2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=dokaben2&lang=en) | NO MAD | x | x | x |
+| jtpang | [dokaben2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=dokaben2&lang=en) | *Not in MAD DB* | Capcom Mitchell | N/A | N/A |
 | jtpang | [pang](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pang&lang=en) | Pang.mra | Capcom Mitchell | 0 | 1989 |
 | jtpang | [pompingw](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pompingw&lang=en) | Pomping World (JP).mra | Capcom Mitchell | 0 | 1989 |
 | jtpang | [sbbros](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sbbros&lang=en) | Super Buster Bros. (US, 901001).mra | Capcom Mitchell | 0 | 1990 |
@@ -1053,8 +1054,8 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | jts16 | [sjryuko1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sjryuko1&lang=en) | Sukeban Jansi Ryuko (W, S16A, Set 1).mra | Sega System 16 | 0 | 1988 |
 | jts16 | [tetris](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tetris&lang=en) | Tetris (JP, S16A, Set 4).mra | Sega System 16 | 0 | 1988 |
 | jts16 | [tetris3](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tetris3&lang=en) | Tetris (JP, S16A, Set 3).mra | Sega System 16 | 0 | 1988 |
-| jts16 | [tetris3d](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tetris3d&lang=en) | NO MAD | x | x | x |
-| jts16 | [tetrisd](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tetrisd&lang=en) | NO MAD | x | x | x |
+| jts16 | [tetris3d](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tetris3d&lang=en) | *Not in MAD DB* | Sega System 16 | N/A | N/A |
+| jts16 | [tetrisd](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tetrisd&lang=en) | *Not in MAD DB* | Sega System 16 | N/A | N/A |
 | jts16 | [timescan1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=timescan1&lang=en) | Time Scanner (W, S16A, Set 1).mra | Sega System 16 | 270 | 1987 |
 | jts16 | [wb31](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wb31&lang=en) | Wonder Boy III - Monster Lair (JP, S16A, Set 1).mra | Sega System 16 | 0 | 1988 |
 | jts16 | [wb35](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wb35&lang=en) | Wonder Boy III - Monster Lair (JP, S16A, Set 5).mra | Sega System 16 | 0 | 1988 |
@@ -1128,7 +1129,7 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | jts16b | [tetris1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tetris1&lang=en) | Tetris (JP, S16B, Set 1).mra | Sega System 16 | 0 | 1988 |
 | jts16b | [tetris2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tetris2&lang=en) | Tetris (JP, S16B, Set 2).mra | Sega System 16 | 0 | 1988 |
 | jts16b | [timescan](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=timescan&lang=en) | Time Scanner (W, S16B, Set 2).mra | Sega System 16 | 270 | 1987 |
-| jts16b | [timescan3](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=timescan3&lang=en) | NO MAD | x | x | x |
+| jts16b | [timescan3](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=timescan3&lang=en) | *Not in MAD DB* | Sega System 16 | N/A | N/A |
 | jts16b | [toryumon](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=toryumon&lang=en) | Toryumon.mra | Sega System 16 | 0 | 1994 |
 | jts16b | [tturfu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tturfu&lang=en) | Tough Turf (US, Set 1).mra | Sega System 16 | 0 | 1989 |
 | jts16b | [ultracin](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ultracin&lang=en) | Waku Waku Ultraman Racing.mra | Sega System 16 | 0 | 1996 |
@@ -1162,7 +1163,7 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | jtshanon | [shangon1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=shangon1&lang=en) | Super Hang-On (mini ride-on).mra | Sega Out Run hardware | 0 | 1987 |
 | jtshanon | [shangon2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=shangon2&lang=en) | Super Hang-On (mini ride-on, Rev A).mra | Sega Out Run hardware | 0 | 1987 |
 | jtshanon | [shangon3](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=shangon3&lang=en) | Super Hang-On (sitdown - upright) [bl].mra | Sega Out Run hardware | 0 | 1987 |
-| jtshanon | [shangon3d](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=shangon3d&lang=en) | NO MAD | x | x | x |
+| jtshanon | [shangon3d](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=shangon3d&lang=en) | *Not in MAD DB* | Sega Out Run hardware | N/A | N/A |
 | jtshanon | [shangonle](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=shangonle&lang=en) | Limited Edition Hang-On.mra | Sega Out Run hardware | 0 | 1987 |
 | jtshouse | [bakutotu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bakutotu&lang=en) | Bakutotsu Kijuutei.mra | Namco System-1 | 0 | 1988 |
 | jtshouse | [berabohm](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=berabohm&lang=en) | Chou Zetsurinjin Berabowman (JP, Rev C).mra | Namco System-1 | 0 | 1988 |
@@ -1219,7 +1220,7 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | jtsimson | [vendetta2pu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vendetta2pu&lang=en) | Vendetta (AS, 2P, Ver. U).mra | Konami Vendetta hardware | 0 | 1991 |
 | jtsimson | [vendetta2pun](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vendetta2pun&lang=en) | Vendetta (W, 2P, Ver. -).mra | Konami Vendetta hardware | 0 | 1991 |
 | jtsimson | [vendetta2pw](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vendetta2pw&lang=en) | Vendetta (W, 2P, Ver. W).mra | Konami Vendetta hardware | 0 | 1991 |
-| jtsimson | [vendettan](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vendettan&lang=en) | NO MAD | x | x | x |
+| jtsimson | [vendettan](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vendettan&lang=en) | *Not in MAD DB* | Konami The Simpsons hardware | N/A | N/A |
 | jtsimson | [vendettar](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vendettar&lang=en) | Vendetta (US, 4P, Ver. R).mra | Konami Vendetta hardware | 0 | 1991 |
 | jtsimson | [vendettaun](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vendettaun&lang=en) | Vendetta (W, 4P, Ver. -).mra | Konami Vendetta hardware | 0 | 1991 |
 | jtsimson | [vendettaz](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vendettaz&lang=en) | Vendetta (AS, 4P, Ver. Z).mra | Konami Vendetta hardware | 0 | 1991 |
@@ -1250,17 +1251,17 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | jttmnt | [tmntua](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tmntua&lang=en) | Teenage Mutant Ninja Turtles (US, 4P, Ver. N).mra | Konami TMNT based | 0 | 1989 |
 | jttmnt | [tmntub](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tmntub&lang=en) | Teenage Mutant Ninja Turtles (US, 4P, Ver. J).mra | Konami TMNT based | 0 | 1989 |
 | jttmnt | [tmntuc](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tmntuc&lang=en) | Teenage Mutant Ninja Turtles (US, 4P, Ver. H).mra | Konami TMNT based | 0 | 1989 |
-| jttoki | [juju](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=juju&lang=en) | NO MAD | x | x | x |
+| jttoki | [juju](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=juju&lang=en) | *Not in MAD DB* | Seibu Toki hardware | N/A | N/A |
 | jttoki | [toki](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=toki&lang=en) | Toki (W, Set 1).mra | Seibu Toki hardware | 0 | 1989 |
-| jttoki | [tokia](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tokia&lang=en) | NO MAD | x | x | x |
-| jttoki | [tokiu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tokiu&lang=en) | NO MAD | x | x | x |
-| jttoki | [tokiua](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tokiua&lang=en) | NO MAD | x | x | x |
+| jttoki | [tokia](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tokia&lang=en) | *Not in MAD DB* | Seibu Toki hardware | N/A | N/A |
+| jttoki | [tokiu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tokiu&lang=en) | *Not in MAD DB* | Seibu Toki hardware | N/A | N/A |
+| jttoki | [tokiua](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tokiua&lang=en) | *Not in MAD DB* | Seibu Toki hardware | N/A | N/A |
 | jttora | [f1dream](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=f1dream&lang=en) | F-1 Dream.mra | Capcom CPS-0 | 0 | 1988 |
 | jttora | [tigeroad](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tigeroad&lang=en) | Tiger Road.mra | Capcom CPS-0 | 0 | 1987 |
 | jttora | [tigeroadu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tigeroadu&lang=en) | Tiger Road (US, Romstar).mra | Capcom CPS-0 | 0 | 1987 |
 | jttora | [toramich](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=toramich&lang=en) | Torae no Michi (JP).mra | Capcom CPS-0 | 0 | 1987 |
 | jttrack | [hyprolym](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=hyprolym&lang=en) | Hyper Olympic.mra | Konami 6809 based | 0 | 1983 |
-| jttrack | [hyprolyma](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=hyprolyma&lang=en) | NO MAD | x | x | x |
+| jttrack | [hyprolyma](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=hyprolyma&lang=en) | *Not in MAD DB* | Konami 6809 based | N/A | N/A |
 | jttrack | [trackfld](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=trackfld&lang=en) | Track & Field.mra | Konami 6809 based | 0 | 1983 |
 | jttrack | [trackfldc](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=trackfldc&lang=en) | Track & Field (Centuri).mra | Konami 6809 based | 0 | 1983 |
 | jttrojan | [avengers](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=avengers&lang=en) | Avengers (US, Rev C).mra | Capcom CPS-0 | 0 | 1987 |
@@ -1272,7 +1273,7 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | jttrojan | [trojan](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=trojan&lang=en) | Trojan (US, Set 1).mra | Capcom CPS-0 | 0 | 1986 |
 | jttrojan | [trojana](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=trojana&lang=en) | Trojan (US, Set 2).mra | Capcom CPS-0 | 0 | 1986 |
 | jttrojan | [trojanj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=trojanj&lang=en) | Tatakai no Banka (JP).mra | Capcom CPS-0 | 0 | 1986 |
-| jttrojan | [trojanjo](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=trojanjo&lang=en) | NO MAD | x | x | x |
+| jttrojan | [trojanjo](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=trojanjo&lang=en) | *Not in MAD DB* | Capcom CPS-0 | N/A | N/A |
 | jttrojan | [trojanr](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=trojanr&lang=en) | Trojan (Romstar).mra | Capcom CPS-0 | 0 | 1986 |
 | jttwin16 | [cuebrickj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=cuebrickj&lang=en) | Cue Brick (JP).mra | Konami Twin16 hardware | 0 | 1989 |
 | jttwin16 | [darkadv](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=darkadv&lang=en) | Dark Adventure.mra | Konami Twin16 hardware | 0 | 1987 |
@@ -1298,7 +1299,7 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | jtwc | [tehkanwcd](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tehkanwcd&lang=en) | Tehkan World Cup (Set 4, earlier).mra | Tecmo Tehkan hardware | 0 | 1985 |
 | jtwc | [tehkanwch](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tehkanwch&lang=en) | Tehkan World Cup (1986 Year Hack).mra | Tecmo Tehkan hardware | 0 | 1985 |
 | jtwwfss | [wwfsstar](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wwfsstar&lang=en) | WWF Superstars (EU).mra | Technos Unique | 0 | 1989 |
-| jtwwfss | [wwfsstarc](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wwfsstarc&lang=en) | NO MAD | x | x | x |
+| jtwwfss | [wwfsstarc](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wwfsstarc&lang=en) | *Not in MAD DB* | Technos Unique | N/A | N/A |
 | jtwwfss | [wwfsstarj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wwfsstarj&lang=en) | WWF Superstars (JP).mra | Technos Unique | 0 | 1989 |
 | jtwwfss | [wwfsstaru4](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wwfsstaru4&lang=en) | WWF Superstars (US, Rev 4).mra | Technos Unique | 0 | 1989 |
 | jtwwfss | [wwfsstaru6](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wwfsstaru6&lang=en) | WWF Superstars (US, Rev 6).mra | Technos Unique | 0 | 1989 |
@@ -1488,7 +1489,7 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | pacman | [pmextrap](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pmextrap&lang=en) | Pac-Man Extra Plus [hb].mra | Namco Pac-Man hardware | 90 | 1980 |
 | pacman | [pmfever](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pmfever&lang=en) | Pac-Man Fever [hb].mra | Namco Pac-Man hardware | 90 | 1980 |
 | pacman | [pmgrenp](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pmgrenp&lang=en) | Pac-Man Green Plus [hb].mra | Namco Pac-Man hardware | 90 | 1980 |
-| pacman | [pollen angel](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pollen%20angel&lang=en) | NO MAD | x | x | x |
+| pacman | [pollen angel](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pollen%20angel&lang=en) | *Not in MAD DB* | Namco Pac-Man hardware | N/A | N/A |
 | pacman | [ponpoko](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ponpoko&lang=en) | Ponpoko.mra | Namco Pac-Man hardware | 0 | 1982 |
 | pacman | [ponpokov](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ponpokov&lang=en) | Ponpoko (Venture Line).mra | Namco Pac-Man hardware | 0 | 1982 |
 | pacman | [pplusad](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pplusad&lang=en) | Pacman Plus After Dark [hb].mra | Namco Pac-Man hardware | 90 | 1980 |
@@ -1563,18 +1564,18 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | pooyan | [pooyan](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pooyan&lang=en) | Pooyan.mra | Konami Z80 | 90 | 1982 |
 | pooyan | [pooyandiag](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pooyandiag&lang=en) | Pooyan (Tester) [hb].mra | Konami Z80 | 90 | 1982 |
 | pooyan | [pooyans](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pooyans&lang=en) | Pooyan (Stern).mra | Konami Z80 | 90 | 1982 |
-| qbert | [curvebal](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=curvebal&lang=en) | NO MAD | x | x | x |
-| qbert | [insector](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=insector&lang=en) | NO MAD | x | x | x |
-| qbert | [krull](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=krull&lang=en) | NO MAD | x | x | x |
+| qbert | [curvebal](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=curvebal&lang=en) | *Not in MAD DB* | Konami Unique | N/A | N/A |
+| qbert | [insector](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=insector&lang=en) | *Not in MAD DB* | Konami Unique | N/A | N/A |
+| qbert | [krull](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=krull&lang=en) | *Not in MAD DB* | Konami Unique | N/A | N/A |
 | qbert | [mplanets](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mplanets&lang=en) | Mad Planets.mra | Konami Unique | 270 | 1982 |
-| qbert | [myqbert](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=myqbert&lang=en) | NO MAD | x | x | x |
+| qbert | [myqbert](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=myqbert&lang=en) | *Not in MAD DB* | Konami Unique | N/A | N/A |
 | qbert | [qbert](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=qbert&lang=en) | Q'bert (US, Set 1).mra | Konami Unique | 270 | 1982 |
-| qbert | [qberta](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=qberta&lang=en) | NO MAD | x | x | x |
-| qbert | [qbertj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=qbertj&lang=en) | NO MAD | x | x | x |
+| qbert | [qberta](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=qberta&lang=en) | *Not in MAD DB* | Konami Unique | N/A | N/A |
+| qbert | [qbertj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=qbertj&lang=en) | *Not in MAD DB* | Konami Unique | N/A | N/A |
 | qbert | [qbertqub](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=qbertqub&lang=en) | Q'bert Qubes.mra | Konami Unique | 270 | 1982 |
-| qbert | [qberttst](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=qberttst&lang=en) | NO MAD | x | x | x |
-| qbert | [sqbert](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sqbert&lang=en) | NO MAD | x | x | x |
-| qbert | [tylz](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tylz&lang=en) | NO MAD | x | x | x |
+| qbert | [qberttst](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=qberttst&lang=en) | *Not in MAD DB* | Konami Unique | N/A | N/A |
+| qbert | [sqbert](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sqbert&lang=en) | *Not in MAD DB* | Konami Unique | N/A | N/A |
+| qbert | [tylz](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tylz&lang=en) | *Not in MAD DB* | Konami Unique | N/A | N/A |
 | rallyx | [nrallyx](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nrallyx&lang=en) | New Rally-X.mra | Namco Pac-Man hardware | 0 | 1981 |
 | rallyx | [nrallyxb](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nrallyxb&lang=en) | New Rally-X [bl].mra | Namco Pac-Man hardware | 0 | 1981 |
 | rallyx | [rallyx](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rallyx&lang=en) | Rally-X (32k Ver).mra | Namco Pac-Man hardware | 0 | 1980 |
@@ -1641,7 +1642,3 @@ This report provides an overview of the arcade games for the **neptUNO+** FPGA.
 | traverseusa | [travrusab](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=travrusab&lang=en) | Traverse (US) [bl].mra | Irem M52 | 270 | 1983 |
 | tropicalangel | [newtangl](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=newtangl&lang=en) | New Tropical Angel.mra | Irem M57 | 0 | 1983 |
 | tropicalangel | [troangel](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=troangel&lang=en) | Tropical Angel.mra | Irem M57 | 0 | 1983 |
-
----
-
-✅ **End of Report - Generated on 2025-04-15**
