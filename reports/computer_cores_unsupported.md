@@ -29,7 +29,7 @@ This report provides an overview of the computer cores for the **neptUNO+** FPGA
 | casio_pv-2000 | Casio PV-2000 | N/A | [Mister - MiSTer-devel/Casio_PV-2000_MiSTer](https://github.com/MiSTer-devel/Casio_PV-2000_MiSTer) | Official_Distribution_MiSTer |  |
 | coco2 | Tandy Color Computer 2 (CoCo2) and Dragon 32 | N/A | [Mister - MiSTer-devel/CoCo2_MiSTer](https://github.com/MiSTer-devel/CoCo2_MiSTer) | Official_Distribution_MiSTer |  |
 | coco3 | CoCo3 | N/A | [Mister - MiSTer-devel/CoCo3_MiSTer](https://github.com/MiSTer-devel/CoCo3_MiSTer) | Official_Distribution_MiSTer |  |
-| edsac | EDSAC | N/A | N/A | Official_Distribution_MiSTer |  |
+| edsac | EDSAC | N/A | [Mister - MiSTer-devel/EDSAC_MiSTer](https://github.com/MiSTer-devel/EDSAC_MiSTer) | Official_Distribution_MiSTer |  |
 | eg2000 | EACA EG2000 Colour Genie | N/A | [Mister - MiSTer-devel/EG2000_MiSTer](https://github.com/MiSTer-devel/EG2000_MiSTer) | Official_Distribution_MiSTer |  |
 | galaksija | Galaksija | N/A | [Mister - MiSTer-devel/Galaksija_MiSTer](https://github.com/MiSTer-devel/Galaksija_MiSTer) | Official_Distribution_MiSTer |  |
 | homelab | Homelab | N/A | [Mister - MiSTer-devel/Homelab-MiSTer](https://github.com/MiSTer-devel/Homelab-MiSTer) | Official_Distribution_MiSTer |  |
