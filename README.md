@@ -1,6 +1,3 @@
-> [!WARNING]
-> Please note: This is a work in progress. Content is subject to change, and updates are ongoing.
-
 # neptUNO+ status
 
 > [!NOTE]
@@ -10,7 +7,7 @@
 
 ## Reports
 
-### Arcade (WIP)
+### Arcade
 
 - [Supported cores](./reports/arcade_cores_supported.md)
 - [Unsupported cores](./reports/arcade_cores_unsupported.md)
