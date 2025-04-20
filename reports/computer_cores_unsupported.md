@@ -1,7 +1,7 @@
 # neptUNO+ FPGA Report: Computer Cores (Unsupported)
 
 This report provides an overview of the unsupported computer cores for the **neptUNO+** FPGA.
-Report generated on: 2025-04-15
+Report generated on: 2025-04-16
 
 ## 📊 Summary
 
@@ -30,6 +30,7 @@ Report generated on: 2025-04-15
 | bk0011m | BK0011M |  | Mister - [MiSTer-devel/BK0011M_MiSTer](https://github.com/MiSTer-devel/BK0011M_MiSTer) | Official_Distribution_MiSTer |  |
 | c128 | C128 |  | Mister - [MiSTer-devel/C128_MiSTer](https://github.com/MiSTer-devel/C128_MiSTer) | Official_Distribution_MiSTer |  |
 | casio_pv-2000 | Casio PV-2000 |  | Mister - [MiSTer-devel/Casio_PV-2000_MiSTer](https://github.com/MiSTer-devel/Casio_PV-2000_MiSTer) | Official_Distribution_MiSTer |  |
+| cobra | Cobra (DIY) |  | Mist - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Computer_MiST/ITCI%20-%20Cobra_MiST) | BigMist |  |
 | coco2 | Tandy Color Computer 2 (CoCo2) and Dragon 32 |  | Mister - [MiSTer-devel/CoCo2_MiSTer](https://github.com/MiSTer-devel/CoCo2_MiSTer) | Official_Distribution_MiSTer |  |
 | coco3 | CoCo3 |  | Mister - [MiSTer-devel/CoCo3_MiSTer](https://github.com/MiSTer-devel/CoCo3_MiSTer) | Official_Distribution_MiSTer |  |
 | edsac | EDSAC |  | Mister - [MiSTer-devel/EDSAC_MiSTer](https://github.com/MiSTer-devel/EDSAC_MiSTer) | Official_Distribution_MiSTer |  |
@@ -40,7 +41,6 @@ Report generated on: 2025-04-15
 | kc87 | Robotron - KC87 |  | Mist - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Computer_MiST/Robotron%20-%20KC87_MiST) | gyurco |  |
 | laser310 | Laser310 |  | Mister - [MiSTer-devel/Laser310_MiSTer](https://github.com/MiSTer-devel/Laser310_MiSTer) | Official_Distribution_MiSTer |  |
 | macplus | Macintosh Plus/SE |  | Mister - [MiSTer-devel/MacPlus_MiSTer](https://github.com/MiSTer-devel/MacPlus_MiSTer)<br>Mist - [mist-devel/plus_too](https://github.com/mist-devel/plus_too) | Official_Distribution_MiSTer |  |
-| mega64 | Mega65 |  | Neptuno_plus - [benitoss/Mega65_Altera](https://github.com/benitoss/Mega65_Altera) |  | Core neptUNO+ by benitoss |
 | minimig | Amiga (Minimig AGA) |  | Mister - [MiSTer-devel/Minimig-AGA_MiSTer](https://github.com/MiSTer-devel/Minimig-AGA_MiSTer)<br>Sidi128 - [BigMist/MinimigAGA-MiST-TC64](https://github.com/BigMist/MinimigAGA-MiST-TC64/tree/master) | Official_Distribution_MiSTer |  |
 | msx | MSX2/Plus/3 |  | Mister - [MiSTer-devel/MSX_MiSTer](https://github.com/MiSTer-devel/MSX_MiSTer) | Official_Distribution_MiSTer |  |
 | multicomp | MultiComp |  | Mister - [MiSTer-devel/MultiComp_MiSTer](https://github.com/MiSTer-devel/MultiComp_MiSTer) | Official_Distribution_MiSTer |  |

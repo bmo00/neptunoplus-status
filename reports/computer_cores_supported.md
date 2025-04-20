@@ -1,7 +1,7 @@
 # neptUNO+ FPGA Report: Computer Cores (Supported)
 
 This report provides an overview of the supported computer cores for the **neptUNO+** FPGA.
-Report generated on: 2025-04-15
+Report generated on: 2025-04-16
 
 ## 📊 Summary
 
@@ -22,10 +22,10 @@ Report generated on: 2025-04-15
 | atarist | Atari ST/STe |  | Mister - [MiSTer-devel/AtariST_MiSTer](https://github.com/MiSTer-devel/AtariST_MiSTer)<br>Neptuno_plus - [delgrom/MiSTery](https://github.com/delgrom/MiSTery) | Official_Distribution_MiSTer |  |
 | c16 | Commodore 264 (C16 and Plus/4) |  | Mister - [MiSTer-devel/C16_MiSTer](https://github.com/MiSTer-devel/C16_MiSTer)<br>Mist - [mist-devel/c16](https://github.com/mist-devel/c16)<br>Neptuno_plus - [rampa069/c16](https://github.com/rampa069/c16) | Official_Distribution_MiSTer |  |
 | c64 | Commodore 64 |  | Mister - [MiSTer-devel/C64_MiSTer](https://github.com/MiSTer-devel/C64_MiSTer)<br>Mist - [mist-devel/c64](https://github.com/mist-devel/c64)<br>Neptuno_plus - [delgrom/c64](https://github.com/delgrom/c64) | Official_Distribution_MiSTer |  |
-| cobra | Cobra (DIY) |  | Mist - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Computer_MiST/ITCI%20-%20Cobra_MiST) | BigMist |  |
 | colecoadam | Coleco Adam |  | Mister - [MiSTer-devel/ColecoAdam_MiSTer](https://github.com/MiSTer-devel/ColecoAdam_MiSTer)<br>Mist - [mist-devel/colecovision_fpga](https://github.com/mist-devel/colecovision_fpga)<br>Neptuno_plus - [BigMist/ColecoVision](https://github.com/BigMist/ColecoVision) | Official_Distribution_MiSTer |  |
 | jupiter | Jupiter Ace |  | Mister - [MiSTer-devel/Jupiter_MiSTer](https://github.com/MiSTer-devel/Jupiter_MiSTer)<br>Mist - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Computer_MiST/Jupiter%20Cantab%20-%20JupiterACE_MiST) | Official_Distribution_MiSTer | Core neptUNO+ by Kyp069 |
 | lynx48 | Camputers Lynx 48 |  | Mister - [MiSTer-devel/Lynx48_MiSTer](https://github.com/MiSTer-devel/Lynx48_MiSTer) | Official_Distribution_MiSTer |  |
+| mega65 | Mega65 |  | Neptuno_plus - [benitoss/Mega65_Altera](https://github.com/benitoss/Mega65_Altera) |  | Core neptUNO+ by benitoss |
 | msx-cart | ESE MSX3 (Cartridge required) |  | Neptuno_plus - [delgrom/MSX-CART](https://github.com/delgrom/MSX-CART) | BigMist |  |
 | msx1 | MSX1 |  | Mister - [MiSTer-devel/MSX1_MiSTer](https://github.com/MiSTer-devel/MSX1_MiSTer)<br>Mist - [mist-devel/MSX_MiST](https://github.com/mist-devel/MSX_MiST)<br>Neptuno_plus - [BigMist/msx1fpga](https://github.com/BigMist/msx1fpga) | Official_Distribution_MiSTer | Ported by @rampa069 |
 | oric | Oric-1 and Oric Atmos |  | Mister - [MiSTer-devel/Oric_MiSTer](https://github.com/MiSTer-devel/Oric_MiSTer)<br>Neptuno_plus - [BigMist/Oric](https://github.com/BigMist/Oric)<br>Sidi128 - [BigMist/Oric](https://github.com/BigMist/Oric) | Official_Distribution_MiSTer |  |

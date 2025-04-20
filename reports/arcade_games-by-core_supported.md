@@ -1,7 +1,7 @@
 # neptUNO+ FPGA Report: Arcade Games by core (Supported)
 
 This report provides an overview of the supported arcade games by core for the **neptUNO+** FPGA.
-Report generated on: 2025-04-15
+Report generated on: 2025-04-16
 
 ## 📊 Summary
 
@@ -1390,7 +1390,7 @@ Report generated on: 2025-04-15
 - `Shinnyuushain Tooru-kun.mra` (1984)
 - `Shin-ip Sawon - Seok Dol-i.mra` (1984)
 
-### jtmx5k (Konami 6309 based))
+### jtmx5k (Konami 6309 based)
 
 **Parents:**
 

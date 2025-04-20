@@ -1,7 +1,7 @@
 # neptUNO+ FPGA Report: Arcade Cores (Supported)
 
 This report provides an overview of the supported arcade cores for the **neptUNO+** FPGA.
-Report generated on: 2025-04-15
+Report generated on: 2025-04-16
 
 ## 📊 Summary
 
@@ -69,7 +69,7 @@ Report generated on: 2025-04-15
 | jtlabrun | Konami Contra based |  | Mister - [jotego/jtcores](https://github.com/jotego/jtcores/tree/master/cores/labrun) | JOTEGO |  |
 | jtmidres | Data East MEC-M1 |  | Mister - [jotego/jtcores](https://github.com/jotego/jtcores/tree/master/cores/midres) | JOTEGO |  |
 | jtmikie | Konami 6809 based |  | Mister - [jotego/jtcores](https://github.com/jotego/jtcores/tree/master/cores/mikie) | JOTEGO |  |
-| jtmx5k | Konami 6309 based) |  | Mister - [jotego/jtcores](https://github.com/jotego/jtcores/tree/master/cores/mx5k) | JOTEGO |  |
+| jtmx5k | Konami 6309 based |  | Mister - [jotego/jtcores](https://github.com/jotego/jtcores/tree/master/cores/mx5k) | JOTEGO |  |
 | jtninja | Data East MEC-M1 |  | Mister - [jotego/jtcores](https://github.com/jotego/jtcores/tree/master/cores/ninja) | JOTEGO |  |
 | jtoutrun | Sega Out Run hardware |  | Mister - [jotego/jtcores](https://github.com/jotego/jtcores/tree/master/cores/outrun) | JOTEGO |  |
 | jtpang | Capcom Mitchell |  | Mister - [jotego/jtcores](https://github.com/jotego/jtcores/tree/master/cores/pang) | JOTEGO |  |
