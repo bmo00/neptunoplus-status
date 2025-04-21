@@ -1,13 +1,13 @@
 # neptUNO+ FPGA Report: Arcade Cores (Unsupported)
 
 This report provides an overview of the unsupported arcade cores for the **neptUNO+** FPGA.
-Report generated on: 2025-04-16
+Report generated on: 2025-04-22
 
 ## 📊 Summary
 
-- **Total Cores in Local DB:** 240
+- **Total Cores in Local DB:** 241
 - **Supported Cores:** 106
-- **Unsupported Cores:** 134
+- **Unsupported Cores:** 135
 
 ---
 
@@ -134,6 +134,7 @@ Report generated on: 2025-04-16
 | theend | Konami Scramble Hardware |  | Mist - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Konami%20Scramble%20Hardware/TheEnd_MiST) | MiST_Devel |  |
 | tiamc1 | TIAMC1 |  | Mister - [MiSTer-devel/Arcade-TIAMC1_MiSTer](https://github.com/MiSTer-devel/Arcade-TIAMC1_MiSTer) | Distribution_MiSTer |  |
 | timepilot | Konami Z80 |  | Mister - [MiSTer-devel/Arcade-TimePilot_MiSTer](https://github.com/MiSTer-devel/Arcade-TimePilot_MiSTer)<br>Mist - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Konami%20Timepilot%20Hardware)<br>Sidi128 - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Konami%20Timepilot%20Hardware) | Distribution_MiSTer |  |
+| tmnt2mister | Konami TMNT 2 based |  | N/A | Insert-Coin |  |
 | tnkiii | SNK Triple Z80 |  | Mister - [MiSTer-devel/Arcade-TNKIII_MiSTer](https://github.com/MiSTer-devel/Arcade-TNKIII_MiSTer) | Distribution_MiSTer |  |
 | toki |  |  | N/A | Insert-Coin |  |
 | truxton2 | Toaplan 2 |  | Mister - [atrac17/Toaplan2](https://github.com/atrac17/Toaplan2/tree/main/cores/truxton2) | Coin-OpCollection |  |

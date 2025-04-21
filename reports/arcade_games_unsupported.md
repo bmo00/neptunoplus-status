@@ -1,13 +1,13 @@
 # neptUNO+ FPGA Report: Arcade Games (Unsupported)
 
 This report provides an overview of the unsupported arcade games for the **neptUNO+** FPGA.
-Report generated on: 2025-04-16
+Report generated on: 2025-04-22
 
 ## 📊 Summary
 
-- **Total Games (MRAs Found):** 2363
+- **Total Games (MRAs Found):** 2370
 - **Games for Supported Cores:** 1627
-- **Games for Unsupported Cores:** 736
+- **Games for Unsupported Cores:** 743
 
 ---
 
@@ -40,7 +40,7 @@ Report generated on: 2025-04-16
 | astrocade | [wow](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wow&lang=en) | Wizard of Wor.mra | Midway Astrocade | 0 | 1980 |
 | atarisys1 | [indytemp4](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=indytemp4&lang=en) | Indiana Jones (Set 4).mra | Atari System-1 | 0 | 1985 |
 | atarisys1 | [marble](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=marble&lang=en) | Marble Madness (Set 1).mra | Atari System-1 | 0 | 1984 |
-| atarisys1 | [marble5](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=marble5&lang=en) | *Not in MAD DB* | Atari System-1 | N/A | N/A |
+| atarisys1 | [marble5](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=marble5&lang=en) | Marble Madness (Set 5 -LSI).mra | Atari System-1 | 0 | 1984 |
 | atarisys1 | [peterpak](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=peterpak&lang=en) | Peter Pack Rat.mra | Atari System-1 | 0 | 1984 |
 | atarisys1 | [roadblst](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=roadblst&lang=en) | Road Blasters (Upright, Rev 4).mra | Atari System-1 | 0 | 1987 |
 | atarisys1 | [roadrunn](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=roadrunn&lang=en) | Road Runner (Rev 2).mra | Atari System-1 | 0 | 1985 |
@@ -76,7 +76,7 @@ Report generated on: 2025-04-16
 | bgareggamister | [bgaregga](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bgaregga&lang=en) | Battle Garegga (EU- US - JP - AS).mra | Toaplan 2 | 270 | 1996 |
 | bgareggamister | [bgareggacn](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bgareggacn&lang=en) | Battle Garegga - Type 2 (DK- CN).mra | Toaplan 2 | 270 | 1996 |
 | bgareggamister | [bgareggahk](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bgareggahk&lang=en) | Battle Garegga (AT- HK).mra | Toaplan 2 | 270 | 1996 |
-| bgareggamister | [bgareggak](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bgareggak&lang=en) | *Not in MAD DB* | Toaplan 2 | N/A | N/A |
+| bgareggamister | [bgareggak](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bgareggak&lang=en) | Battle Garegga (KO - GR).mra | Toaplan 2 | 270 | 1996 |
 | bgareggamister | [bgaregganv](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bgaregganv&lang=en) | Battle Garegga - New Version (AT- HK).mra | Toaplan 2 | 270 | 1996 |
 | bgareggamister | [bgareggat](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bgareggat&lang=en) | Battle Garegga (Location Test).mra | Toaplan 2 | 270 | 1996 |
 | bgareggamister | [bgareggat2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bgareggat2&lang=en) | Battle Garegga - Type 2 (EU - US - JP - AS).mra | Toaplan 2 | 270 | 1996 |
@@ -296,6 +296,8 @@ Report generated on: 2025-04-16
 | gauntlet | [vindctr2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vindctr2&lang=en) | Vindicators Part II (Rev 3).mra | Atari Gauntlet based | 0 | 1985 |
 | gauntlet | [vindctr2r1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vindctr2r1&lang=en) | Vindicators Part II (Rev 1).mra | Atari Gauntlet based | 0 | 1985 |
 | gauntlet | [vindctr2r2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vindctr2r2&lang=en) | Vindicators Part II (Rev 2).mra | Atari Gauntlet based | 0 | 1985 |
+| ikacoresuprloco | [suprloco](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=suprloco&lang=en) | Super Locomotive (W, Rev A).mra | Sega Unique | 0 | 1982 |
+| ikacoresuprloco | [suprlocoo](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=suprlocoo&lang=en) | Super Locomotive (Old).mra | Sega Unique | 0 | 1982 |
 | ikariwarriors | [ikari](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ikari&lang=en) | Ikari Warriors.mra | SNK Triple Z80 | 270 | 1986 |
 | ikariwarriors | [victroad](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=victroad&lang=en) | Victory Road.mra | SNK Triple Z80 | 270 | 1986 |
 | inferno | [inferno](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=inferno&lang=en) | Inferno (Williams).mra | Williams 2nd Generation | 0 | 1984 |
@@ -320,7 +322,7 @@ Report generated on: 2025-04-16
 | jackal | [topgunr](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=topgunr&lang=en) | Top Gunner (US).mra | Konami Double Dribble based | 90 | 1986 |
 | joust2 | [joust2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=joust2&lang=en) | Joust 2 - Survival of the Fittest (Rev 2).mra | Williams 2nd Generation | 270 | 1986 |
 | joust2 | [joust2r1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=joust2r1&lang=en) | Joust 2 - Survival of the Fittest (Rev 1).mra | Williams 2nd Generation | 270 | 1986 |
-| jtflstory | [bronx](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bronx&lang=en) | *Not in MAD DB* | Taito The FairyLand Story hardware | N/A | N/A |
+| jtflstory | [bronx](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bronx&lang=en) | Bronx [bl].mra | Taito N.Y. Captor hardware | 0 | 1986 |
 | jtflstory | [colt](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=colt&lang=en) | Colt [bl].mra | Taito N.Y. Captor hardware | 0 | 1985 |
 | jtflstory | [flstory](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=flstory&lang=en) | The FairyLand Story.mra | Taito The FairyLand Story hardware | 0 | 1985 |
 | jtflstory | [flstoryo](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=flstoryo&lang=en) | The FairyLand Story (Earlier).mra | Taito The FairyLand Story hardware | 0 | 1985 |
@@ -429,8 +431,8 @@ Report generated on: 2025-04-16
 | penguinkunwars | [pkunwarj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pkunwarj&lang=en) | Penguin-Kun Wars (JP).mra | UPL Unique | 0 | 1985 |
 | performan | [perfrman](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=perfrman&lang=en) | Performan (JP).mra | Toaplan Slap Fight hardware | 270 | 1985 |
 | performan | [perfrmanu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=perfrmanu&lang=en) | Performan (US).mra | Toaplan Slap Fight hardware | 270 | 1985 |
-| pipibibs | [pipibibs](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pipibibs&lang=en) | Pipi and Bibis - Whoopee!! (Z80 sound cpu, set 1).mra | Toaplan 2 | 0 | 1991 |
-| pipibibs | [pipibibsa](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pipibibsa&lang=en) | Pipi and Bibis - Whoopee!! (Z80 sound cpu, set 2).mra | Toaplan 2 | 0 | 1991 |
+| pipibibs | [pipibibs](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pipibibs&lang=en) | Pipi & Bibis - Whoopee!! (Z80 sound cpu, Set 1).mra | Toaplan 2 | 0 | 1991 |
+| pipibibs | [pipibibsa](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pipibibsa&lang=en) | Pipi & Bibis - Whoopee!! (Z80 sound cpu, Set 2).mra | Toaplan 2 | 0 | 1991 |
 | pleiads | [capitol](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=capitol&lang=en) | Capitol.mra | Taito Unique | 90 | 1981 |
 | pleiads | [pleiadbl](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pleiadbl&lang=en) | Pleiades (Set 1) [bl].mra | Taito Unique | 90 | 1981 |
 | pleiads | [pleiadce](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pleiadce&lang=en) | Pleiades (Centuri).mra | Taito Unique | 90 | 1981 |
@@ -459,8 +461,8 @@ Report generated on: 2025-04-16
 | salamander | [lifefrcej](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=lifefrcej&lang=en) | Life Force (JP).mra | Konami GX400 | 0 | 1986 |
 | salamander | [salamand](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=salamand&lang=en) | Salamander (Ver. D).mra | Konami GX400 | 0 | 1986 |
 | salamander | [salamandj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=salamandj&lang=en) | Salamander (Ver. J).mra | Konami GX400 | 0 | 1986 |
-| salamander | [spclone](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=spclone&lang=en) | *Not in MAD DB* | Konami GX400 | N/A | N/A |
-| salamander | [spcloneo](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=spcloneo&lang=en) | *Not in MAD DB* | Konami GX400 | N/A | N/A |
+| salamander | [spclone](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=spclone&lang=en) | Salamander (SP Ver).mra | Konami GX400 | 0 | 1986 |
+| salamander | [spcloneo](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=spcloneo&lang=en) | Salamander (SP Ver Old).mra | Konami GX400 | 0 | 1986 |
 | saturn | [saturnstv](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=saturnstv&lang=en) | *Not in MAD DB* |  | N/A | N/A |
 | saturnstv | [astrass](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=astrass&lang=en) | *Not in MAD DB* |  | N/A | N/A |
 | saturnstv | [bakubaku](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bakubaku&lang=en) | *Not in MAD DB* |  | N/A | N/A |
@@ -647,7 +649,7 @@ Report generated on: 2025-04-16
 | spaceinvaders | [lrescue](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=lrescue&lang=en) | Lunar Rescue.mra | Taito 8080 | 270 | 1979 |
 | spaceinvaders | [lupin3a](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=lupin3a&lang=en) | Lupin III (Set 2).mra | Taito 8080 | 270 | 1980 |
 | spaceinvaders | [maze](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=maze&lang=en) | Amazing Maze.mra | Midway 8080 | 0 | 1976 |
-| spaceinvaders | [polaris](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=polaris&lang=en) | *Not in MAD DB* | Midway-Taito 8080 | N/A | N/A |
+| spaceinvaders | [polaris](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=polaris&lang=en) | Polaris (LV).mra | Midway 8080 | 270 | 1980 |
 | spaceinvaders | [schaser](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=schaser&lang=en) | Space Chaser.mra | Taito 8080 | 270 | 1979 |
 | spaceinvaders | [seawolf](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=seawolf&lang=en) | Sea Wolf (Set 1).mra | Midway 8080 | 0 | 1976 |
 | spaceinvaders | [shuffle](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=shuffle&lang=en) | Shuffleboard.mra | Midway 8080 | 90 | 1978 |
@@ -663,8 +665,6 @@ Report generated on: 2025-04-16
 | subs | [subs](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=subs&lang=en) | Subs.mra | Atari 6502 | 0 | 1978 |
 | superbreakout | [sbrkout](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sbrkout&lang=en) | Super Breakout (Rev 04).mra | Atari 6502 | 270 | 1978 |
 | superbreakout | [sbrkoutct](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sbrkoutct&lang=en) | Super Breakout (Cocktail, Prototype).mra | Atari 6502 | 270 | 1978 |
-| suprloco | [suprloco](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=suprloco&lang=en) | *Not in MAD DB* | Super Locomotive | N/A | N/A |
-| suprloco | [suprlocoo](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=suprlocoo&lang=en) | Super Locomotive (W, Rev A).mra | Sega Unique | 0 | 1982 |
 | taitosj | [alpine](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=alpine&lang=en) | Alpine Ski (Set 1).mra | Taito System SJ | 270 | 1981 |
 | taitosj | [bioatack](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bioatack&lang=en) | Bio Attack.mra | Taito System SJ | 270 | 1983 |
 | taitosj | [elevatorb](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=elevatorb&lang=en) | Elevator Action [bl].mra | Taito System SJ | 0 | 1983 |
@@ -687,7 +687,7 @@ Report generated on: 2025-04-16
 | tecmo | [rygarj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rygarj&lang=en) | Arashi no Senshi.mra | Tecmo hardware | 0 | 1986 |
 | tecmo | [silkworm](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=silkworm&lang=en) | Silk Worm.mra | Tecmo hardware | 0 | 1988 |
 | tekipaki | [tekipaki](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tekipaki&lang=en) | Teki Paki.mra | Toaplan 2 | 0 | 1991 |
-| tekipaki | [whoopee](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=whoopee&lang=en) | *Not in MAD DB* | Toaplan 2 | N/A | N/A |
+| tekipaki | [whoopee](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=whoopee&lang=en) | Pipi & Bibis - Whoopee!! (Teki Paki hardware).mra | Toaplan 2 | 0 | 1991 |
 | tiamc1 | [bilyard](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bilyard&lang=en) | Billiard.mra | TIAMC1 | 0 | 1988 |
 | tiamc1 | [gorodki](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gorodki&lang=en) | Gorodki.mra | TIAMC1 | 0 | 1988 |
 | tiamc1 | [konek](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=konek&lang=en) | Konek Gorbunok.mra | TIAMC1 | 0 | 1988 |
@@ -698,8 +698,15 @@ Report generated on: 2025-04-16
 | timepilot | [timeplt](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=timeplt&lang=en) | Time Pilot.mra | Konami Z80 | 90 | 1982 |
 | timepilot | [timeplta](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=timeplta&lang=en) | Time Pilot (Atari).mra | Konami Z80 | 90 | 1982 |
 | timepilot | [timepltc](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=timepltc&lang=en) | Time Pilot (Centuri).mra | Konami Z80 | 90 | 1982 |
+| tmnt2mister | [tmht22pe](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tmht22pe&lang=en) | Teenage Mutant Hero Turtles - Turtles in Time (2P, Ver EBA).mra | Konami TMNT 2 based | 0 | 1991 |
+| tmnt2mister | [tmht24pe](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tmht24pe&lang=en) | Teenage Mutant Hero Turtles - Turtles in Time (4P, Ver EAA).mra | Konami TMNT 2 based | 0 | 1991 |
+| tmnt2mister | [tmnt2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tmnt2&lang=en) | Teenage Mutant Ninja Turtles - Turtles in Time (4P, Ver UAA).mra | Konami TMNT 2 based | 0 | 1991 |
+| tmnt2mister | [tmnt22pu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tmnt22pu&lang=en) | Teenage Mutant Ninja Turtles - Turtles in Time (2P, Ver UDA).mra | Konami TMNT 2 based | 0 | 1991 |
+| tmnt2mister | [tmnt24pu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tmnt24pu&lang=en) | Teenage Mutant Ninja Turtles - Turtles in Time (4P, Ver UEA).mra | Konami TMNT 2 based | 0 | 1991 |
+| tmnt2mister | [tmnt2a](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tmnt2a&lang=en) | Teenage Mutant Ninja Turtles - Turtles in Time (4P, Ver ADA).mra | Konami TMNT 2 based | 0 | 1991 |
+| tmnt2mister | [tmnt2o](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tmnt2o&lang=en) | *Not in MAD DB* | Konami TMNT 2 based | N/A | N/A |
 | tnkiii | [tnk3](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tnk3&lang=en) | TNKIII.mra | SNK Triple Z80 | 90 | 1985 |
-| toki | [tokiu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tokiu&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| toki | [tokiu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tokiu&lang=en) | Toki (US, Set 1).mra | Seibu Toki hardware | 0 | 1989 |
 | truxton2 | [truxton2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=truxton2&lang=en) | Truxton II - Tatsujin Oh.mra | Toaplan 2 | 270 | 1992 |
 | turkeyshoot | [tshoot](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tshoot&lang=en) | Turkey Shoot - The Day They Took Over.mra | Williams 2nd Generation | 0 | 1984 |
 | ultratank | [ultratnk](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ultratnk&lang=en) | Ultra Tank.mra | Atari 6502 | 0 | 1978 |

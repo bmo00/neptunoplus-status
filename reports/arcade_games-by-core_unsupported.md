@@ -1,13 +1,13 @@
 # neptUNO+ FPGA Report: Arcade Games by core (Unsupported)
 
 This report provides an overview of the unsupported arcade games by core for the **neptUNO+** FPGA.
-Report generated on: 2025-04-16
+Report generated on: 2025-04-22
 
 ## 📊 Summary
 
-- **Total Games (MRAs Found):** 2363
+- **Total Games (MRAs Found):** 2370
 - **Games for Supported Cores:** 1627
-- **Games for Unsupported Cores:** 736
+- **Games for Unsupported Cores:** 743
 
 ---
 
@@ -69,10 +69,7 @@ Report generated on: 2025-04-16
 **Alternatives:**
 
 - `Marble Madness (Set 1).mra` (1984)
-
-**Games not found in MAD DB:**
-
-- `marble5`
+- `Marble Madness (Set 5 -LSI).mra` (1984)
 
 ### athena (SNK Triple Z80)
 
@@ -153,14 +150,11 @@ Report generated on: 2025-04-16
 
 - `Battle Garegga - Type 2 (DK- CN).mra` (1996)
 - `Battle Garegga (AT- HK).mra` (1996)
+- `Battle Garegga (KO - GR).mra` (1996)
 - `Battle Garegga - New Version (AT- HK).mra` (1996)
 - `Battle Garegga (Location Test).mra` (1996)
 - `Battle Garegga - Type 2 (EU - US - JP - AS).mra` (1996)
 - `Battle Garegga (TW- DE).mra` (1996)
-
-**Games not found in MAD DB:**
-
-- `bgareggak`
 
 ### blackwidow (Atari Vector)
 
@@ -590,6 +584,16 @@ Report generated on: 2025-04-16
 
 - `gauntletgr8`
 
+### ikacoresuprloco ()
+
+**Parents:**
+
+- `Super Locomotive (W, Rev A).mra` (1982)
+
+**Alternatives:**
+
+- `Super Locomotive (Old).mra` (1982)
+
 ### ikariwarriors (SNK Triple Z80)
 
 **Parents:**
@@ -668,13 +672,10 @@ Report generated on: 2025-04-16
 
 **Alternatives:**
 
+- `Bronx [bl].mra` (1986)
 - `Colt [bl].mra` (1985)
 - `The FairyLand Story (Earlier).mra` (1985)
 - `Onna Sanshirou - Typhoon Gal [bl].mra` (1985)
-
-**Games not found in MAD DB:**
-
-- `bronx`
 
 ### jtngp ()
 
@@ -923,11 +924,11 @@ Report generated on: 2025-04-16
 
 **Parents:**
 
-- `Pipi and Bibis - Whoopee!! (Z80 sound cpu, set 1).mra` (1991)
+- `Pipi & Bibis - Whoopee!! (Z80 sound cpu, Set 1).mra` (1991)
 
 **Alternatives:**
 
-- `Pipi and Bibis - Whoopee!! (Z80 sound cpu, set 2).mra` (1991)
+- `Pipi & Bibis - Whoopee!! (Z80 sound cpu, Set 2).mra` (1991)
 
 ### pleiads (Taito Unique)
 
@@ -1021,11 +1022,8 @@ Report generated on: 2025-04-16
 
 - `Life Force (US).mra` (1986)
 - `Salamander (Ver. D).mra` (1986)
-
-**Games not found in MAD DB:**
-
-- `spclone`
-- `spcloneo`
+- `Salamander (SP Ver).mra` (1986)
+- `Salamander (SP Ver Old).mra` (1986)
 
 ### saturn ()
 
@@ -1296,6 +1294,7 @@ Report generated on: 2025-04-16
 - `Lunar Rescue.mra` (1979)
 - `Lupin III (Set 2).mra` (1980)
 - `Amazing Maze.mra` (1976)
+- `Polaris (LV).mra` (1980)
 - `Space Chaser.mra` (1979)
 - `Sea Wolf (Set 1).mra` (1976)
 - `Shuffleboard.mra` (1978)
@@ -1306,10 +1305,6 @@ Report generated on: 2025-04-16
 
 - `Space Invaders Part II (Midway, Cocktail).mra` (1980)
 - `Space Invaders Part II (Taito, Bigger ROMs).mra` (1979)
-
-**Games not found in MAD DB:**
-
-- `polaris`
 
 ### spacerace (Atari Discrete hardware)
 
@@ -1360,16 +1355,6 @@ Report generated on: 2025-04-16
 
 - `Super Breakout (Cocktail, Prototype).mra` (1978)
 
-### suprloco (Super Locomotive)
-
-**Alternatives:**
-
-- `Super Locomotive (W, Rev A).mra` (1982)
-
-**Games not found in MAD DB:**
-
-- `suprloco`
-
 ### taitosj (Taito System SJ)
 
 **Parents:**
@@ -1415,9 +1400,9 @@ Report generated on: 2025-04-16
 
 - `Teki Paki.mra` (1991)
 
-**Games not found in MAD DB:**
+**Alternatives:**
 
-- `whoopee`
+- `Pipi & Bibis - Whoopee!! (Teki Paki hardware).mra` (1991)
 
 ### tiamc1 (TIAMC1)
 
@@ -1442,6 +1427,24 @@ Report generated on: 2025-04-16
 - `Time Pilot (Atari).mra` (1982)
 - `Time Pilot (Centuri).mra` (1982)
 
+### tmnt2mister (Konami TMNT 2 based)
+
+**Parents:**
+
+- `Teenage Mutant Ninja Turtles - Turtles in Time (2P, Ver UDA).mra` (1991)
+- `Teenage Mutant Ninja Turtles - Turtles in Time (4P, Ver ADA).mra` (1991)
+
+**Alternatives:**
+
+- `Teenage Mutant Hero Turtles - Turtles in Time (2P, Ver EBA).mra` (1991)
+- `Teenage Mutant Hero Turtles - Turtles in Time (4P, Ver EAA).mra` (1991)
+- `Teenage Mutant Ninja Turtles - Turtles in Time (4P, Ver UAA).mra` (1991)
+- `Teenage Mutant Ninja Turtles - Turtles in Time (4P, Ver UEA).mra` (1991)
+
+**Games not found in MAD DB:**
+
+- `tmnt2o`
+
 ### tnkiii (SNK Triple Z80)
 
 **Parents:**
@@ -1450,9 +1453,9 @@ Report generated on: 2025-04-16
 
 ### toki ()
 
-**Games not found in MAD DB:**
+**Alternatives:**
 
-- `tokiu`
+- `Toki (US, Set 1).mra` (1989)
 
 ### truxton2 (Toaplan 2)
 

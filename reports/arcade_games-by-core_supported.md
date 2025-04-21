@@ -1,13 +1,13 @@
 # neptUNO+ FPGA Report: Arcade Games by core (Supported)
 
 This report provides an overview of the supported arcade games by core for the **neptUNO+** FPGA.
-Report generated on: 2025-04-16
+Report generated on: 2025-04-22
 
 ## 📊 Summary
 
-- **Total Games (MRAs Found):** 2363
+- **Total Games (MRAs Found):** 2370
 - **Games for Supported Cores:** 1627
-- **Games for Unsupported Cores:** 736
+- **Games for Unsupported Cores:** 743
 
 ---
 
@@ -232,17 +232,14 @@ Report generated on: 2025-04-16
 - `Crackhead [hb].mra` (1980)
 - `Dig Dug II (Old Ver).mra` (1985)
 - `Grobda (W, New Ver.).mra` (1984)
+- `Grobda (Old Ver, Set 1).mra` (1984)
+- `Grobda (Old Ver, Set 2).mra` (1984)
 - `House Party [hb].mra` (1983)
 - `Mappy (JP).mra` (1983)
 - `Marpy [hb].mra` (1983)
+- `Super Pac-Man (Midway).mra` (1982)
 - `The Tower of Druaga (Old Ver).mra` (1984)
 - `The Tower of Druaga (Sidam) [bl].mra` (1984)
-
-**Games not found in MAD DB:**
-
-- `grobda2`
-- `grobda3`
-- `superpacm`
 
 ### expressraider (Data East Unique)
 
@@ -729,6 +726,7 @@ Report generated on: 2025-04-16
 - `Street Fighter II'- Champion Edition (Accelerator Pt. II) [bl].mra` (1992)
 - `Street Fighter II'- Champion Edition (Taiwan, PAL) [bl].mra` (1992)
 - `Street Fighter II'- Champion Edition (W, 920313).mra` (1992)
+- `Street Fighter II'- Champion Edition (W, 920803).mra` (1992)
 - `Street Fighter II'- Champion Edition (JP, 920322).mra` (1992)
 - `Street Fighter II'- Champion Edition (JP, 920513).mra` (1992)
 - `Street Fighter II'- Champion Edition (JP, 920803).mra` (1992)
@@ -766,6 +764,7 @@ Report generated on: 2025-04-16
 - `Street Fighter II- The Warrior (US, 910522, Rev I).mra` (1991)
 - `Street Fighter II- The Warrior (US, 911101).mra` (1991)
 - `Street Fighter II'- Champion Edition [bl].mra` (1992)
+- `Street Fighter II'- Champion Edition (YYC) [bl].mra` (1992)
 - `Street Fighter Zero (BR, CPS Changer, 950727).mra` (1995)
 - `Street Fighter Zero (JP, CPS Changer, 951020).mra` (1995)
 - `Strider Hiryu (JP).mra` (1989)
@@ -784,16 +783,14 @@ Report generated on: 2025-04-16
 **Games not found in MAD DB:**
 
 - `forgottnu`
-- `nemoja`
+- `nemoj`
 - `sf2ceaimedb`
 - `sf2ceaimedf`
 - `sf2cebfire`
 - `sf2cebih`
 - `sf2cebof`
-- `sf2ceec`
 - `sf2cefires`
 - `sf2cevampiric`
-- `sf2yyc`
 
 ### jtcps15 (Capcom CPS-1.5)
 
@@ -817,13 +814,10 @@ Report generated on: 2025-04-16
 - `The Punisher (US, 930422).mra` (1993)
 - `Saturday Night Slam Masters (US, 930713).mra` (1993)
 - `Sangokushi II (AS, 921005).mra` (1992)
+- `Tenchi wo Kurau II- Sekiheki no Tatakai (JP, CPS Changer, 921031).mra` (1992)
 - `Tenchi wo Kurau II- Sekiheki no Tatakai (JP, 921031).mra` (1992)
 - `Warriors of Fate (W, 921002).mra` (1992)
 - `Warriors of Fate (US, 921031).mra` (1992)
-
-**Games not found in MAD DB:**
-
-- `wofch`
 
 ### jtcps2 (Capcom CPS-2)
 
@@ -1209,21 +1203,18 @@ Report generated on: 2025-04-16
 **Parents:**
 
 - `Ninja Gaiden (US).mra` (1988)
+- `Raiga - Strato Fighter (JP).mra` (1991)
 - `Ninja Ryukenden (JP, Set 2).mra` (1988)
+- `Wild Fang - Tecmo Knight (W).mra` (1989)
 
 **Alternatives:**
 
 - `Ninja Ryukenden (JP, Set 1).mra` (1988)
 - `Shadow Warriors (W, Set 1).mra` (1988)
 - `Shadow Warriors (W, Set 2).mra` (1988)
-
-**Games not found in MAD DB:**
-
-- `raiga`
-- `stratof`
-- `tknight`
-- `wildfang`
-- `wildfangs`
+- `Raiga - Strato Fighter (US).mra` (1991)
+- `Tecmo Knight (US).mra` (1989)
+- `Wild Fang (JP).mra` (1989)
 
 ### jtgng (Capcom CPS-0)
 
@@ -1239,12 +1230,9 @@ Report generated on: 2025-04-16
 - `Ghosts'n Goblins (Prototype).mra` (1985)
 - `Ghosts'n Goblins (US).mra` (1985)
 - `Makai-Mura (JP).mra` (1985)
+- `Makai-Mura (JP, Rev B).mra` (1985)
 - `Makai-Mura (JP, Rev C).mra` (1985)
 - `Makai-Mura (JP, Rev G).mra` (1985)
-
-**Games not found in MAD DB:**
-
-- `makaimurb`
 
 ### jtgunsmk (Capcom CPS-0)
 
@@ -1286,15 +1274,12 @@ Report generated on: 2025-04-16
 - `Karate Dou (Arfyc) [bl].mra` (1984)
 - `Karate Dou (JP).mra` (1984)
 - `Taisen Karate Dou (JP, VS version).mra` (1984)
+- `Karate Champ (US, 2P).mra` (1984)
 - `Karate Champ (Tecfri) [bl].mra` (1984)
 - `Karate Champ (US, VS Ver, Set 1).mra` (1984)
 - `Karate Champ (US, VS Ver, Set 2).mra` (1984)
 - `Karate Champ (US, VS Ver, Set 3).mra` (1984)
 - `Karate Champ (US, VS Ver, Set 4).mra` (1984)
-
-**Games not found in MAD DB:**
-
-- `kchamp2p`
 
 ### jtkicker (Konami 6809 based)
 
@@ -1315,7 +1300,7 @@ Report generated on: 2025-04-16
 - `Extermination (W).mra` (1987)
 - `Insector X (W).mra` (1989)
 - `Kageki (W).mra` (1988)
-- `The NewZealand Story (W, New version).mra` (1988)
+- `The NewZealand Story (W, New Ver).mra` (1988)
 
 **Alternatives:**
 
@@ -1331,11 +1316,12 @@ Report generated on: 2025-04-16
 - `Kageki (hack).mra` (1988)
 - `Kageki (JP).mra` (1988)
 - `Kageki (US).mra` (1988)
-- `The NewZealand Story (JP, old version).mra` (1988)
-- `The NewZealand Story (W, old version).mra` (1988)
-- `The NewZealand Story (W, unknown version).mra` (1988)
-- `The NewZealand Story (W, prototype).mra` (1988)
-- `The NewZealand Story (US, old version).mra` (1988)
+- `The NewZealand Story (JP, New Ver).mra` (1988)
+- `The NewZealand Story (JP, Old Ver).mra` (1988)
+- `The NewZealand Story (W, Old Ver).mra` (1988)
+- `The NewZealand Story (W, UNK Ver).mra` (1988)
+- `The NewZealand Story (W, Proto).mra` (1988)
+- `The NewZealand Story (US, Old Ver).mra` (1988)
 
 **Games not found in MAD DB:**
 
@@ -1344,7 +1330,6 @@ Report generated on: 2025-04-16
 - `chukataiu`
 - `insectxbl`
 - `jtkiwi`
-- `tnzsj`
 
 ### jtkunio (Technos 6309 based)
 
@@ -1443,6 +1428,7 @@ Report generated on: 2025-04-16
 - `Block Block (W, 911219, Joystick).mra` (1991)
 - `Capcom World (JP).mra` (1989)
 - `Dokaben (JP).mra` (1989)
+- `Dokaben 2 (JP).mra` (1989)
 - `Pang.mra` (1989)
 - `Super Pang (W, 900914).mra` (1990)
 
@@ -1455,10 +1441,6 @@ Report generated on: 2025-04-16
 - `Pomping World (JP).mra` (1989)
 - `Super Buster Bros. (US, 901001).mra` (1990)
 - `Super Pang (JP, 901023).mra` (1990)
-
-**Games not found in MAD DB:**
-
-- `dokaben2`
 
 ### jtparoda (Konami TMNT 2 based)
 
@@ -1605,7 +1587,7 @@ Report generated on: 2025-04-16
 - `Sonic Boom (FD1094 317-0053).mra` (1987)
 - `Super League (W).mra` (1987)
 - `Tetris (JP, S16B, Set 1).mra` (1988)
-- `Time Scanner (W, S16B, Set 2).mra` (1987)
+- `Time Scanner (JP, S16B, Set 3).mra` (1987)
 - `Toryumon.mra` (1994)
 - `Waku Waku Ultraman Racing.mra` (1996)
 - `Wonder Boy III - Monster Lair (W, S16B Set 6).mra` (1988)
@@ -1659,16 +1641,13 @@ Report generated on: 2025-04-16
 - `Shinobi (W, S16B, Set 4).mra` (1987)
 - `Shinobi (W, S16B, Set 5) No Protection.mra` (1987)
 - `Tetris (JP, S16B, Set 2).mra` (1988)
+- `Time Scanner (W, S16B, Set 2).mra` (1987)
 - `Tough Turf (US, Set 1).mra` (1989)
 - `Wonder Boy III - Monster Lair (JP, S16B, Set 2).mra` (1988)
 - `Wonder Boy III - Monster Lair (W, S16B, Set 3).mra` (1988)
 - `Wonder Boy III - Monster Lair (JP, S16B, Set 4).mra` (1988)
 - `Wrestle War (JP, Set 1).mra` (1989)
 - `Wrestle War (W, Set 2).mra` (1989)
-
-**Games not found in MAD DB:**
-
-- `timescan3`
 
 ### jtsarms (Capcom CPS-0)
 
@@ -1804,17 +1783,14 @@ Report generated on: 2025-04-16
 - `The Simpsons (W, 4P, Set 2).mra` (1991)
 - `The Simpsons (W, 4P, Set 3).mra` (1991)
 - `Vendetta (W, 4P, Ver. T).mra` (1991)
-- `Crime Fighters 2 (JP, 4P, Ver. N).mra` (1991)
+- `Vendetta (AS, 2P, Ver. D).mra` (1991)
 - `Vendetta (W, 2P, Ver. EB-A).mra` (1991)
 - `Vendetta (AS, 2P, Ver. U).mra` (1991)
 - `Vendetta (W, 2P, Ver. -).mra` (1991)
 - `Vendetta (W, 2P, Ver. W).mra` (1991)
+- `Crime Fighters 2 (JP, 4P, Ver. N).mra` (1991)
 - `Vendetta (US, 4P, Ver. R).mra` (1991)
 - `Vendetta (W, 4P, Ver. -).mra` (1991)
-
-**Games not found in MAD DB:**
-
-- `vendettan`
 
 ### jtslyspy (Data East MEC-M1)
 
@@ -1863,14 +1839,14 @@ Report generated on: 2025-04-16
 
 **Parents:**
 
+- `JuJu Densetsu (JP).mra` (1989)
 - `Toki (W, Set 1).mra` (1989)
 
-**Games not found in MAD DB:**
+**Alternatives:**
 
-- `juju`
-- `tokia`
-- `tokiu`
-- `tokiua`
+- `Toki (W, Set 2).mra` (1989)
+- `Toki (US, Set 1).mra` (1989)
+- `Toki (US, Set 2).mra` (1989)
 
 ### jttora (Capcom CPS-0)
 
@@ -1916,10 +1892,7 @@ Report generated on: 2025-04-16
 - `Hissatsu Buraiken (JP) [bl].mra` (1987)
 - `Trojan (US, Set 2).mra` (1986)
 - `Tatakai no Banka (JP).mra` (1986)
-
-**Games not found in MAD DB:**
-
-- `trojanjo`
+- `Tatakai no Banka (JP, Old Ver).mra` (1986)
 
 ### jttwin16 (Konami Twin16 hardware)
 
@@ -1977,13 +1950,10 @@ Report generated on: 2025-04-16
 **Alternatives:**
 
 - `WWF Superstars (EU).mra` (1989)
+- `WWF Superstars (CA).mra` (1989)
 - `WWF Superstars (US, Rev 4).mra` (1989)
 - `WWF Superstars (US, Rev 6).mra` (1989)
 - `WWF Superstars (US, Rev 7).mra` (1989)
-
-**Games not found in MAD DB:**
-
-- `wwfsstarc`
 
 ### jtxmen (Konami X-Men hardware)
 
@@ -2350,17 +2320,20 @@ Report generated on: 2025-04-16
 - `Mad Planets.mra` (1982)
 - `Q'bert (US, Set 1).mra` (1982)
 - `Q'bert Qubes.mra` (1982)
+- `Faster, Harder, More Challenging Q'bert.mra` (1982)
+
+**Alternatives:**
+
+- `Mello Yello Q'bert.mra` (1982)
+- `Q'bert (JP).mra` (1982)
+- `Q'bert (Early Test Version).mra` (1982)
 
 **Games not found in MAD DB:**
 
 - `curvebal`
 - `insector`
 - `krull`
-- `myqbert`
 - `qberta`
-- `qbertj`
-- `qberttst`
-- `sqbert`
 - `tylz`
 
 ### rallyx (Namco Pac-Man hardware)
