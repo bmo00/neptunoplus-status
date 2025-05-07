@@ -1,6 +1,7 @@
 # neptUNO+ FPGA Report: Computer Cores (Unsupported)
 
 This report provides an overview of the unsupported computer cores for the **neptUNO+** FPGA.
+
 Report generated on: 2025-05-07
 
 ## 📊 Summary

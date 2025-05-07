@@ -1,12 +1,13 @@
 # neptUNO+ FPGA Report: Arcade Games (Supported)
 
 This report provides an overview of the supported arcade games for the **neptUNO+** FPGA.
+
 Report generated on: 2025-05-07
 
 ## 📊 Summary
 
-- **Total Games (MRAs Found):** 2376
-- **Games for Supported Cores:** 1626
+- **Total Games (MRAs Found):** 2347
+- **Games for Supported Cores:** 1597
 - **Games for Unsupported Cores:** 750
 
 ---
@@ -193,63 +194,34 @@ Report generated on: 2025-05-07
 | iremm72 | [rtypej](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rtypej&lang=en) | R-Type (JP).mra | Irem M72 | 0 | 1987 |
 | iremm72 | [xmultiplm72](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=xmultiplm72&lang=en) | X Multiply (JP, M72 hardware).mra | Irem M72 | 0 | 1989 |
 | iremm92 | [bmaster](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bmaster&lang=en) | Blade Master (W).mra | Irem M92 | 0 | 1991 |
-| iremm92 | [bmaster_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bmaster_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [crossbld](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=crossbld&lang=en) | Cross Blades! (JP).mra | Irem M92 | 0 | 1991 |
-| iremm92 | [crossbld_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=crossbld_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [dsoccr94j](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=dsoccr94j&lang=en) | Dream Soccer '94 (JP, M92).mra | Irem M92 | 0 | 1994 |
-| iremm92 | [dsoccr94j_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=dsoccr94j_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [geostorm](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=geostorm&lang=en) | Geo Storm.mra | Irem M92 | 0 | 1994 |
-| iremm92 | [geostorm_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=geostorm_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [gunforc2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gunforc2&lang=en) | Gun Force II (US).mra | Irem M92 | 0 | 1994 |
-| iremm92 | [gunforc2_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gunforc2_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [gunforce](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gunforce&lang=en) | Gun Force (W).mra | Irem M92 | 0 | 1991 |
-| iremm92 | [gunforce_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gunforce_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [gunforcej](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gunforcej&lang=en) | Gun Force (JP).mra | Irem M92 | 0 | 1991 |
-| iremm92 | [gunforcej_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gunforcej_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [gunforceu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gunforceu&lang=en) | Gun Force (US).mra | Irem M92 | 0 | 1991 |
-| iremm92 | [gunforceu_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gunforceu_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [gunhohki](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gunhohki&lang=en) | Mahou Keibitai Gun Hohki (JP).mra | Irem M92 | 0 | 1992 |
-| iremm92 | [gunhohki_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gunhohki_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [hook](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=hook&lang=en) | Hook (W).mra | Irem M92 | 0 | 1992 |
-| iremm92 | [hook_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=hook_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [hookj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=hookj&lang=en) | Hook (JP).mra | Irem M92 | 0 | 1992 |
-| iremm92 | [hookj_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=hookj_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [inthunt](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=inthunt&lang=en) | In The Hunt (W).mra | Irem M92 | 0 | 1993 |
-| iremm92 | [inthunt_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=inthunt_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [inthuntu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=inthuntu&lang=en) | In The Hunt (US).mra | Irem M92 | 0 | 1993 |
-| iremm92 | [inthuntu_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=inthuntu_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [kaiteids](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=kaiteids&lang=en) | Kaitei Daisensou (JP).mra | Irem M92 | 0 | 1993 |
-| iremm92 | [kaiteids_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=kaiteids_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [leaguemn](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=leaguemn&lang=en) | Yakyuu Kakutou League-Man (JP).mra | Irem M92 | 0 | 1993 |
-| iremm92 | [leaguemn_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=leaguemn_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [lethalth](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=lethalth&lang=en) | Lethal Thunder (W).mra | Irem M92 | 270 | 1992 |
-| iremm92 | [lethalth_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=lethalth_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [majtitl2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=majtitl2&lang=en) | Major Title 2 (W, Set 1).mra | Irem M92 | 0 | 1992 |
-| iremm92 | [majtitl2_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=majtitl2_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [mysticri](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mysticri&lang=en) | Mystic Riders (W).mra | Irem M92 | 0 | 1992 |
-| iremm92 | [mysticri_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mysticri_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [nbbatman](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nbbatman&lang=en) | Ninja Baseball Bat Man (W).mra | Irem M92 | 0 | 1993 |
-| iremm92 | [nbbatman_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nbbatman_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [nbbatmanu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nbbatmanu&lang=en) | Ninja Baseball Bat Man (US).mra | Irem M92 | 0 | 1993 |
-| iremm92 | [nbbatmanu_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nbbatmanu_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [rtypeleo](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rtypeleo&lang=en) | R-Type Leo (W).mra | Irem M92 | 0 | 1992 |
-| iremm92 | [rtypeleo_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rtypeleo_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [rtypeleoj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rtypeleoj&lang=en) | R-Type Leo (JP).mra | Irem M92 | 0 | 1992 |
-| iremm92 | [rtypeleoj_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rtypeleoj_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [ssoldier](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ssoldier&lang=en) | Superior Soldiers (US).mra | Irem M92 | 0 | 1994 |
-| iremm92 | [ssoldier_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ssoldier_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [thndblst](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=thndblst&lang=en) | Thunder Blaster (JP).mra | Irem M92 | 270 | 1992 |
-| iremm92 | [thndblst_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=thndblst_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [uccops](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=uccops&lang=en) | Undercover Cops (W).mra | Irem M92 | 0 | 1992 |
-| iremm92 | [uccops_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=uccops_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [uccopsar](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=uccopsar&lang=en) | Undercover Cops - Alpha Renewal Version (W).mra | Irem M92 | 0 | 1992 |
-| iremm92 | [uccopsar_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=uccopsar_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [uccopsaru](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=uccopsaru&lang=en) | Undercover Cops - Alpha Renewal Version (US).mra | Irem M92 | 0 | 1992 |
-| iremm92 | [uccopsaru_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=uccopsaru_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [uccopsj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=uccopsj&lang=en) | Undercover Cops (JP).mra | Irem M92 | 0 | 1992 |
-| iremm92 | [uccopsj_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=uccopsj_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | iremm92 | [uccopsu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=uccopsu&lang=en) | Undercover Cops (US).mra | Irem M92 | 0 | 1992 |
-| iremm92 | [uccopsu_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=uccopsu_t&lang=en) | *Not in MAD DB* | Irem M92 | N/A | N/A |
 | ironhorse | [dairesya](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=dairesya&lang=en) | Dai Ressya Goutou (Ver. K).mra | Konami Double Dribble based | 0 | 1986 |
 | ironhorse | [ironhors](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ironhors&lang=en) | Iron Horse (Ver. K).mra | Konami Double Dribble based | 0 | 1986 |
 | ironhorse | [ironhorsbl](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ironhorsbl&lang=en) | Iron Horse (Ver. H) [bl].mra | Konami Double Dribble based | 0 | 1986 |

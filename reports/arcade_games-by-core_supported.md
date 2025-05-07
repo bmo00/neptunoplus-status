@@ -1,12 +1,13 @@
 # neptUNO+ FPGA Report: Arcade Games by core (Supported)
 
 This report provides an overview of the supported arcade games by core for the **neptUNO+** FPGA.
+
 Report generated on: 2025-05-07
 
 ## 📊 Summary
 
-- **Total Games (MRAs Found):** 2376
-- **Games for Supported Cores:** 1626
+- **Total Games (MRAs Found):** 2347
+- **Games for Supported Cores:** 1597
 - **Games for Unsupported Cores:** 750
 
 ---
@@ -318,36 +319,6 @@ Report generated on: 2025-05-07
 | [uccopsaru](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=uccopsaru&lang=en) | `Undercover Cops - Alpha Renewal Version (US).mra` | `Undercover Cops - Alpha Renewal Version (US).arc` | `Not Found` | `ROM Tag Missing` |   | 1992 |
 | [uccopsj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=uccopsj&lang=en) | `Undercover Cops (JP).mra` | `Undercover Cops (JP).arc` | `Not Found` | `MRA Not Found` |   | 1992 |
 | [uccopsu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=uccopsu&lang=en) | `Undercover Cops (US).mra` | `Undercover Cops (US).arc` | `Not Found` | `ROM Tag Missing` |   | 1992 |
-| *Games not found in MAD DB* | | | | | | |
-| [bmaster_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bmaster_t&lang=en) | `bmaster_t.mra` | `bmaster_t.arc` | `Not Found` | `MRA Not Found` |   | N/A |
-| [crossbld_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=crossbld_t&lang=en) | `crossbld_t.mra` | `crossbld_t.arc` | `Not Found` | `MRA Not Found` |   | N/A |
-| [dsoccr94j_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=dsoccr94j_t&lang=en) | `dsoccr94j_t.mra` | `dsoccr94j_t.arc` | `Not Found` | `MRA Not Found` |   | N/A |
-| [geostorm_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=geostorm_t&lang=en) | `geostorm_t.mra` | `geostorm_t.arc` | `Not Found` | `MRA Not Found` |   | N/A |
-| [gunforc2_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gunforc2_t&lang=en) | `gunforc2_t.mra` | `gunforc2_t.arc` | `Not Found` | `MRA Not Found` |   | N/A |
-| [gunforce_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gunforce_t&lang=en) | `gunforce_t.mra` | `gunforce_t.arc` | `Not Found` | `MRA Not Found` |   | N/A |
-| [gunforcej_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gunforcej_t&lang=en) | `gunforcej_t.mra` | `gunforcej_t.arc` | `Not Found` | `MRA Not Found` |   | N/A |
-| [gunforceu_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gunforceu_t&lang=en) | `gunforceu_t.mra` | `gunforceu_t.arc` | `Not Found` | `MRA Not Found` |   | N/A |
-| [gunhohki_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gunhohki_t&lang=en) | `gunhohki_t.mra` | `gunhohki_t.arc` | `Not Found` | `MRA Not Found` |   | N/A |
-| [hook_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=hook_t&lang=en) | `hook_t.mra` | `hook_t.arc` | `Not Found` | `MRA Not Found` |   | N/A |
-| [hookj_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=hookj_t&lang=en) | `hookj_t.mra` | `hookj_t.arc` | `Not Found` | `MRA Not Found` |   | N/A |
-| [inthunt_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=inthunt_t&lang=en) | `inthunt_t.mra` | `inthunt_t.arc` | `Not Found` | `MRA Not Found` |   | N/A |
-| [inthuntu_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=inthuntu_t&lang=en) | `inthuntu_t.mra` | `inthuntu_t.arc` | `Not Found` | `MRA Not Found` |   | N/A |
-| [kaiteids_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=kaiteids_t&lang=en) | `kaiteids_t.mra` | `kaiteids_t.arc` | `Not Found` | `MRA Not Found` |   | N/A |
-| [leaguemn_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=leaguemn_t&lang=en) | `leaguemn_t.mra` | `leaguemn_t.arc` | `Not Found` | `MRA Not Found` |   | N/A |
-| [lethalth_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=lethalth_t&lang=en) | `lethalth_t.mra` | `lethalth_t.arc` | `Not Found` | `MRA Not Found` |   | N/A |
-| [majtitl2_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=majtitl2_t&lang=en) | `majtitl2_t.mra` | `majtitl2_t.arc` | `Not Found` | `MRA Not Found` |   | N/A |
-| [mysticri_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mysticri_t&lang=en) | `mysticri_t.mra` | `mysticri_t.arc` | `Not Found` | `MRA Not Found` |   | N/A |
-| [nbbatman_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nbbatman_t&lang=en) | `nbbatman_t.mra` | `nbbatman_t.arc` | `Not Found` | `MRA Not Found` |   | N/A |
-| [nbbatmanu_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nbbatmanu_t&lang=en) | `nbbatmanu_t.mra` | `nbbatmanu_t.arc` | `Not Found` | `MRA Not Found` |   | N/A |
-| [rtypeleo_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rtypeleo_t&lang=en) | `rtypeleo_t.mra` | `rtypeleo_t.arc` | `Not Found` | `MRA Not Found` |   | N/A |
-| [rtypeleoj_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rtypeleoj_t&lang=en) | `rtypeleoj_t.mra` | `rtypeleoj_t.arc` | `Not Found` | `MRA Not Found` |   | N/A |
-| [ssoldier_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ssoldier_t&lang=en) | `ssoldier_t.mra` | `ssoldier_t.arc` | `Not Found` | `MRA Not Found` |   | N/A |
-| [thndblst_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=thndblst_t&lang=en) | `thndblst_t.mra` | `thndblst_t.arc` | `Not Found` | `MRA Not Found` |   | N/A |
-| [uccops_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=uccops_t&lang=en) | `uccops_t.mra` | `uccops_t.arc` | `Not Found` | `MRA Not Found` |   | N/A |
-| [uccopsar_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=uccopsar_t&lang=en) | `uccopsar_t.mra` | `uccopsar_t.arc` | `Not Found` | `MRA Not Found` |   | N/A |
-| [uccopsaru_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=uccopsaru_t&lang=en) | `uccopsaru_t.mra` | `uccopsaru_t.arc` | `Not Found` | `MRA Not Found` |   | N/A |
-| [uccopsj_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=uccopsj_t&lang=en) | `uccopsj_t.mra` | `uccopsj_t.arc` | `Not Found` | `MRA Not Found` |   | N/A |
-| [uccopsu_t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=uccopsu_t&lang=en) | `uccopsu_t.mra` | `uccopsu_t.arc` | `Not Found` | `MRA Not Found` |   | N/A |
 
 ### ironhorse (Konami Double Dribble based)
 

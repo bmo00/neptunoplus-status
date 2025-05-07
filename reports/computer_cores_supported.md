@@ -1,6 +1,7 @@
 # neptUNO+ FPGA Report: Computer Cores (Supported)
 
 This report provides an overview of the supported computer cores for the **neptUNO+** FPGA.
+
 Report generated on: 2025-05-07
 
 ## 📊 Summary
@@ -35,7 +36,7 @@ Report generated on: 2025-05-07
 | tsconf | TSConf |  | Mister - [MiSTer-devel/TSConf_MiSTer](https://github.com/MiSTer-devel/TSConf_MiSTer)<br>Sidi128 - [BigMist/TSConf](https://github.com/BigMist/TSConf) | Official_Distribution_MiSTer | neptUNO+ ported by @red_corvette |
 | x68000 | Sharp X68000 |  | Mister - [MiSTer-devel/X68000_MiSTer](https://github.com/MiSTer-devel/X68000_MiSTer)<br>Neptuno_plus - [BigMist/X68000](https://github.com/BigMist/X68000)<br>Sidi128 - [BigMist/X68000](https://github.com/BigMist/X68000) | Official_Distribution_MiSTer |  |
 | zemmix | Zemmix |  | Neptuno_plus - [BigMist/ZEMMIX](https://github.com/BigMist/ZEMMIX)<br>Sidi128 - [BigMist/ZEMMIX](https://github.com/BigMist/ZEMMIX) | BigMist |  |
-| zx-spectrum | ZX Spectrum +3 |  | Mister - [MiSTer-devel/ZX-Spectrum_MISTer](https://github.com/MiSTer-devel/ZX-Spectrum_MISTer)<br>Neptuno_plus - [BigMist/ZX_Spectrum-128K](https://github.com/BigMist/ZX_Spectrum-128K) | Official_Distribution_MiSTer | Ported bt delgrom |
+| zx-spectrum | ZX Spectrum +3 |  | Mister - [MiSTer-devel/ZX-Spectrum_MISTer](https://github.com/MiSTer-devel/ZX-Spectrum_MISTer)<br>Neptuno_plus - [BigMist/ZX_Spectrum-128K](https://github.com/BigMist/ZX_Spectrum-128K) | Official_Distribution_MiSTer | ported by @delgrom |
 | zx81 | ZX81 |  | Mister - [MiSTer-devel/ZX81_MiSTer](https://github.com/MiSTer-devel/ZX81_MiSTer)<br>Neptuno_plus - [BigMist/Sinclair_ZX8X](https://github.com/BigMist/Sinclair_ZX8X) | Official_Distribution_MiSTer |  |
 | zxnext | ZX Spectrum Next |  | Mister - [MiSTer-devel/ZXNext_MISTer](https://github.com/MiSTer-devel/ZXNext_MISTer) | Official_Distribution_MiSTer | ported by @delgrom |
 | zxp3 | ZX Spectrum +3 |  | Neptuno_plus - [BigMist/zxp3](https://github.com/BigMist/zxp3) | BigMist |  |
