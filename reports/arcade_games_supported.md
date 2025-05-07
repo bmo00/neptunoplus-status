@@ -1,13 +1,13 @@
 # neptUNO+ FPGA Report: Arcade Games (Supported)
 
 This report provides an overview of the supported arcade games for the **neptUNO+** FPGA.
-Report generated on: 2025-04-22
+Report generated on: 2025-05-07
 
 ## 📊 Summary
 
-- **Total Games (MRAs Found):** 2370
-- **Games for Supported Cores:** 1627
-- **Games for Unsupported Cores:** 743
+- **Total Games (MRAs Found):** 2376
+- **Games for Supported Cores:** 1626
+- **Games for Unsupported Cores:** 750
 
 ---
 
@@ -440,7 +440,6 @@ Report generated on: 2025-04-22
 | jtcps1 | [pang3b](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pang3b&lang=en) | Pang! 3 [bl].mra | Capcom CPS-1 | 0 | 1995 |
 | jtcps1 | [pang3j](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pang3j&lang=en) | Pang! 3- Kaitou Tachi no Karei na Gogo (JP, 920312).mra | Capcom CPS-1 | 0 | 1995 |
 | jtcps1 | [pang3r1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pang3r1&lang=en) | Pang! 3 (EU, 950511).mra | Capcom CPS-1 | 0 | 1995 |
-| jtcps1 | [pmonster](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pmonster&lang=en) | Gamushara Battle! Puchi Monster (JP).mra | Capcom CPS-1 | 0 | 1999 |
 | jtcps1 | [pnickj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pnickj&lang=en) | Pnickies (JP, 940608).mra | Capcom CPS-1 | 0 | 1994 |
 | jtcps1 | [pokonyan](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pokonyan&lang=en) | Pokonyan! Balloon (JP, 940322).mra | Capcom CPS-1 | 0 | 1994 |
 | jtcps1 | [qad](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=qad&lang=en) | Quiz & Dragons- Capcom Quiz Game (US, 920701).mra | Capcom CPS-1 | 0 | 1992 |

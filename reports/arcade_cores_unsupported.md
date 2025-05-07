@@ -1,13 +1,13 @@
 # neptUNO+ FPGA Report: Arcade Cores (Unsupported)
 
 This report provides an overview of the unsupported arcade cores for the **neptUNO+** FPGA.
-Report generated on: 2025-04-22
+Report generated on: 2025-05-07
 
 ## 📊 Summary
 
-- **Total Cores in Local DB:** 241
+- **Total Cores in Local DB:** 242
 - **Supported Cores:** 106
-- **Unsupported Cores:** 135
+- **Unsupported Cores:** 136
 
 ---
 
@@ -75,8 +75,9 @@ Report generated on: 2025-04-22
 | jtriders | Konami TMNT 2 based |  | Mister - [jotego/jtcores](https://github.com/jotego/jtcores/tree/master/cores/riders) | JOTEGO |  |
 | jts16a2 | Sega System 16 |  | N/A | Insert-Coin |  |
 | jts18 | Sega System 18 |  | Mister - [jotego/jtcores](https://github.com/jotego/jtcores/tree/master/cores/s18) | JOTEGO |  |
+| jtthundr | Namco System 86 |  | Mister - [jotego/jtcores](https://github.com/jotego/jtcores/tree/master/cores/thundr) | JOTEGO |  |
 | kickandrun | Taito Kick and Run hardware |  | Mister - [MiSTer-devel/Arcade-KickAndRun_MiSTer](https://github.com/MiSTer-devel/Arcade-KickAndRun_MiSTer) | Distribution_MiSTer |  |
-| kingdmgpmister | (Toaplan 2 |  | N/A | Coin-OpCollection |  |
+| kingdmgpmister | Toaplan 2 |  | N/A | Coin-OpCollection |  |
 | ladybug | Universal Lady Bug |  | Mister - [MiSTer-devel/Arcade-LadyBug_MiSTer](https://github.com/MiSTer-devel/Arcade-LadyBug_MiSTer)<br>Mist - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Universal%20Ladybug%20Hardware)<br>Sidi128 - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Universal%20Ladybug%20Hardware) | Distribution_MiSTer |  |
 | lunarlander | Atari 6502 |  | Mister - [MiSTer-devel/Arcade-LunarLander_MiSTer](https://github.com/MiSTer-devel/Arcade-LunarLander_MiSTer)<br>Mist - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Atari%20Vector/LunarLander_MiST) | Distribution_MiSTer |  |
 | mariobros | Mario Bros. hardware |  | Mister - [MiSTer-devel/Arcade-MarioBros_MiSTer](https://github.com/MiSTer-devel/Arcade-MarioBros_MiSTer)<br>Mist - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Nintendo%20Mario%20Bros) | Distribution_MiSTer |  |

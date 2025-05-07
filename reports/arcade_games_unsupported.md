@@ -1,13 +1,13 @@
 # neptUNO+ FPGA Report: Arcade Games (Unsupported)
 
 This report provides an overview of the unsupported arcade games for the **neptUNO+** FPGA.
-Report generated on: 2025-04-22
+Report generated on: 2025-05-07
 
 ## 📊 Summary
 
-- **Total Games (MRAs Found):** 2370
-- **Games for Supported Cores:** 1627
-- **Games for Unsupported Cores:** 743
+- **Total Games (MRAs Found):** 2376
+- **Games for Supported Cores:** 1626
+- **Games for Unsupported Cores:** 750
 
 ---
 
@@ -361,6 +361,11 @@ Report generated on: 2025-04-22
 | jts18 | [shdancer](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=shdancer&lang=en) | Shadow Dancer (W).mra | Sega System 18 | 0 | 1989 |
 | jts18 | [shdancer1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=shdancer1&lang=en) | Shadow Dancer (US).mra | Sega System 18 | 0 | 1989 |
 | jts18 | [shdancerj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=shdancerj&lang=en) | Shadow Dancer (JP).mra | Sega System 18 | 0 | 1989 |
+| jtthundr | [rthunder](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rthunder&lang=en) | *Not in MAD DB* | Namco System 86 | N/A | N/A |
+| jtthundr | [rthunder0](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rthunder0&lang=en) | *Not in MAD DB* | Namco System 86 | N/A | N/A |
+| jtthundr | [rthunder1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rthunder1&lang=en) | *Not in MAD DB* | Namco System 86 | N/A | N/A |
+| jtthundr | [rthunder2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rthunder2&lang=en) | *Not in MAD DB* | Namco System 86 | N/A | N/A |
+| jtthundr | [rthundera](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rthundera&lang=en) | *Not in MAD DB* | Namco System 86 | N/A | N/A |
 | kickandrun | [kicknrun](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=kicknrun&lang=en) | Kick and Run (W).mra | Taito Kick and Run hardware | 0 | 1986 |
 | kingdmgpmister | [kingdmgp](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=kingdmgp&lang=en) | Kingdom Grandprix.mra | Toaplan 2 | 270 | 1994 |
 | kingdmgpmister | [shippumd](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=shippumd&lang=en) | Shippu Mahou Daisakusen (JP).mra | Toaplan 2 | 270 | 1994 |
@@ -374,7 +379,9 @@ Report generated on: 2025-04-22
 | lunarlander | [llander1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=llander1&lang=en) | Lunar Lander (Rev 1).mra | Atari 6502 | 0 | 1979 |
 | mariobros | [mario](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mario&lang=en) | Mario Bros. (US, Rev G).mra | Mario Bros. hardware | 0 | 1983 |
 | mazingermister | [mazinger](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mazinger&lang=en) | Mazinger Z.mra | CAVE 68000 | 90 | 1994 |
+| mazingermister | [mazingerh](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mazingerh&lang=en) | *Not in MAD DB* | CAVE 68000 | N/A | N/A |
 | mazingermister | [mazingerj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mazingerj&lang=en) | Mazinger Z (JP).mra | CAVE 68000 | 90 | 1994 |
+| mazingermister | [mazingerjh](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mazingerjh&lang=en) | *Not in MAD DB* | CAVE 68000 | N/A | N/A |
 | mcr3mono | [demoderm](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=demoderm&lang=en) | Demolition Derby (MCR-3 Mono Board Version).mra | Midway MCR3 | 0 | 1984 |
 | mcr3mono | [maxrpm](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=maxrpm&lang=en) | Max RPM (v2).mra | Midway MCR3 | 0 | 1986 |
 | mcr3mono | [powerdrv](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=powerdrv&lang=en) | Power Drive.mra | Midway MCR3 | 0 | 1986 |
