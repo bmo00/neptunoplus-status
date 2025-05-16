@@ -2,13 +2,13 @@
 
 This report provides an overview of the supported arcade games by core for the **neptUNO+** FPGA.
 
-Report generated on: 2025-05-07
+Report generated on: 2025-05-16
 
 ## 📊 Summary
 
-- **Total Games (MRAs Found):** 2347
-- **Games for Supported Cores:** 1597
-- **Games for Unsupported Cores:** 750
+- **Total Games (MRAs Found):** 2354
+- **Games for Supported Cores:** 1599
+- **Games for Unsupported Cores:** 755
 
 ---
 
@@ -426,6 +426,8 @@ Report generated on: 2025-05-07
 | [tokiob](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tokiob&lang=en) | `Tokio (Scramble Formation) [bl].mra` | `Tokio (Scramble Formation) [bl].arc` | `Not Found` | `MRA Not Found` |   | 1986 |
 | [tokioo](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tokioo&lang=en) | `Tokio (Scramble Formation) (Older).mra` | `Tokio (Scramble Formation) (Older).arc` | `Not Found` | `MRA Not Found` |   | 1986 |
 | [tokiou](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tokiou&lang=en) | `Tokio (Scramble Formation) (US).mra` | `Tokio (Scramble Formation) (US).arc` | `Not Found` | `MRA Not Found` |   | 1986 |
+| *Games not found in MAD DB* | | | | | | |
+| [bublboblultra](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bublboblultra&lang=en) | `bublboblultra.mra` | `bublboblultra.arc` | `Not Found` | `MRA Not Found` |   | N/A |
 
 ### jtcastle (Konami 6309 based)
 
@@ -1012,6 +1014,8 @@ Report generated on: 2025-05-07
 | [xmvsfu1d](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=xmvsfu1d&lang=en) | `X-Men Vs. Street Fighter (US, Phoenix Edition).mra` | `X-Men Vs. Street Fighter (US, Phoenix Edition).arc` | `Not Found` | `MRA Not Found` |   | 1996 |
 | [xmvsfur1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=xmvsfur1&lang=en) | `X-Men Vs. Street Fighter (US, 961004).mra` | `X-Men Vs. Street Fighter (US, 961004).arc` | `Not Found` | `MRA Not Found` |   | 1996 |
 | [xmvsfur2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=xmvsfur2&lang=en) | `X-Men Vs. Street Fighter (US, 960910).mra` | `X-Men Vs. Street Fighter (US, 960910).arc` | `Not Found` | `MRA Not Found` |   | 1996 |
+| *Games not found in MAD DB* | | | | | | |
+| [sf2prime](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2prime&lang=en) | `sf2prime.mra` | `sf2prime.arc` | `Not Found` | `MRA Not Found` |   | N/A |
 
 ### jtdd (Technos 6309 based)
 

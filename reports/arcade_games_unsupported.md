@@ -2,13 +2,13 @@
 
 This report provides an overview of the unsupported arcade games for the **neptUNO+** FPGA.
 
-Report generated on: 2025-05-07
+Report generated on: 2025-05-16
 
 ## 📊 Summary
 
-- **Total Games (MRAs Found):** 2347
-- **Games for Supported Cores:** 1597
-- **Games for Unsupported Cores:** 750
+- **Total Games (MRAs Found):** 2354
+- **Games for Supported Cores:** 1599
+- **Games for Unsupported Cores:** 755
 
 ---
 
@@ -362,11 +362,15 @@ Report generated on: 2025-05-07
 | jts18 | [shdancer](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=shdancer&lang=en) | Shadow Dancer (W).mra | Sega System 18 | 0 | 1989 |
 | jts18 | [shdancer1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=shdancer1&lang=en) | Shadow Dancer (US).mra | Sega System 18 | 0 | 1989 |
 | jts18 | [shdancerj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=shdancerj&lang=en) | Shadow Dancer (JP).mra | Sega System 18 | 0 | 1989 |
-| jtthundr | [rthunder](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rthunder&lang=en) | *Not in MAD DB* | Namco System 86 | N/A | N/A |
-| jtthundr | [rthunder0](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rthunder0&lang=en) | *Not in MAD DB* | Namco System 86 | N/A | N/A |
-| jtthundr | [rthunder1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rthunder1&lang=en) | *Not in MAD DB* | Namco System 86 | N/A | N/A |
-| jtthundr | [rthunder2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rthunder2&lang=en) | *Not in MAD DB* | Namco System 86 | N/A | N/A |
-| jtthundr | [rthundera](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rthundera&lang=en) | *Not in MAD DB* | Namco System 86 | N/A | N/A |
+| jtthundr | [hopmappy](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=hopmappy&lang=en) | Hopping Mappy.mra | Namco System 86 | 0 | 1986 |
+| jtthundr | [rthunder](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rthunder&lang=en) | Rolling Thunder (Rev 3).mra | Namco System 86 | 0 | 1986 |
+| jtthundr | [rthunder0](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rthunder0&lang=en) | Rolling Thunder (Oldest).mra | Namco System 86 | 0 | 1986 |
+| jtthundr | [rthunder1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rthunder1&lang=en) | Rolling Thunder (Rev 1).mra | Namco System 86 | 0 | 1986 |
+| jtthundr | [rthunder2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rthunder2&lang=en) | Rolling Thunder (Rev 2).mra | Namco System 86 | 0 | 1986 |
+| jtthundr | [rthundera](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rthundera&lang=en) | Rolling Thunder (Rev 3, hack).mra | Namco System 86 | 0 | 1986 |
+| jtthundr | [skykiddx](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=skykiddx&lang=en) | Sky Kid Deluxe (Set 1).mra | Namco System 86 | 0 | 1986 |
+| jtthundr | [skykiddxo](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=skykiddxo&lang=en) | Sky Kid Deluxe (Set 2).mra | Namco System 86 | 0 | 1986 |
+| jtthundr | [wndrmomo](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wndrmomo&lang=en) | Wonder Momo.mra | Namco System 86 | 0 | 1987 |
 | kickandrun | [kicknrun](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=kicknrun&lang=en) | Kick and Run (W).mra | Taito Kick and Run hardware | 0 | 1986 |
 | kingdmgpmister | [kingdmgp](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=kingdmgp&lang=en) | Kingdom Grandprix.mra | Toaplan 2 | 270 | 1994 |
 | kingdmgpmister | [shippumd](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=shippumd&lang=en) | Shippu Mahou Daisakusen (JP).mra | Toaplan 2 | 270 | 1994 |
@@ -419,6 +423,7 @@ Report generated on: 2025-05-07
 | megasys1a | [stdragona](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=stdragona&lang=en) | Saint Dragon (Set 2).mra | Jaleco Mega System 1 | 0 | 1989 |
 | mysticmarathon | [mysticm](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mysticm&lang=en) | Mystic Marathon.mra | Williams 2nd Generation | 0 | 1983 |
 | naughtyboy | [naughtyb](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=naughtyb&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| naughtyboy | [popflamn](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=popflamn&lang=en) | *Not in MAD DB* |  | N/A | N/A |
 | nemesis | [nemesis](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nemesis&lang=en) | Nemesis (ROM version).mra | Konami GX400 | 0 | 1985 |
 | nemesis | [nemesisuk](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nemesisuk&lang=en) | Nemesis (W, ROM version).mra | Konami GX400 | 0 | 1985 |
 | neogeo-mvs | [doubledr](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=doubledr&lang=en) | *Not in MAD DB* |  | N/A | N/A |

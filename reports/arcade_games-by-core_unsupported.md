@@ -2,13 +2,13 @@
 
 This report provides an overview of the unsupported arcade games by core for the **neptUNO+** FPGA.
 
-Report generated on: 2025-05-07
+Report generated on: 2025-05-16
 
 ## 📊 Summary
 
-- **Total Games (MRAs Found):** 2347
-- **Games for Supported Cores:** 1597
-- **Games for Unsupported Cores:** 750
+- **Total Games (MRAs Found):** 2354
+- **Games for Supported Cores:** 1599
+- **Games for Unsupported Cores:** 755
 
 ---
 
@@ -651,12 +651,15 @@ Report generated on: 2025-05-07
 
 | 📝 **Set name** | 📁 **MRA File** | 📦 **ARC File** | 💾 **ROM MD5** | 📄 **MRA MD5** | ✅ **Verified** | 📅 **Year** |
 |-----------------|-----------------|-----------------|----------------|----------------|-----------------|------------|
-| *Games not found in MAD DB* | | | | | | |
-| [rthunder](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rthunder&lang=en) | `rthunder.mra` | `rthunder.arc` | `Not Found` | `MRA Not Found` |   | N/A |
-| [rthunder0](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rthunder0&lang=en) | `rthunder0.mra` | `rthunder0.arc` | `Not Found` | `MRA Not Found` |   | N/A |
-| [rthunder1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rthunder1&lang=en) | `rthunder1.mra` | `rthunder1.arc` | `Not Found` | `MRA Not Found` |   | N/A |
-| [rthunder2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rthunder2&lang=en) | `rthunder2.mra` | `rthunder2.arc` | `Not Found` | `MRA Not Found` |   | N/A |
-| [rthundera](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rthundera&lang=en) | `rthundera.mra` | `rthundera.arc` | `Not Found` | `MRA Not Found` |   | N/A |
+| [hopmappy](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=hopmappy&lang=en) | `Hopping Mappy.mra` | `Hopping Mappy.arc` | `Not Found` | `None` |   | 1986 |
+| [rthunder](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rthunder&lang=en) | `Rolling Thunder (Rev 3).mra` | `Rolling Thunder (Rev 3).arc` | `Not Found` | `MRA Not Found` |   | 1986 |
+| [rthunder0](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rthunder0&lang=en) | `Rolling Thunder (Oldest).mra` | `Rolling Thunder (Oldest).arc` | `Not Found` | `MRA Not Found` |   | 1986 |
+| [rthunder1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rthunder1&lang=en) | `Rolling Thunder (Rev 1).mra` | `Rolling Thunder (Rev 1).arc` | `Not Found` | `MRA Not Found` |   | 1986 |
+| [rthunder2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rthunder2&lang=en) | `Rolling Thunder (Rev 2).mra` | `Rolling Thunder (Rev 2).arc` | `Not Found` | `MRA Not Found` |   | 1986 |
+| [rthundera](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rthundera&lang=en) | `Rolling Thunder (Rev 3, hack).mra` | `Rolling Thunder (Rev 3, hack).arc` | `Not Found` | `MRA Not Found` |   | 1986 |
+| [skykiddx](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=skykiddx&lang=en) | `Sky Kid Deluxe (Set 1).mra` | `Sky Kid Deluxe (Set 1).arc` | `Not Found` | `MRA Not Found` |   | 1986 |
+| [skykiddxo](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=skykiddxo&lang=en) | `Sky Kid Deluxe (Set 2).mra` | `Sky Kid Deluxe (Set 2).arc` | `Not Found` | `MRA Not Found` |   | 1986 |
+| [wndrmomo](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=wndrmomo&lang=en) | `Wonder Momo.mra` | `Wonder Momo.arc` | `Not Found` | `None` |   | 1987 |
 
 ### kickandrun (Taito Kick and Run hardware)
 
@@ -766,6 +769,7 @@ Report generated on: 2025-05-07
 |-----------------|-----------------|-----------------|----------------|----------------|-----------------|------------|
 | *Games not found in MAD DB* | | | | | | |
 | [naughtyb](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=naughtyb&lang=en) | `naughtyb.mra` | `naughtyb.arc` | `Not Found` | `MRA Not Found` |   | N/A |
+| [popflamn](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=popflamn&lang=en) | `popflamn.mra` | `popflamn.arc` | `Not Found` | `MRA Not Found` |   | N/A |
 
 ### nemesis (Konami GX400)
 

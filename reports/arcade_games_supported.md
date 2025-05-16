@@ -2,13 +2,13 @@
 
 This report provides an overview of the supported arcade games for the **neptUNO+** FPGA.
 
-Report generated on: 2025-05-07
+Report generated on: 2025-05-16
 
 ## 📊 Summary
 
-- **Total Games (MRAs Found):** 2347
-- **Games for Supported Cores:** 1597
-- **Games for Unsupported Cores:** 750
+- **Total Games (MRAs Found):** 2354
+- **Games for Supported Cores:** 1599
+- **Games for Unsupported Cores:** 755
 
 ---
 
@@ -282,6 +282,7 @@ Report generated on: 2025-05-07
 | jtbubl | [bublboblp](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bublboblp&lang=en) | Bubble Bobble (Tokio Prototype).mra | Taito Bubble Booble based | 0 | 1986 |
 | jtbubl | [bublboblr](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bublboblr&lang=en) | Bubble Bobble (US, v5.1).mra | Taito Bubble Booble based | 0 | 1986 |
 | jtbubl | [bublboblr1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bublboblr1&lang=en) | Bubble Bobble (US, v1.0).mra | Taito Bubble Booble based | 0 | 1986 |
+| jtbubl | [bublboblultra](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bublboblultra&lang=en) | *Not in MAD DB* | Taito Bubble Booble based | N/A | N/A |
 | jtbubl | [bublcave](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bublcave&lang=en) | Bubble Bobble- Lost Cave (v1.2) [hb].mra | Taito Bubble Booble based | 0 | 1986 |
 | jtbubl | [bublcave10](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bublcave10&lang=en) | Bubble Bobble- Lost Cave (v1.0) [hb].mra | Taito Bubble Booble based | 0 | 1986 |
 | jtbubl | [bublcave11](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bublcave11&lang=en) | Bubble Bobble- Lost Cave (v1.1) [hb].mra | Taito Bubble Booble based | 0 | 1986 |
@@ -688,6 +689,7 @@ Report generated on: 2025-05-07
 | jtcps2 | [ringdstd](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ringdstd&lang=en) | Ring of Destruction- Slam Masters II (EU, Phoenix Edition).mra | Capcom CPS-2 | 0 | 1994 |
 | jtcps2 | [rmancp2j](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rmancp2j&lang=en) | Rockman- The Power Battle (JP, CPS-2, 950922).mra | Capcom CPS-2 | 0 | 1995 |
 | jtcps2 | [rockman2j](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rockman2j&lang=en) | Rockman 2- The Power Fighters (JP, 960708).mra | Capcom CPS-2 | 0 | 1996 |
+| jtcps2 | [sf2prime](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2prime&lang=en) | *Not in MAD DB* | Capcom CPS-2 | N/A | N/A |
 | jtcps2 | [sfa](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sfa&lang=en) | Street Fighter Alpha- Warriors' Dreams (EU, 950727).mra | Capcom CPS-2 | 0 | 1995 |
 | jtcps2 | [sfa2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sfa2&lang=en) | Street Fighter Alpha 2 (EU, 960229).mra | Capcom CPS-2 | 0 | 1996 |
 | jtcps2 | [sfa2u](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sfa2u&lang=en) | Street Fighter Alpha 2 (US, 960430).mra | Capcom CPS-2 | 0 | 1996 |
