@@ -2,13 +2,13 @@
 
 This report provides an overview of the supported arcade games for the **neptUNO+** FPGA.
 
-Report generated on: 2025-05-16
+Report generated on: 2025-05-23
 
 ## 📊 Summary
 
 - **Total Games (MRAs Found):** 2354
-- **Games for Supported Cores:** 1599
-- **Games for Unsupported Cores:** 755
+- **Games for Supported Cores:** 1613
+- **Games for Unsupported Cores:** 741
 
 ---
 
@@ -844,6 +844,15 @@ Report generated on: 2025-05-16
 | jtexed | [exedexes](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=exedexes&lang=en) | Exed Exes.mra | Capcom CPS-0 | 90 | 1985 |
 | jtexed | [savgbees](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=savgbees&lang=en) | Savage Bees.mra | Capcom CPS-0 | 270 | 1985 |
 | jtflane | [fastlane](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=fastlane&lang=en) | Fast Lane (W).mra | Konami Contra based | 90 | 1987 |
+| jtflstory | [bronx](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bronx&lang=en) | Bronx [bl].mra | Taito N.Y. Captor hardware | 0 | 1986 |
+| jtflstory | [colt](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=colt&lang=en) | Colt [bl].mra | Taito N.Y. Captor hardware | 0 | 1985 |
+| jtflstory | [flstory](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=flstory&lang=en) | The FairyLand Story.mra | Taito The FairyLand Story hardware | 0 | 1985 |
+| jtflstory | [flstoryo](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=flstoryo&lang=en) | The FairyLand Story (Earlier).mra | Taito The FairyLand Story hardware | 0 | 1985 |
+| jtflstory | [nycaptor](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nycaptor&lang=en) | N.Y. Captor (Rev 2).mra | Taito N.Y. Captor hardware | 0 | 1985 |
+| jtflstory | [onna34ro](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=onna34ro&lang=en) | Onna Sanshirou - Typhoon Gal (Rev 1).mra | Taito The FairyLand Story hardware | 0 | 1985 |
+| jtflstory | [onna34roa](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=onna34roa&lang=en) | Onna Sanshirou - Typhoon Gal [bl].mra | Taito The FairyLand Story hardware | 0 | 1985 |
+| jtflstory | [rumba](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rumba&lang=en) | Rumba Lumber (Rev 1).mra | Taito The FairyLand Story hardware | 270 | 1984 |
+| jtflstory | [victnine](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=victnine&lang=en) | Victorious Nine.mra | Taito The FairyLand Story hardware | 0 | 1984 |
 | jtfround | [fround](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=fround&lang=en) | The Final Round (Ver. M).mra | Konami Twin16 hardware | 0 | 1988 |
 | jtfround | [froundl](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=froundl&lang=en) | The Final Round (Ver. L).mra | Konami Twin16 hardware | 0 | 1988 |
 | jtgaiden | [gaiden](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gaiden&lang=en) | Ninja Gaiden (US).mra | Tecmo Ninja Gaiden hardware | 0 | 1988 |
@@ -1506,6 +1515,11 @@ Report generated on: 2025-05-16
 | pacman | [woodpeck](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=woodpeck&lang=en) | Woodpecker (Set 1).mra | Namco Pac-Man hardware | 90 | 1981 |
 | pacman | [xensad](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=xensad&lang=en) | Xens Revenge After Dark [hb].mra | Namco Pac-Man hardware | 90 | 1980 |
 | pacman | [xensrev](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=xensrev&lang=en) | Xens Revenge [hb].mra | Namco Pac-Man hardware | 90 | 1980 |
+| pengo | [pengo](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pengo&lang=en) | Pengo (Set 1, Rev C).mra | Sega Z80 | 90 | 1982 |
+| pengo | [pengo2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pengo2&lang=en) | Pengo (Set 2).mra | Sega Z80 | 90 | 1982 |
+| pengo | [pengo4](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pengo4&lang=en) | Pengo (Set 4).mra | Sega Z80 | 90 | 1982 |
+| pengo | [pengo5](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pengo5&lang=en) | Pengo (Set 5).mra | Sega Z80 | 90 | 1982 |
+| pengo | [vecpengo](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vecpengo&lang=en) | Pengo (Vector) [hb].mra | Sega Z80 | 90 | 1982 |
 | phoenix | [avefenix](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=avefenix&lang=en) | Ave Fenix (Electrogame, ES, Phoenix) [bl].mra | Taito Unique | 90 | 1980 |
 | phoenix | [avefenixl](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=avefenixl&lang=en) | Ave Fenix (Laguna, ES, Phoenix) [bl].mra | Taito Unique | 90 | 1980 |
 | phoenix | [avefenixrf](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=avefenixrf&lang=en) | Ave Fenix (Recreativos Franco, ES, Phoenix) [bl].mra | Taito Unique | 90 | 1980 |

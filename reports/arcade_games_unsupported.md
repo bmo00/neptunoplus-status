@@ -2,13 +2,13 @@
 
 This report provides an overview of the unsupported arcade games for the **neptUNO+** FPGA.
 
-Report generated on: 2025-05-16
+Report generated on: 2025-05-23
 
 ## 📊 Summary
 
 - **Total Games (MRAs Found):** 2354
-- **Games for Supported Cores:** 1599
-- **Games for Unsupported Cores:** 755
+- **Games for Supported Cores:** 1613
+- **Games for Unsupported Cores:** 741
 
 ---
 
@@ -323,15 +323,6 @@ Report generated on: 2025-05-16
 | jackal | [topgunr](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=topgunr&lang=en) | Top Gunner (US).mra | Konami Double Dribble based | 90 | 1986 |
 | joust2 | [joust2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=joust2&lang=en) | Joust 2 - Survival of the Fittest (Rev 2).mra | Williams 2nd Generation | 270 | 1986 |
 | joust2 | [joust2r1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=joust2r1&lang=en) | Joust 2 - Survival of the Fittest (Rev 1).mra | Williams 2nd Generation | 270 | 1986 |
-| jtflstory | [bronx](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=bronx&lang=en) | Bronx [bl].mra | Taito N.Y. Captor hardware | 0 | 1986 |
-| jtflstory | [colt](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=colt&lang=en) | Colt [bl].mra | Taito N.Y. Captor hardware | 0 | 1985 |
-| jtflstory | [flstory](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=flstory&lang=en) | The FairyLand Story.mra | Taito The FairyLand Story hardware | 0 | 1985 |
-| jtflstory | [flstoryo](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=flstoryo&lang=en) | The FairyLand Story (Earlier).mra | Taito The FairyLand Story hardware | 0 | 1985 |
-| jtflstory | [nycaptor](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nycaptor&lang=en) | N.Y. Captor (Rev 2).mra | Taito N.Y. Captor hardware | 0 | 1985 |
-| jtflstory | [onna34ro](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=onna34ro&lang=en) | Onna Sanshirou - Typhoon Gal (Rev 1).mra | Taito The FairyLand Story hardware | 0 | 1985 |
-| jtflstory | [onna34roa](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=onna34roa&lang=en) | Onna Sanshirou - Typhoon Gal [bl].mra | Taito The FairyLand Story hardware | 0 | 1985 |
-| jtflstory | [rumba](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rumba&lang=en) | Rumba Lumber (Rev 1).mra | Taito The FairyLand Story hardware | 270 | 1984 |
-| jtflstory | [victnine](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=victnine&lang=en) | Victorious Nine.mra | Taito The FairyLand Story hardware | 0 | 1984 |
 | jtngp | [ngp](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ngp&lang=en) | *Not in MAD DB* |  | N/A | N/A |
 | jtngpc | [ngpc](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ngpc&lang=en) | *Not in MAD DB* |  | N/A | N/A |
 | jtriders | [ssriders](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ssriders&lang=en) | Sunset Riders (4P, Ver EAC).mra | Konami TMNT 2 based | 0 | 1991 |
@@ -435,11 +426,6 @@ Report generated on: 2025-05-16
 | nextspace | [tnextspc](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tnextspc&lang=en) | The Next Space (Set 1).mra | SNK 68000 | 90 | 1989 |
 | nextspace | [tnextspc2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tnextspc2&lang=en) | The Next Space (Set 2).mra | SNK 68000 | 90 | 1989 |
 | nextspace | [tnextspcj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=tnextspcj&lang=en) | The Next Space (JP).mra | SNK 68000 | 90 | 1989 |
-| pengo | [pengo](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pengo&lang=en) | Pengo (Set 1, Rev C).mra | Sega Z80 | 90 | 1982 |
-| pengo | [pengo2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pengo2&lang=en) | Pengo (Set 2).mra | Sega Z80 | 90 | 1982 |
-| pengo | [pengo4](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pengo4&lang=en) | Pengo (Set 4).mra | Sega Z80 | 90 | 1982 |
-| pengo | [pengo5](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pengo5&lang=en) | Pengo (Set 5).mra | Sega Z80 | 90 | 1982 |
-| pengo | [vecpengo](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vecpengo&lang=en) | Pengo (Vector) [hb].mra | Sega Z80 | 90 | 1982 |
 | penguinkunwars | [pkunwar](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pkunwar&lang=en) | Penguin-Kun Wars (US).mra | UPL Unique | 0 | 1985 |
 | penguinkunwars | [pkunwarj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pkunwarj&lang=en) | Penguin-Kun Wars (JP).mra | UPL Unique | 0 | 1985 |
 | performan | [perfrman](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=perfrman&lang=en) | Performan (JP).mra | Toaplan Slap Fight hardware | 270 | 1985 |

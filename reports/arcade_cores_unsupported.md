@@ -2,13 +2,13 @@
 
 This report provides an overview of the unsupported arcade cores for the **neptUNO+** FPGA.
 
-Report generated on: 2025-05-16
+Report generated on: 2025-05-23
 
 ## 📊 Summary
 
 - **Total Cores in Local DB:** 242
-- **Supported Cores:** 106
-- **Unsupported Cores:** 136
+- **Supported Cores:** 108
+- **Unsupported Cores:** 134
 
 ---
 
@@ -70,7 +70,6 @@ Report generated on: 2025-05-16
 | iremm90 | Irem M90 |  | Mister - [MiSTer-devel/Arcade-IremM90_MiSTer](https://github.com/MiSTer-devel/Arcade-IremM90_MiSTer) | Distribution_MiSTer |  |
 | jackal | Konami Double Dribble based |  | Mister - [MiSTer-devel/Arcade-Jackal_MiSTer](https://github.com/MiSTer-devel/Arcade-Jackal_MiSTer)<br>Mist - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Konami%20Jackal)<br>Sidi128 - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Konami%20Jackal) | Distribution_MiSTer |  |
 | joust2 | Williams 2nd Generation |  | Mister - [MiSTer-devel/Arcade-Joust2_MiSTer](https://github.com/MiSTer-devel/Arcade-Joust2_MiSTer)<br>Mist - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Williams%206809%20rev.2%20Hardware) | Distribution_MiSTer | Core williams2 merged on MiST/SiDi 128 |
-| jtflstory | Taito The FairyLand Story hardware |  | Mister - [jotego/jtcores](https://github.com/jotego/jtcores/tree/master/cores/flstory) | JOTEGO |  |
 | jtngp |  |  | Mister - [jotego/jtcores](https://github.com/jotego/jtcores/tree/master/cores/ngp) | JOTEGO |  |
 | jtngpc |  |  | Mister - [jotego/jtcores](https://github.com/jotego/jtcores/tree/master/cores/ngpc) | JOTEGO |  |
 | jtriders | Konami TMNT 2 based |  | Mister - [jotego/jtcores](https://github.com/jotego/jtcores/tree/master/cores/riders) | JOTEGO |  |
@@ -92,7 +91,6 @@ Report generated on: 2025-05-16
 | nemesis | Konami GX400 |  | Mister - [GX400-Friends/gx400-src](https://github.com/GX400-Friends/gx400-src) | Unofficial_Distribution_MiSTer |  |
 | neogeo-mvs |  |  | N/A | Insert-Coin |  |
 | nextspace | SNK 68000 |  | Mister - [va7deo/nextspace](https://github.com/va7deo/nextspace) | Coin-OpCollection |  |
-| pengo | Sega Z80 |  | Mister - [MiSTer-devel/Arcade-Pengo_MiSTer](https://github.com/MiSTer-devel/Arcade-Pengo_MiSTer)<br>Mist - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Namco%20Pacman%20Hardware/Pengo_MiST)<br>Sidi128 - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Namco%20Pacman%20Hardware/Pengo_MiST) | Distribution_MiSTer |  |
 | penguinkunwars | UPL Unique |  | Mist - [MiSTer-devel/Arcade-PenguinKunWars_MiSTer](https://github.com/MiSTer-devel/Arcade-PenguinKunWars_MiSTer) | Distribution_MiSTer |  |
 | performan | Toaplan Slap Fight hardware |  | Mister - [MiSTer-devel/Arcade-Performan_MiSTer](https://github.com/MiSTer-devel/Arcade-Performan_MiSTer) | Distribution_MiSTer |  |
 | pipibibs | Toaplan 2 |  | Mister - [atrac17/Toaplan2](https://github.com/atrac17/Toaplan2/tree/main/cores/pipibibs) | Coin-OpCollection |  |

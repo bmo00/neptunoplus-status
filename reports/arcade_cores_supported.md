@@ -2,13 +2,13 @@
 
 This report provides an overview of the supported arcade cores for the **neptUNO+** FPGA.
 
-Report generated on: 2025-05-16
+Report generated on: 2025-05-23
 
 ## 📊 Summary
 
 - **Total Cores in Local DB:** 242
-- **Supported Cores:** 106
-- **Unsupported Cores:** 136
+- **Supported Cores:** 108
+- **Unsupported Cores:** 134
 
 ---
 
@@ -58,6 +58,7 @@ Report generated on: 2025-05-16
 | jtdd2 | Technos 6309 based |  | Mister - [jotego/jtcores](https://github.com/jotego/jtcores/tree/master/cores/dd2) | JOTEGO |  |
 | jtexed | Capcom CPS-0 |  | Mister - [jotego/jtcores](https://github.com/jotego/jtcores/tree/master/cores/exed) | JOTEGO |  |
 | jtflane | Konami Contra based |  | Mister - [jotego/jtcores](https://github.com/jotego/jtcores/tree/master/cores/flane) | JOTEGO |  |
+| jtflstory | Taito The FairyLand Story hardware |  | Mister - [jotego/jtcores](https://github.com/jotego/jtcores/tree/master/cores/flstory) | JOTEGO |  |
 | jtfround | Konami Twin16 hardware |  | Mister - [jotego/jtcores](https://github.com/jotego/jtcores/tree/master/cores/fround) | JOTEGO |  |
 | jtgaiden | Tecmo Ninja Gaiden hardware |  | Mister - [jotego/jtcores](https://github.com/jotego/jtcores/tree/master/cores/gaiden) | JOTEGO |  |
 | jtgng | Capcom CPS-0 |  | Mister - [jotego/jtcores](https://github.com/jotego/jtcores/tree/master/cores/gng) | JOTEGO |  |
@@ -110,6 +111,7 @@ Report generated on: 2025-05-16
 | mrjong | Kiwako Mr. Jong hardware |  | Mister - [MiSTer-devel/Arcade-MrJong_MiSTer](https://github.com/MiSTer-devel/Arcade-MrJong_MiSTer)<br>Mist - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Kiwako%20MrJong)<br>Sidi128 - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Kiwako%20MrJong) | Distribution_MiSTer |  |
 | ninjakun | Taito Unique |  | Mister - [MiSTer-devel/Arcade-NinjaKun_MiSTer](https://github.com/MiSTer-devel/Arcade-NinjaKun_MiSTer)<br>Mist - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/UPL%20Nova2001_Hardware)<br>Sidi128 - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/UPL%20Nova2001_Hardware) | Distribution_MiSTer |  |
 | pacman | Namco Pac-Man hardware |  | Mister - [MiSTer-devel/Arcade-Pacman_MiSTer](https://github.com/MiSTer-devel/Arcade-Pacman_MiSTer)<br>Mist - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Namco%20Pacman%20Hardware/Pacman)<br>Sidi128 - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Namco%20Pacman%20Hardware/Pacman) | Distribution_MiSTer |  |
+| pengo | Sega Z80 |  | Mister - [MiSTer-devel/Arcade-Pengo_MiSTer](https://github.com/MiSTer-devel/Arcade-Pengo_MiSTer)<br>Mist - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Namco%20Pacman%20Hardware/Pengo_MiST)<br>Sidi128 - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Namco%20Pacman%20Hardware/Pengo_MiST) | Distribution_MiSTer |  |
 | phoenix | Taito Unique |  | Mister - [MiSTer-devel/Arcade-Phoenix_MiSTer](https://github.com/MiSTer-devel/Arcade-Phoenix_MiSTer)<br>Mist - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Phoenix%20Hardware)<br>Sidi128 - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Phoenix%20Hardware) | Distribution_MiSTer |  |
 | pooyan | Konami Z80 |  | Mister - [MiSTer-devel/Arcade-Pooyan_MiSTer](https://github.com/MiSTer-devel/Arcade-Pooyan_MiSTer)<br>Mist - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Konami%20Pooyan)<br>Sidi128 - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Konami%20Pooyan) | Distribution_MiSTer |  |
 | qbert | Konami Unique |  | Mister - [MiSTer-devel/Arcade-QBert_MiSTer](https://github.com/MiSTer-devel/Arcade-QBert_MiSTer)<br>Mist - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Gottlieb%20Qbert)<br>Sidi128 - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Gottlieb%20Qbert) | Distribution_MiSTer |  |
