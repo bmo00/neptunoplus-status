@@ -2,13 +2,13 @@
 
 This report provides an overview of the unsupported arcade games by core for the **neptUNO+** FPGA.
 
-Report generated on: 2025-05-23
+Report generated on: 2025-05-26
 
 ## 📊 Summary
 
-- **Total Games (MRAs Found):** 2354
+- **Total Games (MRAs Found):** 2360
 - **Games for Supported Cores:** 1613
-- **Games for Unsupported Cores:** 741
+- **Games for Unsupported Cores:** 747
 
 ---
 
@@ -589,6 +589,18 @@ Report generated on: 2025-05-23
 |-----------------|-----------------|----------------|-----------------|-------------|
 | *Games not found in MAD DB* | | | | | | |
 | [ngpc](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ngpc&lang=en) | `ngpc.arc` | `ROM Not Found`/`MRA Not Found` | Init | Unknown |
+
+### jtpaclan (Namco Pac-Land hardware)
+
+| 📝 **Set name** | 📦 **ARC File** | 📄 **ROM MD5** | ✅ **Verified** | 📅 **Year** |
+|-----------------|-----------------|----------------|-----------------|-------------|
+| *Games not found in MAD DB* | | | | | | |
+| [pacland](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pacland&lang=en) | `pacland.arc` | `ROM Not Found`/`MRA Not Found` | Init | Unknown |
+| [paclandj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=paclandj&lang=en) | `paclandj.arc` | `ROM Not Found`/`MRA Not Found` | Init | Unknown |
+| [paclandjo](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=paclandjo&lang=en) | `paclandjo.arc` | `ROM Not Found`/`MRA Not Found` | Init | Unknown |
+| [paclandjo2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=paclandjo2&lang=en) | `paclandjo2.arc` | `ROM Not Found`/`MRA Not Found` | Init | Unknown |
+| [paclandm](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=paclandm&lang=en) | `paclandm.arc` | `ROM Not Found`/`MRA Not Found` | Init | Unknown |
+| [paclandm2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=paclandm2&lang=en) | `paclandm2.arc` | `ROM Not Found`/`MRA Not Found` | Init | Unknown |
 
 ### jtriders (Konami TMNT 2 based)
 

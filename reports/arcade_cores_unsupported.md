@@ -2,13 +2,13 @@
 
 This report provides an overview of the unsupported arcade cores for the **neptUNO+** FPGA.
 
-Report generated on: 2025-05-23
+Report generated on: 2025-05-26
 
 ## 📊 Summary
 
-- **Total Cores in Local DB:** 242
+- **Total Cores in Local DB:** 243
 - **Supported Cores:** 108
-- **Unsupported Cores:** 134
+- **Unsupported Cores:** 135
 
 ---
 
@@ -72,6 +72,7 @@ Report generated on: 2025-05-23
 | joust2 | Williams 2nd Generation |  | Mister - [MiSTer-devel/Arcade-Joust2_MiSTer](https://github.com/MiSTer-devel/Arcade-Joust2_MiSTer)<br>Mist - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Williams%206809%20rev.2%20Hardware) | Distribution_MiSTer | Core williams2 merged on MiST/SiDi 128 |
 | jtngp |  |  | Mister - [jotego/jtcores](https://github.com/jotego/jtcores/tree/master/cores/ngp) | JOTEGO |  |
 | jtngpc |  |  | Mister - [jotego/jtcores](https://github.com/jotego/jtcores/tree/master/cores/ngpc) | JOTEGO |  |
+| jtpaclan | Namco Pac-Land hardware |  | Mister - [jotego/jtcores](https://github.com/jotego/jtcores/tree/master/cores/paclan) | JOTEGO |  |
 | jtriders | Konami TMNT 2 based |  | Mister - [jotego/jtcores](https://github.com/jotego/jtcores/tree/master/cores/riders) | JOTEGO |  |
 | jts16a2 | Sega System 16 |  | N/A | Insert-Coin |  |
 | jts18 | Sega System 18 |  | Mister - [jotego/jtcores](https://github.com/jotego/jtcores/tree/master/cores/s18) | JOTEGO |  |

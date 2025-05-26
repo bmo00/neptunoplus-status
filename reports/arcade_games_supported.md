@@ -2,13 +2,13 @@
 
 This report provides an overview of the supported arcade games for the **neptUNO+** FPGA.
 
-Report generated on: 2025-05-23
+Report generated on: 2025-05-26
 
 ## 📊 Summary
 
-- **Total Games (MRAs Found):** 2354
+- **Total Games (MRAs Found):** 2360
 - **Games for Supported Cores:** 1613
-- **Games for Unsupported Cores:** 741
+- **Games for Unsupported Cores:** 747
 
 ---
 

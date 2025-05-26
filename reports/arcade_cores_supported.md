@@ -2,13 +2,13 @@
 
 This report provides an overview of the supported arcade cores for the **neptUNO+** FPGA.
 
-Report generated on: 2025-05-23
+Report generated on: 2025-05-26
 
 ## 📊 Summary
 
-- **Total Cores in Local DB:** 242
+- **Total Cores in Local DB:** 243
 - **Supported Cores:** 108
-- **Unsupported Cores:** 134
+- **Unsupported Cores:** 135
 
 ---
 

@@ -2,13 +2,13 @@
 
 This report provides an overview of the supported arcade games by core for the **neptUNO+** FPGA.
 
-Report generated on: 2025-05-23
+Report generated on: 2025-05-26
 
 ## 📊 Summary
 
-- **Total Games (MRAs Found):** 2354
+- **Total Games (MRAs Found):** 2360
 - **Games for Supported Cores:** 1613
-- **Games for Unsupported Cores:** 741
+- **Games for Unsupported Cores:** 747
 
 ---
 
@@ -708,21 +708,21 @@ Report generated on: 2025-05-23
 | [19xxj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=19xxj&lang=en) | `19XX- The War Against Destiny (JP, 960104).arc` | `6ca9373701e01add46ca710cd2eb3819`/`MRA Not Found` | Init | 1996 |
 | [19xxjr1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=19xxjr1&lang=en) | `19XX- The War Against Destiny (JP, 951225).arc` | `34205b753d91d0bc0d1d930f9c5035ec`/`MRA Not Found` | Init | 1996 |
 | [19xxjr2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=19xxjr2&lang=en) | `19XX- The War Against Destiny (JP, 951207).arc` | `781f822d4004655530ea3f1f05478f5d`/`MRA Not Found` | Init | 1996 |
-| [19xxu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=19xxu&lang=en) | `19XX- The War Against Destiny (US, 951207).arc` | `d41d8cd98f00b204e9800998ecf8427e`/`MRA Not Found` | Init | 1996 |
+| [19xxu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=19xxu&lang=en) | `19XX- The War Against Destiny (US, 951207).arc` | `73123d96f3b484deaff52ed56d88c4ec`/`MRA Not Found` | Init | 1996 |
 | [armwar](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=armwar&lang=en) | `Armored Warriors (EU, 941024).arc` | `10dc05e106ab7b65f51c7d449d7a6115`/`MRA Not Found` | Init | 1994 |
 | [armwar1d](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=armwar1d&lang=en) | `Armored Warriors (EU, Phoenix Edition) [bl].arc` | `dc408b599312ac9640944be3d42452b6`/`MRA Not Found` | Init | 1994 |
 | [armwara](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=armwara&lang=en) | `Armored Warriors (AS, 941024).arc` | `6a1324ffbd99e23076462d8b18f1b81d`/`MRA Not Found` | Init | 1994 |
 | [armwarar1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=armwarar1&lang=en) | `Armored Warriors (AS, 940920).arc` | `6becbb1fecb03686a4a70c76a4c5ec55`/`MRA Not Found` | Init | 1994 |
 | [armwarb](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=armwarb&lang=en) | `Armored Warriors (BZ, 941024).arc` | `919c7f117f9d7384f732f5949b069e71`/`MRA Not Found` | Init | 1994 |
 | [armwarr1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=armwarr1&lang=en) | `Armored Warriors (EU, 941011).arc` | `c74f6a4dad2d00cf722f9f1cbfe8cb62`/`MRA Not Found` | Init | 1994 |
-| [armwaru](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=armwaru&lang=en) | `Armored Warriors (US, 941024).arc` | `d41d8cd98f00b204e9800998ecf8427e`/`MRA Not Found` | Init | 1994 |
+| [armwaru](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=armwaru&lang=en) | `Armored Warriors (US, 941024).arc` | `45ebf5965592dd34c41351b0806cc1fa`/`MRA Not Found` | Init | 1994 |
 | [armwaru1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=armwaru1&lang=en) | `Armored Warriors (US, 940920).arc` | `855ffb3470988eff51c24b046872dd45`/`MRA Not Found` | Init | 1994 |
 | [avsp](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=avsp&lang=en) | `Alien vs. Predator (EU, 940520).arc` | `b6404697e8a4c5285ae41600a9c041d2`/`MRA Not Found` | Init | 1994 |
 | [avspa](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=avspa&lang=en) | `Alien vs. Predator (AS, 940520).arc` | `01d8a842de5eac22b89556d0d9ca77c8`/`MRA Not Found` | Init | 1994 |
 | [avspd](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=avspd&lang=en) | `Alien vs. Predator (EU, Phoenix Edition) [bl].arc` | `1a0c720bc66ba16c74d8d79e14e487af`/`MRA Not Found` | Init | 1994 |
 | [avsph](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=avsph&lang=en) | `Alien vs. Predator (HS, 940520).arc` | `8239e7403c775a057fc7f876620cba07`/`MRA Not Found` | Init | 1994 |
 | [avspj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=avspj&lang=en) | `Alien vs. Predator (JP, 940520).arc` | `7545a022ef849b82e814813fe1b67bc1`/`MRA Not Found` | Init | 1994 |
-| [avspu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=avspu&lang=en) | `Alien vs. Predator (US, 940520).arc` | `d41d8cd98f00b204e9800998ecf8427e`/`MRA Not Found` | Init | 1994 |
+| [avspu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=avspu&lang=en) | `Alien vs. Predator (US, 940520).arc` | `5fe67dd2501a299a53a8033ad611a0eb`/`MRA Not Found` | Init | 1994 |
 | [batcir](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=batcir&lang=en) | `Battle Circuit (EU, 970319).arc` | `5de9f32085af030e5915310ef8dabd84`/`MRA Not Found` | Init | 1997 |
 | [batcira](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=batcira&lang=en) | `Battle Circuit (AS, 970319).arc` | `284342d6ab79d20386a2e8ffc1cc7766`/`MRA Not Found` | Init | 1997 |
 | [batcird](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=batcird&lang=en) | `Battle Circuit (EU, Phoenix Edition) [bl].arc` | `32cba06a914e372d54fb1b56fadfc082`/`MRA Not Found` | Init | 1997 |
@@ -731,14 +731,14 @@ Report generated on: 2025-05-23
 | [csclub](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=csclub&lang=en) | `Capcom Sports Club (EU, 971017).arc` | `9ad9e43e075769b0fad1712ae36a59bf`/`MRA Not Found` | Init | 1997 |
 | [csclub1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=csclub1&lang=en) | `Capcom Sports Club (EU, 970722).arc` | `3efb2da0b43dd3410d7df54498c9a66c`/`MRA Not Found` | Init | 1997 |
 | [csclub1d](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=csclub1d&lang=en) | `Capcom Sports Club (EU, Phoenix Edition) [bl].arc` | `8602cbacd1571f5f6c10880841bcef54`/`MRA Not Found` | Init | 1997 |
-| [cscluba](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=cscluba&lang=en) | `Capcom Sports Club (AS, 970722).arc` | `d41d8cd98f00b204e9800998ecf8427e`/`MRA Not Found` | Init | 1997 |
+| [cscluba](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=cscluba&lang=en) | `Capcom Sports Club (AS, 970722).arc` | `9b5e555e455ac9b175873e53813deb54`/`MRA Not Found` | Init | 1997 |
 | [csclubh](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=csclubh&lang=en) | `Capcom Sports Club (HS, 970722).arc` | `eaab296ad44e1f3910ce8ff8f3d09d92`/`MRA Not Found` | Init | 1997 |
 | [csclubj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=csclubj&lang=en) | `Capcom Sports Club (JP, 970722).arc` | `626a36b14b163d3760eb8027c69af110`/`MRA Not Found` | Init | 1997 |
 | [csclubjy](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=csclubjy&lang=en) | `Capcom Sports Club (JP, Rental Version).arc` | `626a36b14b163d3760eb8027c69af110`/`MRA Not Found` | Init | 1997 |
 | [cybots](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=cybots&lang=en) | `Cyberbots- Fullmetal Madness (EU, 950424).arc` | `724158a03ce182a69332e784b1eba5c0`/`MRA Not Found` | Init | 1995 |
 | [cybotsj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=cybotsj&lang=en) | `Cyberbots- Fullmetal Madness (JP, 950420).arc` | `80ad88ffa1a6196842f66b52af7d49fe`/`MRA Not Found` | Init | 1995 |
 | [cybotsjd](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=cybotsjd&lang=en) | `Cyberbots- Fullmetal Madness (JP, 940524).arc` | `1b9166b31b7e981612819107d032aabd`/`MRA Not Found` | Init | 1995 |
-| [cybotsu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=cybotsu&lang=en) | `Cyberbots- Fullmetal Madness (US, 950420).arc` | `d41d8cd98f00b204e9800998ecf8427e`/`MRA Not Found` | Init | 1995 |
+| [cybotsu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=cybotsu&lang=en) | `Cyberbots- Fullmetal Madness (US, 950420).arc` | `dd83c8415537e52902c8b74e49857a23`/`MRA Not Found` | Init | 1995 |
 | [cybotsud](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=cybotsud&lang=en) | `Cyberbots- Fullmetal Madness (US, Phoenix Edition) [bl].arc` | `1d24397adb133647b22766e9e6ca112e`/`MRA Not Found` | Init | 1995 |
 | [ddsom](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ddsom&lang=en) | `Dungeons & Dragons- Shadow over Mystara (EU, 960619).arc` | `e23626e398ef135e535e3a71aca0e64d`/`MRA Not Found` | Init | 1996 |
 | [ddsoma](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ddsoma&lang=en) | `Dungeons & Dragons- Shadow over Mystara (AS, 960619).arc` | `51cd59228ba84105c3bf6d68e989bed2`/`MRA Not Found` | Init | 1996 |
@@ -751,7 +751,7 @@ Report generated on: 2025-05-23
 | [ddsomr1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ddsomr1&lang=en) | `Dungeons & Dragons- Shadow over Mystara (EU, 960223).arc` | `20a45375572935b370687f46e2094116`/`MRA Not Found` | Init | 1996 |
 | [ddsomr2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ddsomr2&lang=en) | `Dungeons & Dragons- Shadow over Mystara (EU, 960209).arc` | `66cd776446eb7e712fb39c8f71bf721c`/`MRA Not Found` | Init | 1996 |
 | [ddsomr3](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ddsomr3&lang=en) | `Dungeons & Dragons- Shadow over Mystara (EU, 960208).arc` | `40719529c6f877a2571cb1855f9cf467`/`MRA Not Found` | Init | 1996 |
-| [ddsomu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ddsomu&lang=en) | `Dungeons & Dragons- Shadow over Mystara (US, 960619).arc` | `d41d8cd98f00b204e9800998ecf8427e`/`MRA Not Found` | Init | 1996 |
+| [ddsomu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ddsomu&lang=en) | `Dungeons & Dragons- Shadow over Mystara (US, 960619).arc` | `bab2733787693790ab985b46bcdc2101`/`MRA Not Found` | Init | 1996 |
 | [ddsomud](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ddsomud&lang=en) | `Dungeons & Dragons- Shadow over Mystara (US, Phoenix Edition) [bl].arc` | `9bd5492f9dbb1234093ceb914638eff3`/`MRA Not Found` | Init | 1996 |
 | [ddsomur1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ddsomur1&lang=en) | `Dungeons & Dragons- Shadow over Mystara (US, 960209).arc` | `0fb7251f8796fe40c6037303a9dc50cb`/`MRA Not Found` | Init | 1996 |
 | [ddtod](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ddtod&lang=en) | `Dungeons & Dragons- Tower of Doom (EU, 940412).arc` | `59bcbc9a3ddb1b05bb18e978cfba18af`/`MRA Not Found` | Init | 1993 |
@@ -799,15 +799,15 @@ Report generated on: 2025-05-23
 | [jyangoku](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=jyangoku&lang=en) | `Jyangokushi- Haoh no Saihai (JP, 990527).arc` | `7ae7b0471ea7dde0b0ff13962bfddcc8`/`MRA Not Found` | Init | 1999 |
 | [megaman2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=megaman2&lang=en) | `Mega Man 2- The Power Fighters (US, 960708).arc` | `ce7990fd88f87a4b72b5705e7ef290a7`/`MRA Not Found` | Init | 1996 |
 | [megaman2a](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=megaman2a&lang=en) | `Mega Man 2- The Power Fighters (AS, 960708).arc` | `3e5225a607454ff1acb6012306cce01e`/`MRA Not Found` | Init | 1996 |
-| [megaman2h](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=megaman2h&lang=en) | `Mega Man 2- The Power Fighters (HS, 960712).arc` | `d41d8cd98f00b204e9800998ecf8427e`/`MRA Not Found` | Init | 1996 |
-| [megamn2d](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=megamn2d&lang=en) | `Mega Man 2- The Power Fighters (US, Phoenix Edition).arc` | `d41d8cd98f00b204e9800998ecf8427e`/`MRA Not Found` | Init | 1996 |
+| [megaman2h](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=megaman2h&lang=en) | `Mega Man 2- The Power Fighters (HS, 960712).arc` | `f506faeb4a4d8c28421ba2255f1c4629`/`MRA Not Found` | Init | 1996 |
+| [megamn2d](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=megamn2d&lang=en) | `Mega Man 2- The Power Fighters (US, Phoenix Edition).arc` | `5db26f37f2b13ed828d5dec650ddd84e`/`MRA Not Found` | Init | 1996 |
 | [mmancp2u](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mmancp2u&lang=en) | `Mega Man- The Power Battle (US, CPS2, 951006, SAMPLE Ver).arc` | `c4ef4e6a045b6bc8b64274573ffabb81`/`MRA Not Found` | Init | 1995 |
 | [mmancp2ur1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mmancp2ur1&lang=en) | `Mega Man- The Power Battle (US, CPS2, 950926, SAMPLE Ver).arc` | `c8fd41af3b52939568baf0b83637ba36`/`MRA Not Found` | Init | 1995 |
 | [mmancp2ur2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mmancp2ur2&lang=en) | `Mega Man- The Power Battle (US, CPS2, 950925, SAMPLE Ver).arc` | `f8489c0cd77b19c0d70b7b79d23fc16d`/`MRA Not Found` | Init | 1995 |
 | [mmatrix](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mmatrix&lang=en) | `Mars Matrix- Hyper Solid Shooting (US, 000412).arc` | `f3e573756cc977457cfa621eb82bae2c`/`MRA Not Found` | Init | 2000 |
 | [mmatrixa](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mmatrixa&lang=en) | `Mars Matrix- Hyper Solid Shooting (AS, 000412).arc` | `f0da3879166de7ef388cc744cd7bdd6f`/`MRA Not Found` | Init | 2000 |
 | [mmatrixd](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mmatrixd&lang=en) | `Mars Matrix- Hyper Solid Shooting (US, Phoenix Edition).arc` | `4ff87422d9cdbbcdd32c315498e011b3`/`MRA Not Found` | Init | 2000 |
-| [mmatrixj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mmatrixj&lang=en) | `Mars Matrix- Hyper Solid Shooting (JP, 000412).arc` | `d41d8cd98f00b204e9800998ecf8427e`/`MRA Not Found` | Init | 2000 |
+| [mmatrixj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mmatrixj&lang=en) | `Mars Matrix- Hyper Solid Shooting (JP, 000412).arc` | `54cabd177d8a461131e37fed6564976d`/`MRA Not Found` | Init | 2000 |
 | [mpang](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mpang&lang=en) | `Mighty! Pang (EU, 001010).arc` | `3b0c99063ecc83dd1ba86da2a8a7f974`/`MRA Not Found` | Init | 2000 |
 | [mpanga](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mpanga&lang=en) | `Mighty! Pang (AS, 001010).arc` | `65499c3ba743992e2f0f7f1a4ddbdc48`/`MRA Not Found` | Init | 2000 |
 | [mpangj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mpangj&lang=en) | `Mighty! Pang (JP, 001011).arc` | `aac1cba300d84bba2f488c24474e4283`/`MRA Not Found` | Init | 2000 |
@@ -820,7 +820,7 @@ Report generated on: 2025-05-23
 | [mshh](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mshh&lang=en) | `Marvel Super Heroes (HS, 951117).arc` | `e3fa90849511f5de744bb18af46f4b3b`/`MRA Not Found` | Init | 1995 |
 | [mshj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mshj&lang=en) | `Marvel Super Heroes (JP, 951117).arc` | `4bd9cb87e0c6c01751ef75474e991d0d`/`MRA Not Found` | Init | 1995 |
 | [mshjr1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mshjr1&lang=en) | `Marvel Super Heroes (JP, 951024).arc` | `7f9d63674326a2f6336c3dd6f0a57f69`/`MRA Not Found` | Init | 1995 |
-| [mshu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mshu&lang=en) | `Marvel Super Heroes (US, 951024).arc` | `d41d8cd98f00b204e9800998ecf8427e`/`MRA Not Found` | Init | 1995 |
+| [mshu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mshu&lang=en) | `Marvel Super Heroes (US, 951024).arc` | `e1ca664c85f97150b52a70970e818fa1`/`MRA Not Found` | Init | 1995 |
 | [mshud](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mshud&lang=en) | `Marvel Super Heroes (US, Phoenix Edition).arc` | `c681ef7978a6810e021853f3ccb31cb8`/`MRA Not Found` | Init | 1995 |
 | [mshvsf](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mshvsf&lang=en) | `Marvel Super Heroes Vs. Street Fighter (EU, 970625).arc` | `41b9bdb5c2645901dd6a780572d31826`/`MRA Not Found` | Init | 1997 |
 | [mshvsfa](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mshvsfa&lang=en) | `Marvel Super Heroes Vs. Street Fighter (AS, 970625).arc` | `014c391d7207992b1759cc88094a3bcf`/`MRA Not Found` | Init | 1997 |
@@ -848,7 +848,7 @@ Report generated on: 2025-05-23
 | [mvscur1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=mvscur1&lang=en) | `Marvel Vs. Capcom- Clash of Super Heroes (US, 971222).arc` | `31f4358bfec9948fcd8d2630e8abeef2`/`MRA Not Found` | Init | 1998 |
 | [nwarr](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nwarr&lang=en) | `Night Warriors- Darkstalkers' Revenge (EU, 950316).arc` | `035ba6522df30974258799303e42c4dd`/`MRA Not Found` | Init | 1995 |
 | [nwarra](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nwarra&lang=en) | `Night Warriors- Darkstalkers' Revenge (AS, 950302).arc` | `1eaf366cbc1d63dcae89c17b33b3dbc3`/`MRA Not Found` | Init | 1995 |
-| [nwarrb](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nwarrb&lang=en) | `Night Warriors- Darkstalkers' Revenge (W, 950403).arc` | `d41d8cd98f00b204e9800998ecf8427e`/`MRA Not Found` | Init | 1995 |
+| [nwarrb](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nwarrb&lang=en) | `Night Warriors- Darkstalkers' Revenge (W, 950403).arc` | `4dc506ada5a8d13cbbcf92f1e7ba3df5`/`MRA Not Found` | Init | 1995 |
 | [nwarrh](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nwarrh&lang=en) | `Night Warriors- Darkstalkers' Revenge (HS, 950403).arc` | `7c51e5ceb41ef1354902dabbce64f56d`/`MRA Not Found` | Init | 1995 |
 | [nwarru](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nwarru&lang=en) | `Night Warriors- Darkstalkers' Revenge (US, 950406).arc` | `86d6ea6dff9499a26677d0ecf95b546e`/`MRA Not Found` | Init | 1995 |
 | [nwarrud](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=nwarrud&lang=en) | `Night Warriors- Darkstalkers' Revenge (US, Phoenix Edition).arc` | `3d8e726031b0450554c01aa5daf86fc8`/`MRA Not Found` | Init | 1995 |
@@ -868,7 +868,7 @@ Report generated on: 2025-05-23
 | [qndream](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=qndream&lang=en) | `Quiz Nanairo Dreams- Nijiirochou no Kiseki (JP, 960826).arc` | `2521df036b8be8e2bc699cb7f771927b`/`MRA Not Found` | Init | 1996 |
 | [ringdest](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ringdest&lang=en) | `Ring of Destruction- Slam Masters II (EU, 940902).arc` | `50e7406316328c41e215bbe0a5e89556`/`MRA Not Found` | Init | 1994 |
 | [ringdesta](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ringdesta&lang=en) | `Ring of Destruction- Slam Masters II (AS, 940831).arc` | `646b54f33a4b80909e244a7fc55ba0b1`/`MRA Not Found` | Init | 1994 |
-| [ringdestb](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ringdestb&lang=en) | `Ring of Destruction- Slam Masters II (BZ, 940902).arc` | `d41d8cd98f00b204e9800998ecf8427e`/`MRA Not Found` | Init | 1994 |
+| [ringdestb](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ringdestb&lang=en) | `Ring of Destruction- Slam Masters II (BZ, 940902).arc` | `219cbb62576abe53dcdaa10a53ef2743`/`MRA Not Found` | Init | 1994 |
 | [ringdesth](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ringdesth&lang=en) | `Ring of Destruction- Slam Masters II (HS, 940902).arc` | `e92ada052193ef7df0f59df1ed8ceb06`/`MRA Not Found` | Init | 1994 |
 | [ringdstd](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ringdstd&lang=en) | `Ring of Destruction- Slam Masters II (EU, Phoenix Edition).arc` | `050b80b3dfec4914321d4eb09794a334`/`MRA Not Found` | Init | 1994 |
 | [rmancp2j](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rmancp2j&lang=en) | `Rockman- The Power Battle (JP, CPS-2, 950922).arc` | `2ce1b2d436b482dec5c8002874ee817d`/`MRA Not Found` | Init | 1995 |
@@ -882,7 +882,7 @@ Report generated on: 2025-05-23
 | [sfa3ce](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sfa3ce&lang=en) | `Street Fighter Alpha 3- Challenger's Edition (US, 210408).arc` | `e71ce9f130125f2929fab9e94c00b7b9`/`MRA Not Found` | Init | 1998 |
 | [sfa3h](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sfa3h&lang=en) | `Street Fighter Alpha 3 (HS, 980904).arc` | `f0c43e5ede64cc462f207314a383ee70`/`MRA Not Found` | Init | 1998 |
 | [sfa3hr1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sfa3hr1&lang=en) | `Street Fighter Alpha 3 (HS, 980629).arc` | `c9d67cf67958d5a21b44c8c6b3362414`/`MRA Not Found` | Init | 1998 |
-| [sfa3u](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sfa3u&lang=en) | `Street Fighter Alpha 3 (US, 980904).arc` | `d41d8cd98f00b204e9800998ecf8427e`/`MRA Not Found` | Init | 1998 |
+| [sfa3u](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sfa3u&lang=en) | `Street Fighter Alpha 3 (US, 980904).arc` | `314f93af547927bb7c74a5f3b5e30650`/`MRA Not Found` | Init | 1998 |
 | [sfa3ud](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sfa3ud&lang=en) | `Street Fighter Alpha 3 (US, Phoenix Edition).arc` | `641cc76ce4f4c430219511f96dfd84e6`/`MRA Not Found` | Init | 1998 |
 | [sfa3ur1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sfa3ur1&lang=en) | `Street Fighter Alpha 3 (US, 980629).arc` | `5198831bfe65dea5a10b2db314f4a005`/`MRA Not Found` | Init | 1998 |
 | [sfa3us](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sfa3us&lang=en) | `Street Fighter Alpha 3 (US, 980616, SAMPLE Version).arc` | `c355806af4bf3cd03338248c9736987c`/`MRA Not Found` | Init | 1998 |
@@ -913,23 +913,23 @@ Report generated on: 2025-05-23
 | [sfz3jr1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sfz3jr1&lang=en) | `Street Fighter Zero 3 (JP, 980727).arc` | `e08a83d36cd99c987d1c6508060824b7`/`MRA Not Found` | Init | 1998 |
 | [sfz3jr2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sfz3jr2&lang=en) | `Street Fighter Zero 3 (JP, 980629).arc` | `59de9a590b1cb2b24b6e46e2fa004401`/`MRA Not Found` | Init | 1998 |
 | [sfz3jr2d](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sfz3jr2d&lang=en) | `Street Fighter Zero 3 (JP, Phoenix Edition).arc` | `f4cc57f98d27ad6aea7873f4f306ca83`/`MRA Not Found` | Init | 1998 |
-| [sfza](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sfza&lang=en) | `Street Fighter Zero (AS, 950627).arc` | `d41d8cd98f00b204e9800998ecf8427e`/`MRA Not Found` | Init | 1995 |
+| [sfza](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sfza&lang=en) | `Street Fighter Zero (AS, 950627).arc` | `3412debae51affeeec75f9f4a0bb901c`/`MRA Not Found` | Init | 1995 |
 | [sfzar1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sfzar1&lang=en) | `Street Fighter Zero (AS, 950605).arc` | `eecb0f6fc32b7c623d109a219f8b9a2c`/`MRA Not Found` | Init | 1995 |
 | [sfzb](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sfzb&lang=en) | `Street Fighter Zero (W, 951109).arc` | `7bc8782936dba7a11653d24a816e07f1`/`MRA Not Found` | Init | 1995 |
-| [sfzbr1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sfzbr1&lang=en) | `Street Fighter Zero (W, 950727).arc` | `d41d8cd98f00b204e9800998ecf8427e`/`MRA Not Found` | Init | 1995 |
+| [sfzbr1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sfzbr1&lang=en) | `Street Fighter Zero (W, 950727).arc` | `a351e78b87ec00506300249d8f830c6f`/`MRA Not Found` | Init | 1995 |
 | [sfzh](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sfzh&lang=en) | `Street Fighter Zero (HS, 950718).arc` | `7da4626488fe03707c46d51631c3bf70`/`MRA Not Found` | Init | 1995 |
 | [sfzhr1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sfzhr1&lang=en) | `Street Fighter Zero (HS, 950627).arc` | `ac98a19c5795e39db96ea9894bcd468b`/`MRA Not Found` | Init | 1995 |
 | [sfzj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sfzj&lang=en) | `Street Fighter Zero (JP, 950727).arc` | `351a0777d39ea86225a25d0c143ff3ea`/`MRA Not Found` | Init | 1995 |
 | [sfzjr1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sfzjr1&lang=en) | `Street Fighter Zero (JP, 950627).arc` | `e7b561b9c1a0cbd5bf65a999b902c74e`/`MRA Not Found` | Init | 1995 |
-| [sfzjr2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sfzjr2&lang=en) | `Street Fighter Zero (JP, 950605).arc` | `d41d8cd98f00b204e9800998ecf8427e`/`MRA Not Found` | Init | 1995 |
+| [sfzjr2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sfzjr2&lang=en) | `Street Fighter Zero (JP, 950605).arc` | `d71e3907376ed1a4aebce4d719d86cde`/`MRA Not Found` | Init | 1995 |
 | [sgemf](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sgemf&lang=en) | `Super Gem Fighter- Mini Mix (US, 970904).arc` | `45489beb40f96c723e08837f8087584c`/`MRA Not Found` | Init | 1997 |
-| [sgemfa](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sgemfa&lang=en) | `Super Gem Fighter- Mini Mix (AS, 970904).arc` | `d41d8cd98f00b204e9800998ecf8427e`/`MRA Not Found` | Init | 1997 |
+| [sgemfa](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sgemfa&lang=en) | `Super Gem Fighter- Mini Mix (AS, 970904).arc` | `af9e00f49db26c1dc0ca17c578c7d4a6`/`MRA Not Found` | Init | 1997 |
 | [sgemfd](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sgemfd&lang=en) | `Super Gem Fighter- Mini Mix (US, Phoenix Edition).arc` | `9cc1a48318b6de08f0466e1e49386de0`/`MRA Not Found` | Init | 1997 |
 | [sgemfh](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sgemfh&lang=en) | `Super Gem Fighter- Mini Mix (HS, 970904).arc` | `e97f8257d262cbf0060519f3062e9642`/`MRA Not Found` | Init | 1997 |
 | [smbomb](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=smbomb&lang=en) | `Super Muscle Bomber- The International Blowout (JP, 940831).arc` | `9da8a24cba721adbd6e1e4a265d76260`/`MRA Not Found` | Init | 1994 |
 | [smbombr1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=smbombr1&lang=en) | `Super Muscle Bomber- The International Blowout (JP, 940808).arc` | `856d3565f8c5379e3b8a9f661e837ed1`/`MRA Not Found` | Init | 1994 |
 | [spf2t](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=spf2t&lang=en) | `Super Puzzle Fighter II Turbo (EU, 960529).arc` | `a169b1b370512fb2f95907af3db2ad7b`/`MRA Not Found` | Init | 1996 |
-| [spf2ta](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=spf2ta&lang=en) | `Super Puzzle Fighter II Turbo (AS, 960529).arc` | `afefe025db90071d6ec7296a3358da6f`/`MRA Not Found` | Init | 1996 |
+| [spf2ta](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=spf2ta&lang=en) | `Super Puzzle Fighter II Turbo (AS, 960529).arc` | `eebbfd7f56b87b5793d97ca30381b80b`/`MRA Not Found` | Init | 1996 |
 | [spf2td](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=spf2td&lang=en) | `Super Puzzle Fighter II Turbo (US, Phoenix Edition).arc` | `ba9d514aaf3921ecf719a851df49339a`/`MRA Not Found` | Init | 1996 |
 | [spf2th](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=spf2th&lang=en) | `Super Puzzle Fighter II Turbo (HS, 960531).arc` | `82574ac1b8954916cfcf78a2dd48ee37`/`MRA Not Found` | Init | 1996 |
 | [spf2tu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=spf2tu&lang=en) | `Super Puzzle Fighter II Turbo (US, 960620).arc` | `e14f9c04be77eec8123f32304ec377ac`/`MRA Not Found` | Init | 1996 |
@@ -961,23 +961,23 @@ Report generated on: 2025-05-23
 | [ssf2ud](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ssf2ud&lang=en) | `Super Street Fighter II- The New Challengers (US, Phoenix Edition).arc` | `0915e91e8959af7bfff317ee5407192b`/`MRA Not Found` | Init | 1993 |
 | [ssf2xj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ssf2xj&lang=en) | `Super Street Fighter II X- Grand Master Challenge (JP, 940311).arc` | `d86421d13c1c3d3f2c8bb2545a3654d6`/`MRA Not Found` | Init | 1994 |
 | [ssf2xjr1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ssf2xjr1&lang=en) | `Super Street Fighter II X- Grand Master Challenge (JP, 940223).arc` | `49635257a7dbdfb0e6d4a0bafe301844`/`MRA Not Found` | Init | 1994 |
-| [ssf2xjr1d](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ssf2xjr1d&lang=en) | `Super Street Fighter II X- Grand Master Challenge (JP, Phoenix Edition).arc` | `5e79468c34e4bdbb2791530c539aedc8`/`MRA Not Found` | Init | 1994 |
+| [ssf2xjr1d](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ssf2xjr1d&lang=en) | `Super Street Fighter II X- Grand Master Challenge (JP, Phoenix Edition).arc` | `beb5a8d344016298a391aabe64254d01`/`MRA Not Found` | Init | 1994 |
 | [ssf2xjr1r](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ssf2xjr1r&lang=en) | `Super Street Fighter II X- Grand Master Challenge (JP, 940223, Rental).arc` | `cc31ae88440df9134ee6d600e830569d`/`MRA Not Found` | Init | 1994 |
 | [uecology](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=uecology&lang=en) | `Ultimate Ecology (JP, 931203).arc` | `6b282bbb2210a2cd48a15b7370a24986`/`MRA Not Found` | Init | 1993 |
 | [vampj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vampj&lang=en) | `Vampire- The Night Warriors (JP, 940705).arc` | `316636c0c12dc02e655cd2999d32ec65`/`MRA Not Found` | Init | 1994 |
 | [vampja](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vampja&lang=en) | `Vampire- The Night Warriors (JP, 940705, alt).arc` | `8a11c65280dfd51f2afa6986b5dc26d6`/`MRA Not Found` | Init | 1994 |
 | [vampjr1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vampjr1&lang=en) | `Vampire- The Night Warriors (JP, 940630).arc` | `22a8f400e0381d69f557f553ddc47ff1`/`MRA Not Found` | Init | 1994 |
 | [vhunt2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vhunt2&lang=en) | `Vampire Hunter 2- Darkstalkers Revenge (JP, 970929).arc` | `7788ced3931d1ba923ab5e27b2c329bc`/`MRA Not Found` | Init | 1997 |
-| [vhunt2d](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vhunt2d&lang=en) | `Vampire Hunter 2- Darkstalkers Revenge (JP, Phoenix Edition).arc` | `d41d8cd98f00b204e9800998ecf8427e`/`MRA Not Found` | Init | 1997 |
+| [vhunt2d](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vhunt2d&lang=en) | `Vampire Hunter 2- Darkstalkers Revenge (JP, Phoenix Edition).arc` | `552c047565156c651fc6eea8f9e0ec96`/`MRA Not Found` | Init | 1997 |
 | [vhunt2r1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vhunt2r1&lang=en) | `Vampire Hunter 2- Darkstalkers Revenge (JP, 970913).arc` | `e7bdeaf02253ad52ed36dbbc7d799698`/`MRA Not Found` | Init | 1997 |
 | [vhuntj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vhuntj&lang=en) | `Vampire Hunter- Darkstalkers' Revenge (JP, 950316).arc` | `7b34f4e248d96738922d43ec8dab5484`/`MRA Not Found` | Init | 1995 |
 | [vhuntjr1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vhuntjr1&lang=en) | `Vampire Hunter- Darkstalkers' Revenge (JP, 950307).arc` | `c8b09531117f16ac6e9921a3207b28e4`/`MRA Not Found` | Init | 1995 |
 | [vhuntjr1s](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vhuntjr1s&lang=en) | `Vampire Hunter- Darkstalkers' Revenge (JP, 950307, Stop Ver).arc` | `0b32aa7d2331c00d712c97f373b5d570`/`MRA Not Found` | Init | 1995 |
-| [vhuntjr2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vhuntjr2&lang=en) | `Vampire Hunter- Darkstalkers' Revenge (JP, 950302).arc` | `d41d8cd98f00b204e9800998ecf8427e`/`MRA Not Found` | Init | 1995 |
+| [vhuntjr2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vhuntjr2&lang=en) | `Vampire Hunter- Darkstalkers' Revenge (JP, 950302).arc` | `9635726bef4f7c1c9398c589e629f489`/`MRA Not Found` | Init | 1995 |
 | [vsav](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vsav&lang=en) | `Vampire Savior- The Lord of Vampire (EU, 970519).arc` | `969ac9f7b8019cd7b3552bfeb95d00e2`/`MRA Not Found` | Init | 1997 |
 | [vsav2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vsav2&lang=en) | `Vampire Savior 2- The Lord of Vampire (JP, 970913).arc` | `7c1593eb99c7aa2176e7c7ca18461b98`/`MRA Not Found` | Init | 1997 |
 | [vsav2d](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vsav2d&lang=en) | `Vampire Savior 2- The Lord of Vampire (JP, Phoenix Edition).arc` | `cc44629c15463525ac6f67a1be94ac20`/`MRA Not Found` | Init | 1997 |
-| [vsava](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vsava&lang=en) | `Vampire Savior- The Lord of Vampire (AS, 970519).arc` | `d41d8cd98f00b204e9800998ecf8427e`/`MRA Not Found` | Init | 1997 |
+| [vsava](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vsava&lang=en) | `Vampire Savior- The Lord of Vampire (AS, 970519).arc` | `c020c3b5a5b037183913d7f0919b8031`/`MRA Not Found` | Init | 1997 |
 | [vsavb](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vsavb&lang=en) | `Vampire Savior- The Lord of Vampire (W, 970519).arc` | `6f370ad559192499b1aa0648c266a45f`/`MRA Not Found` | Init | 1997 |
 | [vsavd](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vsavd&lang=en) | `Vampire Savior- The Lord of Vampire (EU, Phoenix Edition).arc` | `bc5cd4e34923d57257281c4f449558fa`/`MRA Not Found` | Init | 1997 |
 | [vsavh](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=vsavh&lang=en) | `Vampire Savior- The Lord of Vampire (HS, 970519).arc` | `9d982a042e7792842558d25b24d63787`/`MRA Not Found` | Init | 1997 |
@@ -992,7 +992,7 @@ Report generated on: 2025-05-23
 | [xmcotahr1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=xmcotahr1&lang=en) | `X-Men- Children of the Atom (HS, 950105).arc` | `6c3235c0ad3f4a9c375b4ab61c0a2039`/`MRA Not Found` | Init | 1994 |
 | [xmcotaj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=xmcotaj&lang=en) | `X-Men- Children of the Atom (JP, 950105).arc` | `18f3a4bc24ca5e37f987a49452c51f54`/`MRA Not Found` | Init | 1994 |
 | [xmcotaj1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=xmcotaj1&lang=en) | `X-Men- Children of the Atom (JP, 941222).arc` | `da5daadf80e1f442fb5b8d39372ba002`/`MRA Not Found` | Init | 1994 |
-| [xmcotaj2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=xmcotaj2&lang=en) | `X-Men- Children of the Atom (JP, 941219).arc` | `7ab70dca023ef836941a687e9e0479bc`/`MRA Not Found` | Init | 1994 |
+| [xmcotaj2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=xmcotaj2&lang=en) | `X-Men- Children of the Atom (JP, 941219).arc` | `e456b536b9038b450bc6be23613b5fb9`/`MRA Not Found` | Init | 1994 |
 | [xmcotaj3](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=xmcotaj3&lang=en) | `X-Men- Children of the Atom (JP, 941217).arc` | `8e70984cbbc955c090f66f67d2b74814`/`MRA Not Found` | Init | 1994 |
 | [xmcotajr](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=xmcotajr&lang=en) | `X-Men- Children of the Atom (JP, 941208, rent version).arc` | `07f12f564f8aa4f62611d634b2d05b20`/`MRA Not Found` | Init | 1994 |
 | [xmcotar1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=xmcotar1&lang=en) | `X-Men- Children of the Atom (EU, 950105).arc` | `cd81b5463eccd80b54fb1a472471ec95`/`MRA Not Found` | Init | 1994 |
@@ -1000,8 +1000,8 @@ Report generated on: 2025-05-23
 | [xmcotau](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=xmcotau&lang=en) | `X-Men- Children of the Atom (US, 950105).arc` | `47efa4ee493caf8f5563650d43553be9`/`MRA Not Found` | Init | 1994 |
 | [xmvsf](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=xmvsf&lang=en) | `X-Men Vs. Street Fighter (EU, 961004).arc` | `c5f1e31f4bef2e94411fb459c65eb1a6`/`MRA Not Found` | Init | 1996 |
 | [xmvsfa](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=xmvsfa&lang=en) | `X-Men Vs. Street Fighter (AS, 961023).arc` | `2255740809745595daafce56e9bd2fc3`/`MRA Not Found` | Init | 1996 |
-| [xmvsfar1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=xmvsfar1&lang=en) | `X-Men Vs. Street Fighter (AS, 961004).arc` | `d41d8cd98f00b204e9800998ecf8427e`/`MRA Not Found` | Init | 1996 |
-| [xmvsfar2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=xmvsfar2&lang=en) | `X-Men Vs. Street Fighter (AS, 960919).arc` | `d41d8cd98f00b204e9800998ecf8427e`/`MRA Not Found` | Init | 1996 |
+| [xmvsfar1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=xmvsfar1&lang=en) | `X-Men Vs. Street Fighter (AS, 961004).arc` | `d0d6f41106c621b9136eb0de5a8546b7`/`MRA Not Found` | Init | 1996 |
+| [xmvsfar2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=xmvsfar2&lang=en) | `X-Men Vs. Street Fighter (AS, 960919).arc` | `071296913241bde9024f937b2f0dc89d`/`MRA Not Found` | Init | 1996 |
 | [xmvsfar3](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=xmvsfar3&lang=en) | `X-Men Vs. Street Fighter (AS, 960910).arc` | `76d930e43b9152dde506476487fba019`/`MRA Not Found` | Init | 1996 |
 | [xmvsfb](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=xmvsfb&lang=en) | `X-Men Vs. Street Fighter (W, 961023).arc` | `86d254bc64a5d7413b3425cd9d13720e`/`MRA Not Found` | Init | 1996 |
 | [xmvsfh](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=xmvsfh&lang=en) | `X-Men Vs. Street Fighter (HS, 961004).arc` | `ec5e6f1360d907219f1f067a48571f65`/`MRA Not Found` | Init | 1996 |
@@ -1012,7 +1012,7 @@ Report generated on: 2025-05-23
 | [xmvsfr1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=xmvsfr1&lang=en) | `X-Men Vs. Street Fighter (EU, 960910).arc` | `8a6a063d3381d9c1cc1542a59fd41dd2`/`MRA Not Found` | Init | 1996 |
 | [xmvsfu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=xmvsfu&lang=en) | `X-Men Vs. Street Fighter (US, 961023).arc` | `3f6625e58ed7f950d9d4c6dde850e872`/`MRA Not Found` | Init | 1996 |
 | [xmvsfu1d](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=xmvsfu1d&lang=en) | `X-Men Vs. Street Fighter (US, Phoenix Edition).arc` | `cc92b85d19606f85e1972274e2a171e3`/`MRA Not Found` | Init | 1996 |
-| [xmvsfur1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=xmvsfur1&lang=en) | `X-Men Vs. Street Fighter (US, 961004).arc` | `d41d8cd98f00b204e9800998ecf8427e`/`MRA Not Found` | Init | 1996 |
+| [xmvsfur1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=xmvsfur1&lang=en) | `X-Men Vs. Street Fighter (US, 961004).arc` | `0f7c305983f04d343c8d4294e90059a2`/`MRA Not Found` | Init | 1996 |
 | [xmvsfur2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=xmvsfur2&lang=en) | `X-Men Vs. Street Fighter (US, 960910).arc` | `a0ebc0b139d37b32680d5a47901555e0`/`MRA Not Found` | Init | 1996 |
 | *Games not found in MAD DB* | | | | | | |
 | [sf2prime](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=sf2prime&lang=en) | `sf2prime.arc` | `73d6cdcb1485850252e60f9a67c4a189`/`MRA Not Found` | Init | Unknown |

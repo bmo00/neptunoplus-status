@@ -2,13 +2,13 @@
 
 This report provides an overview of the unsupported arcade games for the **neptUNO+** FPGA.
 
-Report generated on: 2025-05-23
+Report generated on: 2025-05-26
 
 ## 📊 Summary
 
-- **Total Games (MRAs Found):** 2354
+- **Total Games (MRAs Found):** 2360
 - **Games for Supported Cores:** 1613
-- **Games for Unsupported Cores:** 741
+- **Games for Unsupported Cores:** 747
 
 ---
 
@@ -325,6 +325,12 @@ Report generated on: 2025-05-23
 | joust2 | [joust2r1](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=joust2r1&lang=en) | Joust 2 - Survival of the Fittest (Rev 1).mra | Williams 2nd Generation | 270 | 1986 |
 | jtngp | [ngp](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ngp&lang=en) | *Not in MAD DB* |  | N/A | N/A |
 | jtngpc | [ngpc](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ngpc&lang=en) | *Not in MAD DB* |  | N/A | N/A |
+| jtpaclan | [pacland](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pacland&lang=en) | *Not in MAD DB* | Namco Pac-Land hardware | N/A | N/A |
+| jtpaclan | [paclandj](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=paclandj&lang=en) | *Not in MAD DB* | Namco Pac-Land hardware | N/A | N/A |
+| jtpaclan | [paclandjo](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=paclandjo&lang=en) | *Not in MAD DB* | Namco Pac-Land hardware | N/A | N/A |
+| jtpaclan | [paclandjo2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=paclandjo2&lang=en) | *Not in MAD DB* | Namco Pac-Land hardware | N/A | N/A |
+| jtpaclan | [paclandm](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=paclandm&lang=en) | *Not in MAD DB* | Namco Pac-Land hardware | N/A | N/A |
+| jtpaclan | [paclandm2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=paclandm2&lang=en) | *Not in MAD DB* | Namco Pac-Land hardware | N/A | N/A |
 | jtriders | [ssriders](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ssriders&lang=en) | Sunset Riders (4P, Ver EAC).mra | Konami TMNT 2 based | 0 | 1991 |
 | jtriders | [ssridersabd](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ssridersabd&lang=en) | Sunset Riders (2P, Ver ABD).mra | Konami TMNT 2 based | 0 | 1991 |
 | jtriders | [ssridersadd](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ssridersadd&lang=en) | Sunset Riders (4P, Ver ADD).mra | Konami TMNT 2 based | 0 | 1991 |
