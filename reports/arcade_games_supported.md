@@ -2,13 +2,13 @@
 
 This report provides an overview of the supported arcade games for the **neptUNO+** FPGA.
 
-Report generated on: 2025-05-26
+Report generated on: 2025-05-27
 
 ## 📊 Summary
 
 - **Total Games (MRAs Found):** 2360
-- **Games for Supported Cores:** 1613
-- **Games for Unsupported Cores:** 747
+- **Games for Supported Cores:** 1619
+- **Games for Unsupported Cores:** 741
 
 ---
 
@@ -1551,6 +1551,12 @@ Report generated on: 2025-05-26
 | pooyan | [pooyan](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pooyan&lang=en) | Pooyan.mra | Konami Z80 | 90 | 1982 |
 | pooyan | [pooyandiag](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pooyandiag&lang=en) | Pooyan (Tester) [hb].mra | Konami Z80 | 90 | 1982 |
 | pooyan | [pooyans](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pooyans&lang=en) | Pooyan (Stern).mra | Konami Z80 | 90 | 1982 |
+| popeye | [popeye](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=popeye&lang=en) | Popeye (Rev D).mra | Nintendo Arcade | 0 | 1982 |
+| popeye | [skyskipr](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=skyskipr&lang=en) | Sky Skipper.mra | Nintendo Arcade | 0 | 1981 |
+| prehisle | [gensitou](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gensitou&lang=en) | Genshitou 1930's.mra | SNK Unique | 0 | 1989 |
+| prehisle | [prehisle](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=prehisle&lang=en) | Prehistoric Isle in 1930 (W).mra | SNK Unique | 0 | 1989 |
+| prehisle | [prehislek](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=prehislek&lang=en) | Wonsido 1930's (KR).mra | SNK Unique | 0 | 1989 |
+| prehisle | [prehisleu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=prehisleu&lang=en) | Prehistoric Isle in 1930 (US).mra | SNK Unique | 0 | 1989 |
 | qbert | [curvebal](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=curvebal&lang=en) | *Not in MAD DB* | Konami Unique | N/A | N/A |
 | qbert | [insector](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=insector&lang=en) | *Not in MAD DB* | Konami Unique | N/A | N/A |
 | qbert | [krull](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=krull&lang=en) | *Not in MAD DB* | Konami Unique | N/A | N/A |

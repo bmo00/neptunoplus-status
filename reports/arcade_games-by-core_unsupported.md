@@ -2,13 +2,13 @@
 
 This report provides an overview of the unsupported arcade games by core for the **neptUNO+** FPGA.
 
-Report generated on: 2025-05-26
+Report generated on: 2025-05-27
 
 ## 📊 Summary
 
 - **Total Games (MRAs Found):** 2360
-- **Games for Supported Cores:** 1613
-- **Games for Unsupported Cores:** 747
+- **Games for Supported Cores:** 1619
+- **Games for Unsupported Cores:** 741
 
 ---
 
@@ -842,22 +842,6 @@ Report generated on: 2025-05-26
 | 📝 **Set name** | 📦 **ARC File** | 📄 **ROM MD5** | ✅ **Verified** | 📅 **Year** |
 |-----------------|-----------------|----------------|-----------------|-------------|
 | [pong](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pong&lang=en) | `Pong (Rev E).arc` | `ROM Not Found`/`None` | Missing MD5 in MRA file | 1972 |
-
-### popeye (Nintendo Arcade)
-
-| 📝 **Set name** | 📦 **ARC File** | 📄 **ROM MD5** | ✅ **Verified** | 📅 **Year** |
-|-----------------|-----------------|----------------|-----------------|-------------|
-| [popeye](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=popeye&lang=en) | `Popeye (Rev D).arc` | `ROM Not Found`/`d8ca94dbdb94bd3f06d01de96854acc9` | ROM MD5 mismatch (ROM/MRA) | 1982 |
-| [skyskipr](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=skyskipr&lang=en) | `Sky Skipper.arc` | `ROM Not Found`/`0411560f16f98281badc810b6d8376f9` | ROM MD5 mismatch (ROM/MRA) | 1981 |
-
-### prehisle (SNK Unique)
-
-| 📝 **Set name** | 📦 **ARC File** | 📄 **ROM MD5** | ✅ **Verified** | 📅 **Year** |
-|-----------------|-----------------|----------------|-----------------|-------------|
-| [gensitou](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gensitou&lang=en) | `Genshitou 1930's.arc` | `ROM Not Found`/`MRA Not Found` | Init | 1989 |
-| [prehisle](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=prehisle&lang=en) | `Prehistoric Isle in 1930 (W).arc` | `ROM Not Found`/`MRA Not Found` | Init | 1989 |
-| [prehislek](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=prehislek&lang=en) | `Wonsido 1930's (KR).arc` | `ROM Not Found`/`MRA Not Found` | Init | 1989 |
-| [prehisleu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=prehisleu&lang=en) | `Prehistoric Isle in 1930 (US).arc` | `ROM Not Found`/`None` | ROM MD5 mismatch (ROM/MRA) | 1989 |
 
 ### psychic5 (Jaleco Psychic 5 hardware)
 

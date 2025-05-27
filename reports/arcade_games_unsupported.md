@@ -2,13 +2,13 @@
 
 This report provides an overview of the unsupported arcade games for the **neptUNO+** FPGA.
 
-Report generated on: 2025-05-26
+Report generated on: 2025-05-27
 
 ## 📊 Summary
 
 - **Total Games (MRAs Found):** 2360
-- **Games for Supported Cores:** 1613
-- **Games for Unsupported Cores:** 747
+- **Games for Supported Cores:** 1619
+- **Games for Unsupported Cores:** 741
 
 ---
 
@@ -449,12 +449,6 @@ Report generated on: 2025-05-26
 | polyplay | [polyplay](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=polyplay&lang=en) | Poly Play.mra | Poly Play hardware | 0 | 1985 |
 | polyplay | [polyplay2](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=polyplay2&lang=en) | Poly Play 2.mra | Poly Play hardware | 0 | 1985 |
 | pong | [pong](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pong&lang=en) | Pong (Rev E).mra | Atari Discrete hardware | 0 | 1972 |
-| popeye | [popeye](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=popeye&lang=en) | Popeye (Rev D).mra | Nintendo Arcade | 0 | 1982 |
-| popeye | [skyskipr](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=skyskipr&lang=en) | Sky Skipper.mra | Nintendo Arcade | 0 | 1981 |
-| prehisle | [gensitou](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gensitou&lang=en) | Genshitou 1930's.mra | SNK Unique | 0 | 1989 |
-| prehisle | [prehisle](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=prehisle&lang=en) | Prehistoric Isle in 1930 (W).mra | SNK Unique | 0 | 1989 |
-| prehisle | [prehislek](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=prehislek&lang=en) | Wonsido 1930's (KR).mra | SNK Unique | 0 | 1989 |
-| prehisle | [prehisleu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=prehisleu&lang=en) | Prehistoric Isle in 1930 (US).mra | SNK Unique | 0 | 1989 |
 | psychic5 | [psychic5](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=psychic5&lang=en) | Psychic 5 (W).mra | Jaleco Psychic 5 hardware | 270 | 1987 |
 | psychic5 | [psychic5j](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=psychic5j&lang=en) | Psychic 5 (JP).mra | Jaleco Psychic 5 hardware | 270 | 1987 |
 | rallybike | [rallybik](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=rallybik&lang=en) | Rally Bike - Dash Yarou.mra | Toaplan 1 | 270 | 1989 |

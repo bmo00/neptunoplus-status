@@ -2,13 +2,13 @@
 
 This report provides an overview of the supported arcade games by core for the **neptUNO+** FPGA.
 
-Report generated on: 2025-05-26
+Report generated on: 2025-05-27
 
 ## 📊 Summary
 
 - **Total Games (MRAs Found):** 2360
-- **Games for Supported Cores:** 1613
-- **Games for Unsupported Cores:** 747
+- **Games for Supported Cores:** 1619
+- **Games for Unsupported Cores:** 741
 
 ---
 
@@ -2041,6 +2041,22 @@ Report generated on: 2025-05-26
 | [pooyan](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pooyan&lang=en) | `Pooyan.arc` | `de106fd90992460848b7856876a4e330`/`de106fd90992460848b7856876a4e330` | MD5 verfied | 1982 |
 | [pooyandiag](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pooyandiag&lang=en) | `Pooyan (Tester) [hb].arc` | `d41d8cd98f00b204e9800998ecf8427e`/`MRA Not Found` | Init | 1982 |
 | [pooyans](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=pooyans&lang=en) | `Pooyan (Stern).arc` | `038f17001fe59303a36e23dd37a9bf61`/`MRA Not Found` | Init | 1982 |
+
+### popeye (Nintendo Arcade)
+
+| 📝 **Set name** | 📦 **ARC File** | 📄 **ROM MD5** | ✅ **Verified** | 📅 **Year** |
+|-----------------|-----------------|----------------|-----------------|-------------|
+| [popeye](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=popeye&lang=en) | `Popeye (Rev D).arc` | `d8ca94dbdb94bd3f06d01de96854acc9`/`d8ca94dbdb94bd3f06d01de96854acc9` | MD5 verfied | 1982 |
+| [skyskipr](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=skyskipr&lang=en) | `Sky Skipper.arc` | `0411560f16f98281badc810b6d8376f9`/`0411560f16f98281badc810b6d8376f9` | MD5 verfied | 1981 |
+
+### prehisle (SNK Unique)
+
+| 📝 **Set name** | 📦 **ARC File** | 📄 **ROM MD5** | ✅ **Verified** | 📅 **Year** |
+|-----------------|-----------------|----------------|-----------------|-------------|
+| [gensitou](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=gensitou&lang=en) | `Genshitou 1930's.arc` | `370c06f39fd56390782f0fa82509a2fe`/`MRA Not Found` | Init | 1989 |
+| [prehisle](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=prehisle&lang=en) | `Prehistoric Isle in 1930 (W).arc` | `bddf82be7bd676ef6a90a0377fb47f2d`/`MRA Not Found` | Init | 1989 |
+| [prehislek](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=prehislek&lang=en) | `Wonsido 1930's (KR).arc` | `48941509cf33773d94914004381b5779`/`MRA Not Found` | Init | 1989 |
+| [prehisleu](http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=prehisleu&lang=en) | `Prehistoric Isle in 1930 (US).arc` | `ef3649acd6140ef261c081c3edddf294`/`None` | ROM MD5 mismatch (ROM/MRA) | 1989 |
 
 ### qbert (Konami Unique)
 

@@ -2,13 +2,13 @@
 
 This report provides an overview of the unsupported arcade cores for the **neptUNO+** FPGA.
 
-Report generated on: 2025-05-26
+Report generated on: 2025-05-27
 
 ## 📊 Summary
 
 - **Total Cores in Local DB:** 243
-- **Supported Cores:** 108
-- **Unsupported Cores:** 135
+- **Supported Cores:** 110
+- **Unsupported Cores:** 133
 
 ---
 
@@ -98,8 +98,6 @@ Report generated on: 2025-05-26
 | pleiads | Taito Unique |  | Mister - [MiSTer-devel/Arcade-Pleiads_MiSTer](https://github.com/MiSTer-devel/Arcade-Pleiads_MiSTer) | Distribution_MiSTer |  |
 | polyplay | Poly Play hardware |  | Mister - [MiSTer-devel/Arcade-PolyPlay_MiSTer](https://github.com/MiSTer-devel/Arcade-PolyPlay_MiSTer) | Distribution_MiSTer |  |
 | pong | Atari Discrete hardware |  | Mister - [MiSTer-devel/Arcade-Pong_MiSTer](https://github.com/MiSTer-devel/Arcade-Pong_MiSTer)<br>Mist - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Atari%20Discrete%20Logic/Pong) | Distribution_MiSTer |  |
-| popeye | Nintendo Arcade |  | Mister - [MiSTer-devel/Arcade-Popeye_MiSTer](https://github.com/MiSTer-devel/Arcade-Popeye_MiSTer)<br>Mister - [MiSTer-devel/Arcade-SkySkipper_MiSTer](https://github.com/MiSTer-devel/Arcade-SkySkipper_MiSTer)<br>Mist - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Nintendo%20Popeye%20Hardware/Popeye_MiST)<br>Mist - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Nintendo%20Popeye%20Hardware/SkySkipper_MiST) | Distribution_MiSTer | Popeye and Sky Skipper merged on MiSTer |
-| prehisle | SNK Unique |  | Mist - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/SNK%20M68000%20Harware/PrehistoricIsle)<br>Sidi128 - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/SNK%20M68000%20Harware/PrehistoricIsle) | Coin-OpCollection |  |
 | psychic5 | Jaleco Psychic 5 hardware |  | Mister - [MiSTer-devel/Arcade-Psychic5_MiSTer](https://github.com/MiSTer-devel/Arcade-Psychic5_MiSTer) | Distribution_MiSTer |  |
 | rallybike | Toaplan 1 |  | Mister - [va7deo/rallybike](https://github.com/va7deo/rallybike) | Coin-OpCollection |  |
 | riverpatrol | Taito Licensed |  | Mister - [MiSTer-devel/Arcade-RiverPatrol_MiSTer](https://github.com/MiSTer-devel/Arcade-RiverPatrol_MiSTer) | Distribution_MiSTer |  |

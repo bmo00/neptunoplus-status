@@ -2,13 +2,13 @@
 
 This report provides an overview of the supported arcade cores for the **neptUNO+** FPGA.
 
-Report generated on: 2025-05-26
+Report generated on: 2025-05-27
 
 ## 📊 Summary
 
 - **Total Cores in Local DB:** 243
-- **Supported Cores:** 108
-- **Unsupported Cores:** 135
+- **Supported Cores:** 110
+- **Unsupported Cores:** 133
 
 ---
 
@@ -114,6 +114,8 @@ Report generated on: 2025-05-26
 | pengo | Sega Z80 |  | Mister - [MiSTer-devel/Arcade-Pengo_MiSTer](https://github.com/MiSTer-devel/Arcade-Pengo_MiSTer)<br>Mist - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Namco%20Pacman%20Hardware/Pengo_MiST)<br>Sidi128 - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Namco%20Pacman%20Hardware/Pengo_MiST) | Distribution_MiSTer |  |
 | phoenix | Taito Unique |  | Mister - [MiSTer-devel/Arcade-Phoenix_MiSTer](https://github.com/MiSTer-devel/Arcade-Phoenix_MiSTer)<br>Mist - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Phoenix%20Hardware)<br>Sidi128 - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Phoenix%20Hardware) | Distribution_MiSTer |  |
 | pooyan | Konami Z80 |  | Mister - [MiSTer-devel/Arcade-Pooyan_MiSTer](https://github.com/MiSTer-devel/Arcade-Pooyan_MiSTer)<br>Mist - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Konami%20Pooyan)<br>Sidi128 - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Konami%20Pooyan) | Distribution_MiSTer |  |
+| popeye | Nintendo Arcade |  | Mister - [MiSTer-devel/Arcade-Popeye_MiSTer](https://github.com/MiSTer-devel/Arcade-Popeye_MiSTer)<br>Mister - [MiSTer-devel/Arcade-SkySkipper_MiSTer](https://github.com/MiSTer-devel/Arcade-SkySkipper_MiSTer)<br>Mist - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Nintendo%20Popeye%20Hardware/Popeye_MiST)<br>Mist - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Nintendo%20Popeye%20Hardware/SkySkipper_MiST) | Distribution_MiSTer | Popeye and Sky Skipper merged on MiSTer |
+| prehisle | SNK Unique |  | Mist - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/SNK%20M68000%20Harware/PrehistoricIsle)<br>Sidi128 - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/SNK%20M68000%20Harware/PrehistoricIsle) | Coin-OpCollection |  |
 | qbert | Konami Unique |  | Mister - [MiSTer-devel/Arcade-QBert_MiSTer](https://github.com/MiSTer-devel/Arcade-QBert_MiSTer)<br>Mist - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Gottlieb%20Qbert)<br>Sidi128 - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Gottlieb%20Qbert) | Distribution_MiSTer |  |
 | rallyx | Namco Pac-Man hardware |  | Mister - [MiSTer-devel/Arcade-RallyX_MiSTer](https://github.com/MiSTer-devel/Arcade-RallyX_MiSTer)<br>Mist - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Namco%20Rally-X%20Hardware)<br>Sidi128 - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Namco%20Rally-X%20Hardware) | Distribution_MiSTer |  |
 | robotron | Williams 1st Generation |  | Mister - [MiSTer-devel/Arcade-Robotron_MiSTer](https://github.com/MiSTer-devel/Arcade-Robotron_MiSTer)<br>Mist - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Williams%206809%20rev.1%20Hardware/Robotron%20Hardware)<br>Sidi128 - [gyurco/Mist_FPGA](https://github.com/gyurco/Mist_FPGA/tree/master/Arcade_MiST/Williams%206809%20rev.1%20Hardware/Robotron%20Hardware) | Distribution_MiSTer |  |
